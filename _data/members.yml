@@ -1,0 +1,13 @@
+ - name: Moricz Tamas
+   projects:
+    - MI
+   roles:
+    - Korvezeto
+    - Vezeto projektmenedzser
+    - MI projektvezeto
+ - name: Szi Adam
+   projects:
+    - Leap Motion
+   roles:
+    - Tanfolyamfelelos
+    - Leap Motion projektvezeto

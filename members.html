@@ -1,0 +1,13 @@
+---
+layout: default
+title: Tagok
+---
+{% for member in site.data.members %}
+  {{ member.name }}
+  {% for role in member.roles %}
+    {{ role }}
+  {% endfor %}
+  {% for project in member.projects %}
+    {{ project }}
+  {% endfor %}
+{% endfor %}
