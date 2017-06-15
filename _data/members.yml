@@ -1,13 +1,23 @@
  - name: Moricz Tamas
-   projects:
-    - MI
+   username: mormota
    roles:
     - Korvezeto
     - Vezeto projektmenedzser
     - MI projektvezeto
+   email: moricz.tamas@simonyi.bme.hu
  - name: Szi Adam
-   projects:
-    - Leap Motion
+   username: soul
    roles:
     - Tanfolyamfelelos
     - Leap Motion projektvezeto
+ - name: Bognar Marton
+   username: martonbognar
+   roles:
+    - Webfelelos
+ - name: Berke Marton
+   username: ford
+   roles:
+    - HR
+    - PR
+    - Spybot projektvezeto
+   email: berke.marton@simonyi.bme.hu
