@@ -3,7 +3,7 @@ layout: default
 title: Tagok
 ---
 {% for member in site.data.members %}
-# {{ member.name }}
+<h1 id='{{ member.username }}'>{{ member.name }}</h1>
   {% for role in member.roles %}
     {{ role }}
   {% endfor %}

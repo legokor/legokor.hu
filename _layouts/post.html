@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
-{% assign author_profile = site.data.members | where:"username",page.author %}
-{{ author_profile }}
-Irta: <a href='/tagok/{{ author_profile.name }}'>{{ author_profile.name | default: "none" }}</a>
+
+{% for member in site.data.members %}
+  {% if member.username == page.author %}
+    Irta: <a href='/tagok/#{{ member.username }}'>{{ member.name }}</a>
+  {% endif %}
+{% endfor %}
+
+{{ author }}
+
 Datum: {{ page.date | date: "%Y.%m.%d." }}
 {{ content }}

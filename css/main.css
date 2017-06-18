@@ -1,0 +1,44 @@
+*, *::before, *::after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-weight: 300;
+}
+
+html, body {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  margin: 10px auto;
+  padding: 0;
+  max-width: 1240px;
+  text-align: center;
+}
+
+nav {
+  background-color: #ff9800;
+  border-radius: 3px;
+  box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.3);
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+nav ul, nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+#article-block {
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  margin: 30px 0;
+  padding: 15px;
+}
+

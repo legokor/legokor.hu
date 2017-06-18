@@ -1,0 +1,33 @@
+<footer>
+  <div id='footer-top'>
+
+    <div class='footer-column footer-column-side'>
+      <h3>Támogatóink</h3>
+      <a href='http://hungary.ni.com'><img src='http://lego.sch.bme.hu/wp-content/themes/lego/images/ni-logo.png' alt='National Instruments'></a>
+      <a href='http://www.balluff.hu'><img src='http://lego.sch.bme.hu/wp-content/themes/lego/images/balluff-logo.png' alt='Balluff'></a>
+    </div>
+
+    <div class='footer-column footer-column-center'>
+      <h3>Elérhetőségek</h3>
+      {% for member in site.data.members %}
+        {% if member.roles contains 'Korvezeto' %}
+          {% include member-info.html username=member.username %}
+        {% endif %}
+        {% if member.roles contains 'PR' %}
+          {% include member-info.html username=member.username %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class='footer-column footer-column-side'>
+      <h3>Kövess minket!</h3>
+      <a href='https://www.facebook.com/LegoKor' class='btn btn-social btn-facebook'><div class='use-sprite'></div>Facebook</a>
+    </div>
+
+  </div>
+  <div id='footer-bottom'>
+    <a href='http://simonyi.bme.hu' class='simonyi-logo'><img src='http://lego.sch.bme.hu/wp-content/uploads/2016/11/simonyi-white-transparent.png' alt='Simonyi Károly Szakkollégium'></a>
+    <a href='http://sch.bme.hu' class='sch-logo'><img src='http://lego.sch.bme.hu/wp-content/themes/lego/images/sch-logo.png' alt='Schönherz Zoltán Kollégium'></a>
+    <p><a href='http://lego.sch.bme.hu/w/index.php?title=Kezdőlap' target='_blank'>© LEGO kör 2017</a></p>
+  </div>
+</footer>
