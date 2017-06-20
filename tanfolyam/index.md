@@ -2,11 +2,16 @@
 title: Tanfolyam
 layout: default
 ---
+* Table of contents
+{:toc}
+
 # Workshopok
 
 > A regisztrációhoz a következő a feladatod:
+>
 > Küldj egy e-mailben a következő címre: szi.adam@simonyi.bme.hu, “[LegoWorkshop] your_name” tárggyal.
-> Jelentkezési határidő: 2017. 02.18(szombat) 23:59
+> **Jelentkezési határidő: 2017. 02.18(szombat) 23:59**
+>
 > A következő tartalommal:
 >
 >  - Teljes neved

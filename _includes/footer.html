@@ -9,14 +9,9 @@
 
     <div class='footer-column footer-column-center'>
       <h3>Elérhetőségek</h3>
-      {% for member in site.data.members %}
-        {% if member.roles contains 'Korvezeto' %}
-          {% include member-info.html username=member.username %}
-        {% endif %}
-        {% if member.roles contains 'PR' %}
-          {% include member-info.html username=member.username %}
-        {% endif %}
-      {% endfor %}
+
+      {% include member-info.html username="mormota" %}
+      {% include member-info.html username="ford" %}
     </div>
 
     <div class='footer-column footer-column-side'>
