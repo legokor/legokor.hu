@@ -1,0 +1,4 @@
+collections:
+  album:
+    output: true
+    permalink: /:collection/:path/

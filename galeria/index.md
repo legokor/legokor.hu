@@ -2,4 +2,7 @@
 title: Galeria
 layout: default
 ---
-[instagram](https://instagram.com)
+
+{% for item in site.album %}
+  [{{ item.title }}](/album/{{ item.code }})
+{% endfor %}

@@ -1,0 +1,10 @@
+---
+layout: default
+---
+Album: {{ page.title }}
+
+Date: {{ page.date }}
+
+{% for image in site.data.gallery-meta[page.code] %}
+  {{ image.filename }}
+{% endfor %}
