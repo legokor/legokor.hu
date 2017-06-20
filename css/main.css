@@ -54,3 +54,7 @@ blockquote {
 strong {
   font-weight: bold;
 }
+
+img.preview {
+  max-width: 33%;
+}

@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-Album: {{ page.title }}
-
-Date: {{ page.date }}
 
 {% for image in site.data.gallery-meta[page.code] %}
-  {{ image.filename }}
+  <a href="/images/gallery/{{ page.code }}/{{ image.filename }}" data-lightbox="{{ page.code }}" data-title="{{ image.description }}">
+    <img class='preview' src="/images/gallery/{{ page.code }}/{{ image.filename }}" alt=""/>
+  </a>
 {% endfor %}
+
+<script src='/js/lightbox-plus-jquery.min.js'></script>
