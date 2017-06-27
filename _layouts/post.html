@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for member in site.data.members %}
+{% for member in site.members %}
   {% if member.username == page.author %}
     Irta: <a href='/tagok/#{{ member.username }}'>{{ member.name }}</a>
   {% endif %}
