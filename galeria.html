@@ -1,0 +1,12 @@
+---
+title: Galeria
+layout: default
+---
+
+{% for item in site.album %}
+<a href='{{ item.url }}' class='gallery-selector'>
+  <div class='gallery-box' style='background-image: url(/images/gallery/{{ item.code }}/{{ item.preview }})'>
+    <div class='gallery-title'>{{ item.title }}</div><div class='gallery-date'>{{ item.date | date: "%Y.%m.%d." }}</div>
+  </div>
+</a>
+{% endfor %}
