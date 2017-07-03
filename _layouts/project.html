@@ -8,6 +8,13 @@ layout: default
   {{ member.name }}
 {% endfor %}
 {{ content }}
+
+{% for guide in site.guides %}
+  {% if guide.projects contains page.title %}
+    <a href='{{ guide.url }}'>{{ guide.title }}</a>
+  {% endif %}
+{% endfor %}
+
 Szoftver: {{ page.software }}%
 Hardver: {{ page.hardware }}%
 Dokumentacio: {{ page.documentation }}%
