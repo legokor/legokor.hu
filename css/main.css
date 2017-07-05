@@ -55,6 +55,17 @@ strong {
   font-weight: bold;
 }
 
+#article-block h1 {
+  height: 60px;
+  background-color: orange;
+  color: #fff;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+}
+
 img.preview {
   max-width: 33%;
 }
