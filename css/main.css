@@ -44,6 +44,13 @@ nav ul, nav li {
   max-width: 800px;
 }
 
+#article-block img {
+  max-width: 100%;
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
 blockquote {
   background-color: #eeeeee;
   border-radius: 3px;
@@ -66,11 +73,18 @@ strong {
   font-size: 22px;
 }
 
+pre {
+  background-color: #404040;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  padding: 5px;
+}
+
 img.preview {
   max-width: 33%;
 }
 
-a.gallery-selector {
+a.box-wrapper {
   text-decoration: none;
 }
 
@@ -107,4 +121,41 @@ a .gallery-title {
 
 a .gallery-date {
   color: #fff;
+}
+
+.project-box {
+  height: 202px;
+  width: 360px;
+  background-size: cover;
+  display: inline-flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.project-description {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 5px;
+  color: #000;
+}
+
+.project-description h2, .project-description h3 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.project-description h2 {
+  font-size: 30px;
+}
+
+.project-description h3 {
+  font-size: 14px;
+}
+
+.project-description p {
+  color: #000;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: justify;
+  margin: 5px auto;
 }

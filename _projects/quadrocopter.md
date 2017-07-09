@@ -1,29 +1,20 @@
 ---
 layout: project
 title: Quadrocopter
+preview: quadrocopter.jpg
+introduction: Mivel egy saját Quadrocopter kifejlesztése túlmutat egy egyetemi projekt keretein, ezért egy kész egység alapot fejlesztünk tovább.
 software: 25
 hardware: 75
 documentation: 25
+leader: bdani
 members:
 - martonbognar
 ---
 
-Mivel egy saját Quadrocopter kifejlesztése túlmutat egy egyetemi projekt keretein, ezért egy kész egység alapot fejlesztünk tovább.
+A projekt célja elsősorban a Lego-kör profiljába illeszkedve a tagok villamosmérnöki és informatikai tudásának elmélyítése egy quadcopter fejlesztésén keresztül. Ez magában foglal alacsony és magas szintű szabályzási feladatokat, beágyazott rendszerek tervezését és programozását, vezetéknélküli kommunikáció implementálását, valamint PC oldali programozást. Célunk ezen tudás felhasználásával egy saját fejlesztésű copter elkészítése, ami képes önállóan feladatokat megoldani legyen szó waypoint navigációról, vagy egy felhasználó követéséről aktív ütközéselkerüléssel.
 
-Első lépés, a „Ready-to-fly” gyári multicoptert megismerni, majd elemeire szedni. A repülés menetét, a vezérlés sajátosságait alaposan tanulmányozni, megtanulni, hiszen ez elengedhetetlen ahhoz, hogy sikeres módosításokat tudjunk végrehajtani az eszközön.
+A projekt keretein belül kezdetben egy kereskedelmi forgalomban kapható quadcopter-en keresztül ismerkedtünk a témával. Kiismerve a vezérlőrendszer felépítését képesek voltunk a repülési adatokat (GPS pozíció, akkumulátorfeszültség, áramfelvétel) visszaküldeni a földiállomásra. Ezen kívül a LeapMotion projekttel együttműködve a gyári távirányítóját tovább fejlesztve a LeapMotin érzékelőinek segítségével kezünk mozgásával irányítottuk a copter-ünket. Ekkor éreztük elérkezettnek egy saját rendszer fejlesztését. Célunk volt minél elemibb egységek felhasználásával egy működő drón elkészítése. Ezt úgy specifikáltuk, hogy képes legyen nagyobb terhek mozgatására is, így később komolyabb DSLR kamera vagy kézbesítendő csomag is szállítható az eszközzel. A rendszer vezérlőelektronikájának központja egy STM32 mikrokontroller, mely a szükséges perifériák felhasználásával végzi a szabályzást. A mikrokontroller FreeRTOS operációsrendszert futtatva párhuzamosítja a feladatait. A vezérlő wifi-n vagy rádiófrekvenciás adó-vevővel tart kapcsolatot a földi irányítóeszközzel.
 
-Kezdeti fejlesztések
+Ezen kívül a projekt keretein belül foglalkozunk BLDC motorok vezérlésével, PC-s nyomkövető és irányítószoftver fejlesztésével, illetve LiPo akkumulátortöltő elektronika készítésével. Hosszútávú terveink között van saját quadcopterünk önálló feladatvégzésre való felkészítése további szenzorok felhasználásával, Androidos irányítószoftver fejlesztése, valamint a gyári quadcopterünk továbbfejlesztése.
 
-2,4 GHz-es (wifi) quadrocopter
-
-- Távirányító helyettesítése PC vagy mobil oldali vezérléssel, erre saját alkalmazás írása
-- Hatótáv növelése. Erősebb adó készítése, hogy ne csak 200-300m legyen berepülhető távolság wifivel, illetve az akkumulátor szűkös kapacitásának növelése.
-- Kamera felszerelése, FPV videók készítése. Kezdetben helyileg rögzített videókép, majd az elő kép visszaküldése a földi állomásra.
-
-Hosszú távú tervek
-
-- GPS-es segítségével megoldani, hogy a GPS jeladót kövesse az eszköz, mindenféle beavatkozás nélkül. Ezt tovább lehet fejleszteni, hogy a kamera kép alapján egy előre betanított pontot/egységet kövessen bármerre is mozogjon az.
-- Megfelelő engedélyek és fejlesztések után hosszútávú (10-15 km-es) repülések tervezése és kivitelezése.
-- Tapasztalatok alapján saját repülő egység fejlesztése.
-- Egyszerre mozgó repülők készítése, amelyek együtt, összedolgozva végeznek el egy kijelölt feladatot (pl hálóval elkapnak egy labdát)
-- Egyensúlyozó quadro: Egy rudat egyensúlyoz magán, kiváló szabályozástechnikai feladat, kihívás, és tanulási lehetőség.
+Szívesen várunk minden érdeklődőt projektünkbe, gyűléseink nyíltak bárki számára, akár nem körtagoknak is.

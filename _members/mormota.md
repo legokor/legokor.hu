@@ -5,7 +5,6 @@ username: mormota
 roles:
 - Korvezeto
 - Vezeto projektmenedzser
-- MI projektvezeto
 contact:
   email: moricz.tamas@simonyi.bme.hu
   phone: '+36702553763'

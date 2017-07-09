@@ -1,0 +1,22 @@
+---
+title: Projekek
+layout: default
+---
+
+{% for project in site.projects %}
+<a href='{{ project.url }}' class='box-wrapper'>
+  <div class='project-box' style='background-image: url(/images/projects/{{ project.preview }})'>
+    <div class='project-description'>
+      <h2>{{ project.title }}</h2>
+      <h3>
+        {% for member in site.members %}
+          {% if member.username == project.leader %}
+            Projektvezeto: {{ member.name }}
+          {% endif %}
+        {% endfor %}
+      </h3>
+      <p>{{ project.introduction }}</p>
+    </div>
+  </div>
+</a>
+{% endfor %}
