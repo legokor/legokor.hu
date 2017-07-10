@@ -1,9 +1,9 @@
-{%- for member in site.members -%}
-{%- if member.username == include.username -%}
-{%- for role in member.roles -%}{{ role }}{% unless forloop.last %}, {% endunless %}{% endfor %}
-{%- for project in site.projects -%}
-{%- if project.leader == include.username -%}
-, {{ project.title }} projektvezeto {%- unless forloop.last -%}, {% endunless %}
+{% for member in site.members %}
+{% if member.username == include.username %}
+{% for role in member.roles %}{{ role }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+{% for project in site.projects %}
+{% if project.leader == include.username %}
+, {{ project.title }} projektvezeto {% unless forloop.last %}, {% endunless %}
 {% endif %}
 {% endfor %}
 {% endif %}
