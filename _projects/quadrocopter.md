@@ -6,7 +6,7 @@ introduction: Mivel egy saját Quadrocopter kifejlesztése túlmutat egy egyetem
 software: 25
 hardware: 75
 documentation: 25
-leader: bdani
+leader: mormota
 members:
 - martonbognar
 ---

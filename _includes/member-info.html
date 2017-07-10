@@ -7,7 +7,7 @@
       <div class='info-main'>
         <h1>{{ member.name }}</h1>
         <h2>
-          {% for role in member.roles %}{{ role }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+          {% include member-roles.html username=include.username %}
         </h2>
         <ul>
           {% for item in member.contact %}

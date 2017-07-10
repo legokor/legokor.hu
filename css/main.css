@@ -80,8 +80,14 @@ pre {
   padding: 5px;
 }
 
-img.preview {
+#article-block img.preview {
   max-width: 33%;
+  display: initial;
+}
+
+.member-image {
+  max-width: 33%;
+  display: inline-block;
 }
 
 a.box-wrapper {

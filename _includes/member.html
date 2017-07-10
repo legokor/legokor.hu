@@ -1,0 +1,10 @@
+{% for member in site.members %}
+{% if member.username == include.username %}
+<div class='member-image'>
+  <img src='{{ member.image }}'>
+  <h1>{{ member.name }}</h1>
+  <h2>{% include member-roles.html username=member.username %}</h2>
+  <h3>{% for project in site.projects %}{% if project.members contains member.username or project.leader == member.username %}{{ project.title }}{% endif %}{% endfor %}</h3>
+</div>
+{% endif %}
+{% endfor %}

@@ -1,0 +1,9 @@
+---
+layout: default
+title: Tagok
+---
+{% for member in site.members %}
+<a href='{{ member.url }}' class='box-wrapper'>
+  {% include member.html username=member.username %}
+</a>
+{% endfor %}
