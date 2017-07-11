@@ -45,6 +45,12 @@ nav ul, nav li {
   max-width: 800px;
 }
 
+#article-block p {
+  color: #000;
+  font-size: 14px;
+  line-height: 16px;
+}
+
 #article-block p img {
   max-width: 100%;
   text-align: center;
@@ -209,4 +215,37 @@ a .gallery-date {
   line-height: 15px;
   text-align: justify;
   margin: 5px auto;
+}
+
+.post-preview {
+  height: 250px;
+  margin-bottom: 3%;
+  border-radius: 3px;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+}
+
+.post-preview img {
+  max-width: 250px;
+  max-height: 250px;
+  display: inline-block;
+}
+
+.post-content {
+  display: inline-block;
+  width: 300px;
+  text-align: left;
+  padding: 15px;
+}
+
+.post-content h1 {
+  font-size: 18px;
+  line-height: 21px;
+  color: #000;
+}
+
+.post-content p {
+  color: #6d6d6d;
+  font-size: 14px;
+  line-height: 15px;
 }

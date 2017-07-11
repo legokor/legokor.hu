@@ -1,5 +1,6 @@
 {% for member in site.members %}
   {% if member.username == include.username %}
+  <a href='{{ member.url }}'>
     <div class='member-info'>
       <div class='image-holder'>
         <img src='{{ member.image }}'>
@@ -16,5 +17,6 @@
         </ul>
       </div>
     </div>
+  </a>
   {% endif %}
 {% endfor %}
