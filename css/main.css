@@ -44,7 +44,7 @@ nav ul, nav li {
   max-width: 800px;
 }
 
-#article-block img {
+#article-block p img {
   max-width: 100%;
   text-align: center;
   margin: auto;
@@ -62,7 +62,7 @@ strong {
   font-weight: bold;
 }
 
-#article-block h1 {
+#article-block > h1 {
   height: 60px;
   background-color: orange;
   color: #fff;
@@ -85,9 +85,51 @@ pre {
   display: initial;
 }
 
+#leader-holder, #members-holder {
+  text-align: center;
+  vertical-align: top;
+}
+
 .member-image {
-  max-width: 33%;
+  width: 33%;
+  height: 270px;
   display: inline-block;
+  text-align: center;
+  vertical-align: top;
+}
+
+.member-image img {
+  border-radius: 50%;
+  margin: 0 auto 15px;
+  width: 150px;
+  padding: 2px;
+  border: 1px solid #fff;
+}
+
+#leader-holder .member-image > img {
+  box-shadow: 0px 0px 0px 3px #fff, 0px 0px 0px 4px #6a6a6a;
+}
+
+.member-image > h1 {
+  color: #000;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 0 auto 2px;
+}
+
+.member-image > h2 {
+  color: #ff9800;
+  font-size: 12px;
+  font-style: italic;
+  line-height: 13px;
+  margin: 0 auto 3px;
+}
+
+.member-image > h3 {
+  color: #999;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 0 auto;
 }
 
 a.box-wrapper {

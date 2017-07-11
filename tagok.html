@@ -2,8 +2,23 @@
 layout: default
 title: Tagok
 ---
+<div id='leader-holder'>
 {% for member in site.members %}
+  {% if member.roles contains "Korvezeto" %}
+  <a href='{{ member.url }}' class='box-wrapper'>
+    {% include member.html username=member.username %}
+  </a>
+  {% endif %}
+{% endfor %}
+</div>
+
+<div id='members-holder'>
+{% for member in site.members %}
+{% if member.roles contains "Korvezeto" %}
+{% else %}
 <a href='{{ member.url }}' class='box-wrapper'>
   {% include member.html username=member.username %}
 </a>
+{% endif %}
 {% endfor %}
+</div>
