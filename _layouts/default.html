@@ -1,29 +1,6 @@
-<!doctype html>
-<html>
-  <head>
-    <title>{{ page.title }} | LEGO</title>
-    <link rel='stylesheet' href='/css/highlight.css' type='text/css'>
-    <link rel='stylesheet' href='/css/main.css' type='text/css'>
-    <link rel='stylesheet' href='/css/footer.css' type='text/css'>
-    <link rel='stylesheet' href='/css/member-info.css' type='text/css'>
-    <link rel='stylesheet' href='/css/lightbox.css'>
-    <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,500&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-  </head>
-  <body>
-    <nav>
-      <ul>
-        <li><a href='/rolunk/'>Rólunk</a></li>
-        <li><a href='/galeria/'>Galéria</a></li>
-        <li><a href='/projektek/'>Projektek</a></li>
-        <li><a href='/cikkek/'>Cikkek</a></li>
-        <li><a href='/tagok/'>Tagok</a></li>
-        <li><a href='/tudasbazis/'>Tudasbazis</a></li>
-        <li><a href='/tanfolyam/'>Tanfolyam</a></li>
-      </ul>
-    </nav>
-    <div id='article-block'>
-      {{ content }}
-    </div>
-    {% include footer.html %}
-  </body>
-</html>
+---
+layout: default-wide
+---
+<div id='article-block'>
+  {{ content }}
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-wide
 title: Cikkek
 ---
 {% for post in site.posts %}
