@@ -3,9 +3,7 @@ layout: project
 title: Quadrocopter
 preview: quadrocopter.jpg
 introduction: Mivel egy saját Quadrocopter kifejlesztése túlmutat egy egyetemi projekt keretein, ezért egy kész egység alapot fejlesztünk tovább.
-software: 25
-hardware: 75
-documentation: 25
+complete: false
 leader: mormota
 members:
 - martonbognar

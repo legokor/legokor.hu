@@ -22,6 +22,8 @@ layout: default
   {% endif %}
 {% endfor %}
 
-Szoftver: {{ page.software }}%
-Hardver: {{ page.hardware }}%
-Dokumentacio: {{ page.documentation }}%
+{% if site.complete %}
+Kesz projekt
+{% else %}
+A projekt jelenleg is aktiv!
+{% endif %}
