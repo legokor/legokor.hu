@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1>{{ page.name }}</h1>
-<img src='{{ page.image }}'>
+<img src='{{ page.image | default: "http://lego.sch.bme.hu/wp-content/uploads/2016/06/avatar-150x150.png" }}'>
 <h2>
   {% include member-roles.html username=page.username %}
 </h2>

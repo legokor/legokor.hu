@@ -1,10 +1,10 @@
 ---
 layout: user
-name: Moricz Tamas
-username: mormota
+name: Móricz Tamás
+username: moricz-tamas
 roles:
-- Korvezeto
-- Vezeto projektmenedzser
+- Körvezető
+- Vezető projektmenedzser
 contact:
   email: moricz.tamas@simonyi.bme.hu
   phone: '+36702553763'
