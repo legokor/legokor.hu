@@ -3,7 +3,7 @@
 {% for role in member.roles %}{{ role }}{% unless forloop.last %}, {% endunless %}{% endfor %}
 {% for project in site.projects %}
 {% if project.leader == include.username %}
-, {{ project.title }} projektvezeto {% unless forloop.last %}, {% endunless %}
+, {{ project.title }} projektvezető {% unless forloop.last %}, {% endunless %}
 {% endif %}
 {% endfor %}
 {% endif %}
