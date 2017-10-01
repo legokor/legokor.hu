@@ -2,12 +2,26 @@
 layout: default
 ---
 <h1>{{ page.name }}</h1>
+<div class='member-profile'>
 <img src='{{ page.image | default: "http://lego.sch.bme.hu/wp-content/uploads/2016/06/avatar-150x150.png" }}'>
 <h2>
   {% include member-roles.html username=page.username %}
 </h2>
 <ul>
+<!-- 
   {% for item in page.contact %}
     <li>{{ item[1] }}</li>
   {% endfor %}
+   -->
+  {% if page.contact.email %}
+  	<a href="mailto:{{ page.contact.email }}"><li id='email'> {{ page.contact.email }} </li></a>
+  {% endif %}
+  {% if page.contact.phone %}
+  	<li id='phone'> {{ page.contact.phone }} </li>
+  {% endif %}
 </ul>
+<p>
+	{{ page.content }}
+</p>
+</div>
+
