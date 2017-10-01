@@ -12,3 +12,9 @@ collections:
   guides:
     output: true
     permalink: /:collection/:path/
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from

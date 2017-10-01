@@ -17,11 +17,15 @@ layout: default-wide
       </h3>
       <p>{{ project.introduction }}</p>
     </div>
+    <div class="status">
+    <p>
     {% if project.complete %}
       Kesz projekt
     {% else %}
       A projekt jelenleg is aktiv!
     {% endif %}
+    </p>
+    </div>
   </div>
 </a>
 {% endfor %}
