@@ -65,8 +65,7 @@ nav img {
 }
 
 #article-block {
-  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
-  border-radius: 3px;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin: 30px auto;
   padding: 15px;
   text-align: justify;
@@ -89,7 +88,7 @@ nav img {
 blockquote {
   background-color: #eeeeee;
   border-radius: 3px;
-  box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.3);
+  box-shadow:0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 10px;
 }
 
@@ -111,7 +110,7 @@ strong {
 
 pre {
   background-color: #404040;
-  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  box-shadow:0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 3px;
   padding: 5px;
 }
@@ -176,7 +175,7 @@ pre {
 .member-profile img {
   border: #95989A;
   border-radius: 50%;
-  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   float: left;
   margin: 0px 70px 15px 15px;
   width: 200px; 
@@ -225,8 +224,10 @@ a.box-wrapper {
 }
 
 .gallery-box {
+  margin: 20px;
   height: 202px;
   width: 360px;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   background-size: cover;
   display: inline-flex;
   justify-content: center;
@@ -268,7 +269,7 @@ a .gallery-date {
   justify-content: center;
   align-items: flex-start;
   border-radius: 3px;
-  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .project-description {
@@ -306,7 +307,7 @@ a .gallery-date {
 .post-preview {
   margin: 10px;
   border-radius: 3px;
-  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   display: inline-block;
   vertical-align: top;
 }
