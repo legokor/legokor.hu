@@ -53,6 +53,13 @@
   width: auto;
 }
 
+@media screen and (max-width: 450px) {
+  .member-info h2 {
+    display: block;
+    margin: 0;
+  }
+}
+
 /*
 .image-holder {
   width: 12%;

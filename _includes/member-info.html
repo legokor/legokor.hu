@@ -6,27 +6,6 @@
         <img src='{{ member.image | default: "http://lego.sch.bme.hu/wp-content/uploads/2016/06/avatar-150x150.png" }}'>
       </div>
       <div class='info-main'>
-        <!-- <table>
-          <tr>
-            <td>
-            <h1>{{ member.name }}</h1>
-            </td>
-            <td rowspan="2">
-              <ul>
-              {% for item in member.contact %}
-                <li>{{ item[1] }}</li>
-              {% endfor %}
-              </ul>
-            </td>
-          </tr>
-          <tr>
-            <td>
-            <h2>
-              {% include member-roles.html username=include.username %}
-            </h2>
-            </td>
-          </tr>
-        </table> -->
         <h1>{{ member.name }}</h1>
         <h2>
           {% include member-roles.html username=include.username %}
