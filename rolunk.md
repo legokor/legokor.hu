@@ -1,4 +1,5 @@
 ---
+redirect_from: "/"
 title: Rolunk
 layout: default
 ---
