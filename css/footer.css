@@ -4,7 +4,7 @@ footer {
   border-radius: 3px;
   box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
   height: 300px;
-  margin: 50px 20px 20px 20px;
+  margin: 50px 5px 5px 5px;
 }
 
 footer a, footer a:visited {
@@ -139,7 +139,7 @@ footer a, footer a:visited {
     position: static;
   }
   
-  .footer-column-middle {
+  .footer-column-center {
     margin-bottom: 30px;
   }
   
@@ -168,10 +168,14 @@ footer a, footer a:visited {
   a.sch-logo {
     float: right;
   }
+
+  a.simonyi-logo {
+    padding: 0;
+  }
 }
 
 @media screen and (max-width: 500px) {
-  .footer-column-middle {
+  .footer-column-center {
     display: block;
   }
   
