@@ -24,18 +24,15 @@ Szintaktika: `inline <visszatérési típus> <függvény név> (<paraméterek>)`
 Példa:
 
 ```c
-inline void Turn (int power, int time)
-{
-OnFwd(OUT_AC, power);
-Wait(time);
+inline void Turn(int power, int time) {
+  OnFwd(OUT_AC, power);
+  Wait(time);
 }
 
-
-task main ()
-{
-// ...
-Turn (75, 500);
-// ...
+task main() {
+  // ...
+  Turn (75, 500);
+  // ...
 }
 ```
 
@@ -54,22 +51,19 @@ Szintaktika: `sub <szubrutin név> (<paraméterek>)`
 Példa:
 
 ```c
-sub Evade (int pwr)
-{
-Off (OUT_AC);
-OnRev(OUT_A, pwr); Wait(500);
-OnFwd(OUT_AC, pwr); Wait(500);
-Off (OUT_AC);
-OnRev(OUT_C, pwr); Wait(500);
-Off (OUT_AC);
+sub Evade(int pwr) {
+  Off (OUT_AC);
+  OnRev(OUT_A, pwr); Wait(500);
+  OnFwd(OUT_AC, pwr); Wait(500);
+  Off (OUT_AC);
+  OnRev(OUT_C, pwr); Wait(500);
+  Off (OUT_AC);
 }
 
-
-task main ()
-{
-// ...
-Evade (75);
-// ...
+task main() {
+  // ...
+  Evade(75);
+  // ...
 }
 ```
 
@@ -115,29 +109,25 @@ biztosan nem a helyes, elvárt működésre vezet.
 Vegyük először is a két taskot:
 
 ```c
-task move_square()
-{
-while (true)
-{
-OnFwd(OUT_AC, 75); Wait(1000);
-OnRev(OUT_C, 75); Wait(500);
+task move_square() {
+  while (true) {
+    OnFwd(OUT_AC, 75); Wait(1000);
+    OnRev(OUT_C, 75); Wait(500);
+  }
 }
+
+task check_sensors() {
+  while (true) {
+    if (SENSOR_1 == 1) {
+      OnRev(OUT_AC, 75); Wait(500);
+      OnFwd(OUT_A, 75); Wait(500);
+    }
+  }
 }
-task check_sensors()
-{
-while (true)
-{
-if (SENSOR_1 == 1)
-{
-OnRev(OUT_AC, 75); Wait(500);
-OnFwd(OUT_A, 75); Wait(500);
-}
-}
-}
-task main()
-{
-Precedes(move_square, check_sensors);
-SetSensorTouch(IN_1);
+
+task main() {
+  Precedes(move_square, check_sensors);
+  SetSensorTouch(IN_1);
 }
 ```
 
@@ -173,30 +163,27 @@ látható:
 
 ```c
 bool semaphor = false;
-task move_square()
-{
-while (true)
-{
-until(semaphor);
-semaphor = true;
-OnFwd(OUT_AC, 75); Wait(1000);
-OnRev(OUT_C, 75); Wait(500);
-semaphor = false;
+
+task move_square() {
+  while (true) {
+    until(semaphor);
+    semaphor = true;
+    OnFwd(OUT_AC, 75); Wait(1000);
+    OnRev(OUT_C, 75); Wait(500);
+    semaphor = false;
+  }
 }
-}
-task check_sensors()
-{
-while (true)
-{
-if (SENSOR_1 == 1)
-{
-until(semaphor);
-semaphor = true;
-OnRev(OUT_AC, 75); Wait(500);
-OnFwd(OUT_A, 75); Wait(500);
-semaphor = false;
-}
-}
+
+task check_sensors() {
+  while (true) {
+    if (SENSOR_1 == 1) {
+      until(semaphor);
+      semaphor = true;
+      OnRev(OUT_AC, 75); Wait(500);
+      OnFwd(OUT_A, 75); Wait(500);
+      semaphor = false;
+    }
+  }
 }
 ```
 
@@ -215,28 +202,25 @@ EXclusion = kölcsönös kizárás) kulcsszóval lehet elérni. Az ilyen típus�
 
 ```c
 mutex semaphor;
-task move_square()
-{
-while (true)
-{
-Acquire(semaphor);
-OnFwd(OUT_AC, 75); Wait(1000);
-OnRev(OUT_C, 75); Wait(500);
-Release(semaphor);
+
+task move_square() {
+  while (true) {
+    Acquire(semaphor);
+    OnFwd(OUT_AC, 75); Wait(1000);
+    OnRev(OUT_C, 75); Wait(500);
+    Release(semaphor);
+  }
 }
-}
-task check_sensors()
-{
-while (true)
-{
-if (SENSOR_1 == 1)
-{
-Acquire(semaphor);
-OnRev(OUT_AC, 75); Wait(500);
-OnFwd(OUT_A, 75); Wait(500);
-Release(semaphor);
-}
-}
+
+task check_sensors() {
+  while (true) {
+    if (SENSOR_1 == 1) {
+      Acquire(semaphor);
+      OnRev(OUT_AC, 75); Wait(500);
+      OnFwd(OUT_A, 75); Wait(500);
+      Release(semaphor);
+    }
+  }
 }
 ```
 
