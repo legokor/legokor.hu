@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LEGO Tanfolyam: Programozás 2
+title: "LEGO Tanfolyam: Programozás 2"
 ---
 
 # LEGO Tanfolyam: Programozás 2
@@ -296,7 +296,7 @@ bemutatni:
 - Szubrutin
 
   + deklarálás: `sub név(paraméterek) {...}`
-  + hívás: `név (paraméterek);`
+  + hívás: `név(paraméterek);`
 - Szemafor
 
   + bool-ra várakozás: `until (szemafor);` a szemafor false értékéig vár.

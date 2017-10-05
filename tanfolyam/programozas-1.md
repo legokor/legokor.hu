@@ -1,5 +1,5 @@
 ---
-title: LEGO Tanfolyam: Programozás 1
+title: "LEGO Tanfolyam: Programozás 1"
 layout: default
 ---
 
@@ -12,7 +12,7 @@ A tanfolyamalkalmak során a Bricx Command Centert használjuk az NXT programoz�
 - Alapesetben nem ismeri magyar billentyűzetkiosztással a `;`-t, ami igazán kellemetlen. Ezen viszont egy makró beállításával könnyen lehet segíteni:
 
   Felső menüpontokból View → Macro manager → Create, majd illeszük be a következő kódrészletet:
-  ```
+  ```c
   macro ;
   begin
     ecString ';'
