@@ -1,6 +1,6 @@
 ---
 layout: default
-title: prog2
+title: LEGO Tanfolyam: Programozás 2
 ---
 
 # LEGO Tanfolyam: Programozás 2
@@ -53,10 +53,18 @@ Példa:
 ```c
 sub Evade(int pwr) {
   Off (OUT_AC);
-  OnRev(OUT_A, pwr); Wait(500);
-  OnFwd(OUT_AC, pwr); Wait(500);
+
+  OnRev(OUT_A, pwr);
+  Wait(500);
+
+  OnFwd(OUT_AC, pwr);
+  Wait(500);
+
   Off (OUT_AC);
-  OnRev(OUT_C, pwr); Wait(500);
+
+  OnRev(OUT_C, pwr);
+  Wait(500);
+
   Off (OUT_AC);
 }
 
@@ -111,16 +119,22 @@ Vegyük először is a két taskot:
 ```c
 task move_square() {
   while (true) {
-    OnFwd(OUT_AC, 75); Wait(1000);
-    OnRev(OUT_C, 75); Wait(500);
+    OnFwd(OUT_AC, 75);
+    Wait(1000);
+
+    OnRev(OUT_C, 75);
+    Wait(500);
   }
 }
 
 task check_sensors() {
   while (true) {
-    if (SENSOR_1 == 1) {
-      OnRev(OUT_AC, 75); Wait(500);
-      OnFwd(OUT_A, 75); Wait(500);
+    if (Sensor(IN_1) == 1) {
+      OnRev(OUT_AC, 75);
+      Wait(500);
+
+      OnFwd(OUT_A, 75);
+      Wait(500);
     }
   }
 }
@@ -168,19 +182,29 @@ task move_square() {
   while (true) {
     until(semaphor);
     semaphor = true;
-    OnFwd(OUT_AC, 75); Wait(1000);
-    OnRev(OUT_C, 75); Wait(500);
+
+    OnFwd(OUT_AC, 75);
+    Wait(1000);
+
+    OnRev(OUT_C, 75);
+    Wait(500);
+
     semaphor = false;
   }
 }
 
 task check_sensors() {
   while (true) {
-    if (SENSOR_1 == 1) {
+    if (Sensor(IN_1) == 1) {
       until(semaphor);
       semaphor = true;
-      OnRev(OUT_AC, 75); Wait(500);
-      OnFwd(OUT_A, 75); Wait(500);
+
+      OnRev(OUT_AC, 75);
+      Wait(500);
+
+      OnFwd(OUT_A, 75);
+      Wait(500);
+
       semaphor = false;
     }
   }
@@ -206,18 +230,28 @@ mutex semaphor;
 task move_square() {
   while (true) {
     Acquire(semaphor);
-    OnFwd(OUT_AC, 75); Wait(1000);
-    OnRev(OUT_C, 75); Wait(500);
+
+    OnFwd(OUT_AC, 75);
+    Wait(1000);
+
+    OnRev(OUT_C, 75);
+    Wait(500);
+
     Release(semaphor);
   }
 }
 
 task check_sensors() {
   while (true) {
-    if (SENSOR_1 == 1) {
+    if (Sensor(IN_1) == 1) {
       Acquire(semaphor);
-      OnRev(OUT_AC, 75); Wait(500);
-      OnFwd(OUT_A, 75); Wait(500);
+
+      OnRev(OUT_AC, 75);
+      Wait(500);
+
+      OnFwd(OUT_A, 75);
+      Wait(500);
+
       Release(semaphor);
     }
   }
@@ -242,31 +276,31 @@ bemutatni:
   A szinkronizációs változó -100 – 100 között változhat, ahol a 0 értéknél forog ugyanazzal a sebességgel ugyanarra, míg a két végértéknél egyenlő sebességgel, de ellentétes irányba forog a motor.
 
   Természetesen létezik az `OnRevSync(...)` is, illetve a motorokat ugyanúgy az `Off(...)` paranccsal lehet lekapcsolni.
-- ENCODER
+- Encoder
 
   Minden egyes motor rendelkezik encoder-rel. Ez egy olyan fém tárcsa, amelyen különböző fekete osztások vannak. Ezt az egyik irányból megvilágítva, majd a visszaverődést vagy épp annak hiányát érzékelve meghatározható, hogy a motor nagyjából hány fokot fordult el.
 
   Függvények:
 
-  + `ResetTachoCount (PORT)` – az adott porton lévő encoder-t állítja 0-ra.
-  + `MotorTachoCount (PORT)` – Az adott porton lévő encoder állapotát kéri le.
-  + `RotateMotor (PORT, sebesség, fok)` – Az adott porton lévő motort forgatja foknyi encoder jelig a megadott sebességgel. Nem túlságosan pontos a róver tehetetlensége miatt!
+  + `ResetTachoCount(PORT)` – az adott porton lévő encoder-t állítja 0-ra.
+  + `MotorTachoCount(PORT)` – Az adott porton lévő encoder állapotát kéri le.
+  + `RotateMotor(PORT, sebesség, fok)` – Az adott porton lévő motort forgatja foknyi encoder jelig a megadott sebességgel. Nem túlságosan pontos a róver tehetetlensége miatt!
 - Task
 
-  + deklaráció: `task név (){...}`
+  + deklaráció: `task név() {...}`
   + egy indítása: `start név;`
   + egy megállítása: `stop név;`
-  + párhuzamos indítás: `Precedes (task1, task2, task3, ...);`
-  + minden futó task megállítása: `StopAllTasks ();`
+  + párhuzamos indítás: `Precedes(task1, task2, task3, ...);`
+  + minden futó task megállítása: `StopAllTasks();`
   + kilépés aktuális taskból másikba: `ExitTo (új_task);`
 - Szubrutin
 
-  + deklarálás: `sub név (paraméterek){...}`
+  + deklarálás: `sub név(paraméterek) {...}`
   + hívás: `név (paraméterek);`
 - Szemafor
 
   + bool-ra várakozás: `until (szemafor);` a szemafor false értékéig vár.
   + mutex:
     - deklarálás: `mutex változó_név;`
-    - lefoglalás: `Acquire (szemafor);`
-    - elengedés: `Release (szemafor);`
+    - lefoglalás: `Acquire(szemafor);`
+    - elengedés: `Release(szemafor);`
