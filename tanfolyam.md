@@ -77,7 +77,7 @@ A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok Rovere
 A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
 
  - [2017\. 10. 05. 18:00 – 20:00 @SCH 103](epites)
- - 2017\. 10. 12. 18:00 – 20:00 @SCH 103
- - 2017\. 10. 19. 18:00 – 20:00 @SCH 103
+ - [2017\. 10. 12. 18:00 – 20:00 @SCH 103](programozas-1)
+ - [2017\. 10. 19. 18:00 – 20:00 @SCH 103](programozas-2)
  - 2017\. 10. 26. 18:00 – 20:00 @SCH 103
  - 2017\. 11. 02. 18:00 – 20:00 @SCH 103 – Vizsga
