@@ -20,6 +20,7 @@ A tanfolyamalkalmak során a Bricx Command Centert használjuk az NXT programoz�
   ```
   Ezek után ha a makróhoz hozzárendeljük a pontosvesszőhöz tartozó billentyûkombinációt már tudunk is ;-t írni.
 - Ahhoz, hogy a kódot le tudjuk fordítani, először egyszer el kell menteni, különben hibát dob a fordító.
+- Szükséges szoftverek: [NXT Phantom Driver](https://drive.google.com/file/d/0B6woiJSRfjnbVEVnR3pvUzNudG8/view), [Bricx CC](https://sourceforge.net/projects/bricxcc/files/bricxcc/)
 
 ## Bevezetés
 
