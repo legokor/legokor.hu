@@ -181,7 +181,7 @@ bool semaphor = false;
 task move_square() {
   while (true) {
     until(semaphor);
-    semaphor = true;
+    semaphor = false;
 
     OnFwd(OUT_AC, 75);
     Wait(1000);
@@ -189,7 +189,7 @@ task move_square() {
     OnRev(OUT_C, 75);
     Wait(500);
 
-    semaphor = false;
+    semaphor = true;
   }
 }
 
@@ -197,7 +197,7 @@ task check_sensors() {
   while (true) {
     if (Sensor(IN_1) == 1) {
       until(semaphor);
-      semaphor = true;
+      semaphor = false;
 
       OnRev(OUT_AC, 75);
       Wait(500);
@@ -205,7 +205,7 @@ task check_sensors() {
       OnFwd(OUT_A, 75);
       Wait(500);
 
-      semaphor = false;
+      semaphor = true;
     }
   }
 }
