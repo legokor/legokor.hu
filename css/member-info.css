@@ -1,6 +1,9 @@
 .member-info {
-  padding: 0 0 0 0;
+  padding: 0 0 0 80px;
+  margin: 0 0 20px 0;
   text-align: left;
+  position: relative;
+  min-height: 60px;
 }
 
 .member-info div {
@@ -10,10 +13,12 @@
 }
 
 .member-info img {
+  max-width: 95% !important;
+  position: absolute;
   border-radius: 50%;
-  display: block;
-  margin: 0 10px 0 0;
+  left: 0;
   width: 60px;
+  height: 60px;
   padding: 2px;
   border: 1px solid #fff;
 }
@@ -22,8 +27,9 @@
   color: #fff;
   display: inline;
   font-size: 16px;
-  margin-bottom: 3px;
   overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .member-info h2 {
@@ -31,7 +37,10 @@
   font-size: 12px;
   font-style: italic;
   line-height: 13px;
-  margin-bottom: 5px;
+  margin-bottom: 5px;  
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .member-info ul {
@@ -42,10 +51,15 @@
   font-size: 14px;
 }
 
+.member-info li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .info-main {
   float: none;
   height: auto;
-  margin-bottom: 20px;
   max-width: 100%;
   padding: 0;
   position: relative;
@@ -53,24 +67,10 @@
   width: auto;
 }
 
+
 @media screen and (max-width: 450px) {
   .member-info h2 {
     display: block;
     margin: 0;
   }
 }
-
-/*
-.image-holder {
-  width: 12%;
-  min-width: 60px;
-}
-
-.info-main {
-  width: 87%;
-}
-
-.info-main table {
-  table-layout: fixed;
-  width: 100%;
-}*/
