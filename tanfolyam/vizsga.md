@@ -16,4 +16,14 @@ A feladatok a következők:
 3. Merőleges parkolás: vonalkövetés közben a jármű egyik oldalán parkoló akadályok helyezkednek el. Valahol az út során van egy akkora szabad hely, ahova merőlegesen befordulva elfér a jármű. A jármű hátulján el kell helyezni egy szenzort (touch), amely képes érzékelni, ha a jármű eléri a hátulsó falat, ekkor meg kell állni. A parkolás elvégzése után megadott idő után vissza kell térni az útra és folytatni a vonalkövetést.
 4. Doboz követése: egy egyenes vonalon kell haladni a járművel olyan sebességgel, hogy az előtte húzott dobozig mért távolságot fixen tartsa.
 
-[Vizsgára készülésre jelentkezés](https://docs.google.com/spreadsheets/d/1hk7Kw0AXFqhzuaxOmD1ykcI7PW7ubCejTrMCFl0Nqc8/edit?usp=sharing)
+## Feladatmegoldás
+
+|   | R | G | B |
+|---|---|---|---|
+| Vonalkövetés | ✖ | ✖ | ✖ |
+| Labirintus | ✖ | ✖ | ✖ |
+| Parkolás | ✖ | ✖ | ✖ |
+| Dobozkövetés | ✖ | ✖ | ✖ |
+| Teljes pálya | ✖ | ✖ | ✖ |
+| Feltöltött kód | ✖ | ✖ | ✖ |
+| Kitöltött kérdőív | ✖ | ✖ | ✖ |
