@@ -190,7 +190,7 @@ pre {
   background-repeat: no-repeat;
 }
 
-.member-profile li#phone { 
+.member-profile li#phone {
   list-style-type: none;
   padding-left: 1.5em;
   background-image: url(/images/phone_icon.svg);
@@ -355,4 +355,9 @@ a .gallery-date {
     display: block;
     text-align: left;
   }
+}
+
+table {
+  border-spacing: 10px;
+  border-collapse: separate;
 }

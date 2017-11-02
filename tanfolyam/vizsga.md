@@ -18,12 +18,12 @@ A feladatok a következők:
 
 ## Feladatmegoldás
 
-|   | R | G | B |
+| 🙉 | R | G | B |
 |---|---|---|---|
-| Vonalkövetés | ✖ | ✖ | ✖ |
-| Labirintus | ✖ | ✖ | ✖ |
+| Vonalkövetés | ☺ 0:26 | ☺ 1:40 | ☺ 0:58 |
+| Labirintus | ✓ 0:30 | ☺ 0:41 | ✖ |
 | Parkolás | ✖ | ✖ | ✖ |
-| Dobozkövetés | ✖ | ✖ | ✖ |
+| Dobozkövetés | ✓ | ✓ | ✓ |
 | Teljes pálya | ✖ | ✖ | ✖ |
 | Feltöltött kód | ✖ | ✖ | ✖ |
-| Kitöltött kérdőív | ✖ | ✖ | ✖ |
+| Kitöltött [kérdőív](https://goo.gl/forms/H6eJts9b3cBlmmp62) | ✖ | ✖ | ✖ |
