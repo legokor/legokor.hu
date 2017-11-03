@@ -25,5 +25,5 @@ A feladatok a következők:
 | Parkolás | ✖ | ✖ | ✖ |
 | Dobozkövetés | ✓ | ✓ | ✓ |
 | Teljes pálya | ✖ | ✖ | ✖ |
-| Feltöltött kód | ✖ | ✖ | ✖ |
-| Kitöltött [kérdőív](https://goo.gl/forms/H6eJts9b3cBlmmp62) | ✖ | ✖ | ✖ |
+| Feltöltött kód | ✖ | ✖ | ☺ |
+| Kitöltött [kérdőív](https://goo.gl/forms/H6eJts9b3cBlmmp62) | ✖ | ☺ | ✖ |
