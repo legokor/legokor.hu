@@ -1,5 +1,5 @@
 ---
-title: Projekek
+title: Projektek
 layout: default-wide
 ---
 
@@ -7,24 +7,25 @@ layout: default-wide
 <a href='{{ project.url }}' class='box-wrapper'>
   <div class='project-box' style='background-image: url(/images/projects/{{ project.preview }})'>
     <div class='project-description'>
-      <h2>{{ project.title }}</h2>
-      <h3>
+      {{ project.introduction }}
+    </div>
+    <div class='project-title-box'>
+      <div class='project-title'>
+        {{ project.title }}
+        <br>
         {% for member in site.members %}
           {% if member.username == project.leader %}
-            Projektvezeto: {{ member.name }}
+            Projektvezető: {{ member.name }}
           {% endif %}
         {% endfor %}
-      </h3>
-      <p>{{ project.introduction }}</p>
-    </div>
-    <div class="status">
-    <p>
-    {% if project.complete %}
-      Kesz projekt
-    {% else %}
-      A projekt jelenleg is aktiv!
-    {% endif %}
-    </p>
+      </div>
+      <div class='project-status'>
+          {% if project.complete %}
+          Kész projekt
+          {% else %}
+          <span id='green'>A projekt jelenleg is aktív!</span>
+          {% endif %}
+      </div>
     </div>
   </div>
 </a>
