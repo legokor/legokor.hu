@@ -4,7 +4,11 @@
   <img src='{{ member.image | default: "http://lego.sch.bme.hu/wp-content/uploads/2016/06/avatar-150x150.png" }}'>
   <h1>{{ member.name }}</h1>
   <h2>{% include member-roles.html username=member.username %}</h2>
-  <h3>{% for project in site.projects %}{% if project.members contains member.username or project.leader == member.username %}{{ project.title }}{% endif %}{% endfor %}</h3>
+  {% for project in site.projects %}
+  	{% if project.members contains member.username or project.leader == member.username %}
+  		<h3>{{ project.title }}</h3>
+  	{% endif %}
+  {% endfor %}
 </div>
 {% endif %}
 {% endfor %}

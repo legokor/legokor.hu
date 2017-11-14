@@ -110,6 +110,29 @@ pre {
   vertical-align: top;
 }
 
+#leader-holder h3 {
+  display: none;
+}
+
+.proj-members #members-holder h2, .proj-members #members-holder h3 {
+  display: none;
+}
+
+#complete, #inprogress {
+  margin-top: -15px;
+  text-align: center;
+  font-style: italic;
+}
+
+#complete {
+  color: #aaa;
+}
+
+#inprogress {
+  color: #8f8;
+  font-weight: bold;
+}
+
 .member-image {
   width: 33%;
   min-width: 170px;
@@ -146,7 +169,7 @@ pre {
   margin: 0 auto 3px;
 }
 
-.member-image > h3 {
+.member-image > h3, .proj-members #leader-holder h2 {
   color: #999;
   font-size: 16px;
   line-height: 18px;

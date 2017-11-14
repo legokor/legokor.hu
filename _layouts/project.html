@@ -3,27 +3,52 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-{% assign members = site.members | where_exp:"item", "page.members contains item.username" %}
-<ul>
-{% for member in site.members %}
-{% if member.username == page.leader %}
-  <li>{{ member.name }}</li>
-{% endif %}
-{% endfor %}
-{% for member in members %}
-  <li>{{ member.name }}</li>
-{% endfor %}
-</ul>
-{{ content }}
-
-{% for guide in site.guides %}
-  {% if guide.projects contains page.title %}
-    <a href='{{ guide.url }}'>{{ guide.title }}</a>
-  {% endif %}
-{% endfor %}
 
 {% if site.complete %}
-Kesz projekt
+<div id="complete">Kész projekt</div>
 {% else %}
-A projekt jelenleg is aktiv!
+<div id="inprogress">A projekt jelenleg is aktív!</div>
 {% endif %}
+
+{{ content }}
+
+{% if site.guides %}
+	{% for guide in site.guides %}
+		{% if guide.projects contains page.title %}
+			{% if forloop.first %}
+			<h1>Tudásbázis</h1>
+			<ul>
+			{% endif %}
+			<li><a href='{{ guide.url }}'>{{ guide.title }}</a></li>
+			{% if forloop.last %}
+			</ul>
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+{% endif %}
+
+<h1>Tagok</h1>
+{% assign members = site.members | where_exp:"item", "page.members contains item.username" %}
+<div class="proj-members">
+	<div id='leader-holder'>
+	{% for member in site.members %}
+		{% if member.username == page.leader %}
+			<a href='{{ member.url }}' class='box-wrapper'>
+			<div class='member-image'>
+			  <img src='{{ member.image | default: "http://lego.sch.bme.hu/wp-content/uploads/2016/06/avatar-150x150.png" }}'>
+			  <h1>{{ member.name }}</h1>
+			  <h2>Projektvezető</h2>
+			</div>
+			</a>
+		{% endif %}
+	{% endfor %}
+	</div>
+
+	<div id='members-holder'>
+	{% for member in members %}
+		<a href='{{ member.url }}' class='box-wrapper'>
+		  {% include member.html username=member.username projects=true %}
+		</a>
+	{% endfor %}
+	</div>
+</div>

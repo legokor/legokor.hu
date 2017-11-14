@@ -16,8 +16,8 @@
   max-width: 95% !important;
   position: absolute;
   border-radius: 50%;
+  top: calc(calc(100% - 60px) / 2);
   left: 0;
-  width: 60px;
   height: 60px;
   padding: 2px;
   border: 1px solid #fff;
@@ -68,7 +68,7 @@
 }
 
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 1100px) {
   .member-info h2 {
     display: block;
     margin: 0;
