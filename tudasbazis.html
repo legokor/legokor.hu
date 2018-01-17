@@ -9,7 +9,7 @@ title: Tudasbazis
   {% for guide in site.guides %}
     <li>
     	<a href='{{ guide.url }}'>{{ guide.title }}</a>
-    	{% for project in guide.projects %}{% if forloop.first %}({% endif %}{{ project }}{% if forloop.last %}){% else %}, {% endif %}{% endfor %}
+    	<p>{% for project in guide.projects %}{% if forloop.first %}({% endif %}{{ project }}{% if forloop.last %}){% else %}, {% endif %}{% endfor %}</p>
     </li>
   {% endfor %}
 </ul>

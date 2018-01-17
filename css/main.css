@@ -390,22 +390,16 @@ a .gallery-date, a .project-status {
   line-height: 15px;
 }
 
-ul.guides-list {
-  list-style: none;
-  padding-left: 0;
-  margin-left: 0;
-}
-
-ul.guides-list > li {
-  padding-left: 1em;
-}
-
-ul.guides-list > li:before {
-  content: "• ";
+ul.guides-list, #markdown-toc {
   color: orange;
 }
 
-ul.guides-list a {
+ul.guides-list p, #markdown-toc p{
+  color: black;
+  display: inline;
+}
+
+ul.guides-list a, #markdown-toc a{
   text-decoration: none;
   color: #6a6a6a;
 }
