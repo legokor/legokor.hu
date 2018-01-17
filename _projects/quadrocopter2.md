@@ -3,10 +3,10 @@ layout: project
 title: Quadrocopter
 preview: quadrocopter.jpg
 introduction: Mivel egy saját Quadrocopter kifejlesztése túlmutat egy egyetemi projekt keretein, ezért egy kész egység alapot fejlesztünk tovább.
-complete: false
-leader: goczan-bence
+complete: true
+leader: bognar-marton
 members:
-- bognar-marton
+- schantzl-richard
 ---
 
 A projekt célja elsősorban a Lego-kör profiljába illeszkedve a tagok villamosmérnöki és informatikai tudásának elmélyítése egy quadcopter fejlesztésén keresztül. Ez magában foglal alacsony és magas szintű szabályzási feladatokat, beágyazott rendszerek tervezését és programozását, vezetéknélküli kommunikáció implementálását, valamint PC oldali programozást. Célunk ezen tudás felhasználásával egy saját fejlesztésű copter elkészítése, ami képes önállóan feladatokat megoldani legyen szó waypoint navigációról, vagy egy felhasználó követéséről aktív ütközéselkerüléssel.

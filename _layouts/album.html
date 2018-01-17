@@ -5,7 +5,7 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {% for image in page.pictures %}
-  <a href="/images/gallery/{{ page.code }}/{{ image.filename }}" data-lightbox="{{ page.code }}" data-title="{{ image.description }}">
+  <a class='preview' href="/images/gallery/{{ page.code }}/{{ image.filename }}" data-lightbox="{{ page.code }}" data-title="{{ image.description }}">
     <img class='preview' src="/images/gallery/{{ page.code }}/{{ image.filename }}" alt=""/>
   </a>
 {% endfor %}

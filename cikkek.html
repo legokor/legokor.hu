@@ -6,13 +6,15 @@ title: Cikkek
 
 <a href='{{ post.url }}'>
   <div class='post-preview'>
-    <img src='{{ post.image }}'>
-    <div class='post-content'>
-      <h1>{{ post.title }}</h1>
-      <p>{{ post.excerpt }}</p>
-      <div class='post-meta'>
-        <span class='post-author'>{{ post.author }}</span>
-        <span class='post-date'>{{ post.date | date: "%Y.%m.%d." }}</span>
+    <div class='post-wrapper'>
+      <img src='{{ post.image }}'>
+      <div class='post-content'>
+        <h1>{{ post.title }}</h1>
+        <p>{{ post.excerpt }}</p>
+        <div class='post-meta'>
+          <span class='post-author'>{{ post.author }}</span>
+          <span class='post-date'>{{ post.date | date: "%Y.%m.%d." }}</span>
+        </div>
       </div>
     </div>
   </div>

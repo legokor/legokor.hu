@@ -3,6 +3,7 @@ title: STM32 elso lepesek
 layout: default
 projects:
 - Quadrocopter
+- valami más projekt
 ---
 
 Copter-ünkön fedélzeti mikroprocesszorként egy STM gyártmányú ARM mikrokontrollert használunk. Ennek programozásához az OpenSTM32 Eclipse alapú fejlesztőkörnyezetre van szükségünk. A következőkben ennek a rendszernek a telepítését mutatjuk be. Az ARM alapú mikrokontrollerek egyre inkább szorítják ki a 8 bit-es kontrollereket a piacról, így a későbbiekben is hasznos tudást szerezhettek ezáltal.

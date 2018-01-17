@@ -5,13 +5,11 @@ title: Tudasbazis
 
 <h1>Tudasbazis</h1>
 
-<ul>
+<ul class="guides-list">
   {% for guide in site.guides %}
-    <li><a href='{{ guide.url }}'>{{ guide.title }}</a></li>
-    <ul class='tags'>
-      {% for project in guide.projects %}
-        <li>{{ project }}</li>
-      {% endfor %}
-    </ul>
+    <li>
+    	<a href='{{ guide.url }}'>{{ guide.title }}</a>
+    	{% for project in guide.projects %}{% if forloop.first %}({% endif %}{{ project }}{% if forloop.last %}){% else %}, {% endif %}{% endfor %}
+    </li>
   {% endfor %}
 </ul>

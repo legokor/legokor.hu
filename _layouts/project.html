@@ -4,7 +4,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-{% if site.complete %}
+{% if page.complete %}
 <div id="complete">Kész projekt</div>
 {% else %}
 <div id="inprogress">A projekt jelenleg is aktív!</div>
@@ -17,7 +17,7 @@ layout: default
 		{% if guide.projects contains page.title %}
 			{% if forloop.first %}
 			<h1>Tudásbázis</h1>
-			<ul>
+			<ul class="guides-list">
 			{% endif %}
 			<li><a href='{{ guide.url }}'>{{ guide.title }}</a></li>
 			{% if forloop.last %}

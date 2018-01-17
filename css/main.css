@@ -93,6 +93,15 @@ strong {
   margin-top: 0px;
 }
 
+#article-block > h2 {
+  font-weight: 500;
+}
+
+#article-block > h3 {
+  font-size: 20px;
+}
+
+
 pre {
   background-color: #404040;
   box-shadow:0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -103,6 +112,10 @@ pre {
 #article-block img.preview {
   max-width: 33%;
   display: initial;
+}
+
+#article-date {
+  text-align: center;
 }
 
 #leader-holder, #members-holder {
@@ -119,7 +132,7 @@ pre {
 }
 
 #complete, #inprogress {
-  margin-top: -15px;
+  margin-top: -5px;
   text-align: center;
   font-style: italic;
 }
@@ -129,7 +142,7 @@ pre {
 }
 
 #inprogress {
-  color: #8f8;
+  color: #4b4;
   font-weight: bold;
 }
 
@@ -185,8 +198,8 @@ pre {
   border: #95989A;
   border-radius: 50%;
   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  float: left;
-  margin: 0px 70px 15px 15px;
+  display: block;
+  margin: 0px auto 15px auto;
   width: 200px;
   max-width: 30%;
   min-width: 80px;
@@ -194,14 +207,11 @@ pre {
 
 .member-profile h2 {
   color: #545454;
-  display: inline-block;
   font-weight: 500;
   text-align: left;
 }
 
 .member-profile ul {
-  display: inline-block;
-  padding-left: 0;
   text-align: left;
 }
 
@@ -234,6 +244,10 @@ pre {
 
 a.box-wrapper {
   text-decoration: none;
+}
+
+a.preview {
+  text-decoration: none; 
 }
 
 .gallery-box {
@@ -329,9 +343,31 @@ a .gallery-date, a .project-status {
 
 .post-preview img {
   margin: 10px;
-  max-width: 250px;
-  max-height: 250px;
+  max-width: 220px;
+  max-height: 220px;
   display: inline-block;
+}
+
+.post-meta {
+  padding-right: 4%;
+}
+
+.post-author, .post-date {
+  text-decoration: none;
+  color: #000;
+}
+
+.post-author {
+  font-weight: 500;
+}
+
+.post-date {
+  float: right;
+}
+
+.post-wrapper {
+  display: inline;
+  vertical-align: middle;
 }
 
 .post-content {
@@ -353,6 +389,27 @@ a .gallery-date, a .project-status {
   font-size: 14px;
   line-height: 15px;
 }
+
+ul.guides-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+ul.guides-list > li {
+  padding-left: 1em;
+}
+
+ul.guides-list > li:before {
+  content: "• ";
+  color: orange;
+}
+
+ul.guides-list a {
+  text-decoration: none;
+  color: #6a6a6a;
+}
+
 
 @media screen and (max-width: 810px) {
   #article-block {
