@@ -2,9 +2,7 @@
 layout: default-wide
 title: Cikkek
 ---
-{% for post in site.posts %}
-
-<a href='{{ post.url }}'>
+{% for post in site.posts %}<a class="post-href" href='{{ post.url }}'>
   <div class='post-preview'>
     <div class='post-wrapper'>
       <img src='{{ post.image }}'>
@@ -18,6 +16,4 @@ title: Cikkek
       </div>
     </div>
   </div>
-</a>
-
-{% endfor %}
+</a>{% endfor %}

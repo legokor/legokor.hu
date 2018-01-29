@@ -333,12 +333,17 @@ a .gallery-date, a .project-status {
   align-items: center;
 }
 
+.post-href {
+  text-decoration: none;
+}
+
 .post-preview {
   margin: 10px;
   border-radius: 3px;
   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   display: inline-block;
   vertical-align: top;
+  height: 240px;
 }
 
 .post-preview img {
@@ -346,6 +351,8 @@ a .gallery-date, a .project-status {
   max-width: 220px;
   max-height: 220px;
   display: inline-block;
+  height: 220px;
+  object-fit: cover;
 }
 
 .post-meta {
