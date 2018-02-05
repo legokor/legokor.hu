@@ -13,4 +13,4 @@ A projekt fő célja tagjai ismereteinek bővítése robotikai téren. Középpo
 
 Jelenleg az STM32F4 mikrokontroller család egyik fejlesztőkártyáját, és ARDUINO UNO-t használunk a robotokban. A projekt keretein belül megtudhatod, hogyan is lehet ezen eszközökkel robotokat vezérelni.
 
-Ha érdeklődnél a projekt iránt, keresd a projektvezetőt
+Ha érdeklődnél a projekt iránt, keresd nyugottan a projektvezetőt e-mailbe.
