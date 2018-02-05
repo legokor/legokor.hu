@@ -4,7 +4,7 @@ title: Quadrocopter
 preview: quadrocopter.jpg
 introduction: Mivel egy saját Quadrocopter kifejlesztése túlmutat egy egyetemi projekt keretein, ezért egy kész egység alapot fejlesztünk tovább.
 complete: false
-leader: goczan-bence
+leader: boroznaki-daniel
 members:
 - bognar-marton
 ---
