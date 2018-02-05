@@ -1,7 +1,7 @@
 ---
 layout: project
 title: INDACT
-preview: indactlogokerek.png
+preview: indactlogo.jpg
 introduction: A LEGO kör ipari irányítástechnikájával foglalkozó projektje.
 complete: false
 leader: takacsadam
