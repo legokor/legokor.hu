@@ -5,5 +5,5 @@ username: bognar-marton
 roles:
 - Rendszergazda
 - Tanfolyamfelelős
-image: images/members/BognarMarton.jpg
+image: /images/members/BognarMarton.jpg
 ---
