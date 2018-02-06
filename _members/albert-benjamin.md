@@ -2,5 +2,5 @@
 layout: user
 name: Albert Benjámin
 username: albert-benjamin
-image: http://lego.sch.bme.hu/wp-content/uploads/2018/02/AlbertBenjamin.jpg
+image: https://github.com/legokor/legokor.hu/blob/master/images/members/AlbertBenjamin.jpg
 ---
