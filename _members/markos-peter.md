@@ -2,5 +2,5 @@
 layout: user
 name: Markos Péter
 username: markos-peter
-image: legokor.hu/images/members/MarkosPeter.jpg
+image: images/members/MarkosPeter.jpg
 ---
