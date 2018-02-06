@@ -5,5 +5,5 @@ username: bognar-marton
 roles:
 - Rendszergazda
 - Tanfolyamfelelős
-image: https://github.com/legokor/legokor.hu/blob/master/images/members/BognarMarton.jpg
+image: legokor.hu/images/members/BognarMarton.jpg
 ---
