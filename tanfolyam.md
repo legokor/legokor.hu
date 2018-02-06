@@ -9,75 +9,63 @@ layout: default
 
 > A regisztrációhoz a következő a feladatod:
 >
-> Küldj egy e-mailben a következő címre: szi.adam@simonyi.bme.hu, “[LegoWorkshop] your_name” tárggyal.
-> **Jelentkezési határidő: 2017. 02.18(szombat) 23:59**
+> Küldj egy e-mailt a következő címre: bognar.marton@simonyi.bme.hu, __[LegoWorkshop] *neved*__ tárggyal.
 >
-> A következő tartalommal:
+> **Jelentkezési határidő: 2018.02.17. (szombat) 23:59**
+>
+> Írd bele a következőket:
 >
 >  - Teljes neved
 >  - Melyik karra és szakra jársz
 >  - Hányad éves vagy
->  - Melyik Workshopra jelentkezel
+>  - Melyik workshopokra jelentkezel
 
-## UPRA Workshop
+## Arduino Workshop
 
-A LEGO Kör UPRA csapatának workshopján az érdeklődők betekintést kapnak a magaslégköri ballonozás technikai részleteibe, megismerhetik a küldetés-tervezés alapjait és valós példákon keresztül bemutatva bevezetést kapnak a fedélzeti rendszer tervezésébe is.
+Arduino.
 
-A tanfolyam során minden csapat elkészítheti egy ballon fedélzeti számítógépének deszkamodelljét, melynek működését a workshop végén egy szimulált repüléssel teszteljük.
+4 alkalom:
 
-5 alkalom:
+- 2018.02.22. 17:00 - 19:00 @SCH 103
+- 2018.03.01. 17:00 - 19:00 @SCH 103
+- 2018.03.08. 17:00 - 19:00 @SCH 103
+- 2018.03.15. 17:00 - 19:00 @SCH 103
 
- - 2017\. 02.22 20:00 – 22:00 @SCH 103
- - 2017\. 03.01 20:00 – 22:00 @SCH 103
- - 2017\. 03.08 20:00 – 22:00 @SCH 103
- - 2017\. 03.15 20:00 – 22:00 @SCH 103
- - 2017\. 03.22 20:00 – 22:00 @SCH 103
+## Mesterséges Intelligencia Workshop
 
-## INDACT Workshop
-
-A workshopon résztvevők betekintést kaphatnak a PLC-k általános működésébe, elsajátíthatják a CAD tervezés alapjait, továbbá olyan professzionális az iparban is használt szoftverekkel ismerkedhetnek meg, mint a Siemens TIA Portal, Siemens PLC-Sim és az Autodesk Inventor.
-
-5 alkalom:
-
- - 2017\. 02.22 18:00 – 20:00 @SCH 103
- - 2017\. 03.01 18:00 – 20:00 @SCH 103
- - 2017\. 03.08 18:00 – 20:00 @SCH 103
- - 2017\. 03.22 18:00 – 20:00 @SCH 103
- - 2017\. 03.29 18:00 – 20:00 @SCH 103
-
-## Mesterséges Inteligencia Workshop
 Napjainkban igen felkapott területe az informatikának a mesterséges intelligencia. Ha szeretnél mélyebben belelátni a tanuló algoritmusokba és a velük megoldható problémakörökbe, akkor nézz be a LEGO kör mesterséges intelligencia előadásaira!
 
 4 alkalom:
 
- - 2017\. 02.28 18:00 – 20:00 @SCH 103
- - 2017\. 03.07 18:00 – 20:00 @SCH 103
- - 2017\. 03.14 18:00 – 20:00 @SCH 103
- - 2017\. 03.21 18:00 – 20:00 @SCH 103
+- 2018.02.21. 18:00 – 20:00 @SCH 103
+- 2018.02.28. 18:00 – 20:00 @SCH 103
+- 2018.03.07. 18:00 – 20:00 @SCH 103
+- 2018.03.14. 18:00 – 20:00 @SCH 103
 
 # Robotika tanfolyam
 
-Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív vezérlési módszerek, MI) akkor jó helyen jársz. Mi majdnem mindennel foglalkozunk és ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz Alaptanfolyamunkra, melynek elvégzésével felvételt nyerhetsz hozzánk.
+Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív vezérlési módszerek, MI), akkor jó helyen jársz. Mi majdnem mindennel foglalkozunk, és ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamunkra, melynek elvégzésével felvételt nyerhetsz hozzánk.
 
 > A következő a feladatod:
-> Készíts egy legalább fél oldalas, fényképpel ellátott motivációs levelet PDF formátumban, melyben leírod, hogy miért is szeretnél csatlakozni hozzánk, milyen szakmailag témába vágó dolgokkal foglalkoztál eddig és mit szeretnél tenni nálunk, mit vársz a körtől.
+> Készíts egy legalább fél oldalas, fényképpel ellátott motivációs levelet PDF formátumban, melyben leírod, hogy miért is szeretnél csatlakozni hozzánk, milyen szakmailag témába vágó dolgokkal foglalkoztál eddig, és mit szeretnél tenni nálunk, mit vársz a körtől.
 >
-> Mindezt küld el e-mailben a következő címre: szi.adam@simonyi.bme.hu, “[LegoTanfolyam] your_name” tárggyal.
-> Jelentkezési határidő: 2017. 02.18(szombat) 23:59
+> Mindezt küldd el e-mailben a következő címre: bognar.marton@simonyi.bme.hu, __[LegoTanfolyam] *neved*__ tárggyal.
 >
-> Az e-mail a csatolt PDF-en kívül tartalmazza következőket:
+> **Jelentkezési határidő: 2018.02.17. (szombat) 23:59**
+>
+> Az e-mail a csatolt PDF-en kívül tartalmazza a következőket:
 >
 >  - Teljes neved
 >  - Melyik karra és szakra jársz
 >  - Hányad éves vagy
->  - Melyik projektek keltették fel az érdeklődésed, melyikekhez szeretnél csatlakozni? (ha már van ilyen) (UPRA, INDACT, Mesterséges Intelligencia, LeapMotion, Gépi látás, Neuroheadset, QuadroCopter, Spybot, Magyarok a Marson)
+>  - Melyik projektek keltették fel az érdeklődésed, melyikekhez szeretnél csatlakozni (ha már van ilyen)? *(UPRA, INDACT, Mesterséges Intelligencia, LeapMotion, Gépi látás, Neuroheadset, QuadroCopter, Spybot, Magyarok a Marson)*
 
-A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok Rovereket építeni és megtanuljátok annak programozását. Mindezt 4-5 fős csapatokban fogjátok elvégezni. Majd pedig egy végső megmérettetésen megnézzük meddig juttok el a kiadott pályán.
+A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovereket építeni 4-5 fős csapatokban, és megtanuljátok azok programozását. Az utolsó alkalmon egy végső megmérettetésen nézzük meg, meddig juttok el a kiadott pályán.
 
 A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
 
- - [2017\. 10. 05. 18:00 – 20:00 @SCH 103](epites)
- - [2017\. 10. 12. 18:00 – 20:00 @SCH 103](programozas-1)
- - [2017\. 10. 19. 18:00 – 20:00 @SCH 103](programozas-2)
- - [2017\. 10. 26. 18:00 – 20:00 @SCH 103](szabalyozastechnika)
- - [2017\. 11. 02. 18:00 – 20:00 @SCH 103 – Vizsga](vizsga)
+ - [2018.02.20. 18:00 – 20:00 @SCH 103](epites)
+ - [2018.02.27. 18:00 – 20:00 @SCH 103](programozas-1)
+ - [2018.03.06. 18:00 – 20:00 @SCH 103](programozas-2)
+ - [2018.03.13. 18:00 – 20:00 @SCH 103](szabalyozastechnika)
+ - [2018.03.20. 18:00 – 20:00 @SCH 103 – Vizsga](#)
