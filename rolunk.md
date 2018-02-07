@@ -1,6 +1,6 @@
 ---
 redirect_from: "/"
-title: Rolunk
+title: Rólunk
 layout: default
 ---
 # A LEGO Kör
