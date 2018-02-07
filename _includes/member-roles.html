@@ -1,9 +1,17 @@
+{% assign title = '' | split: '' %}
 {% for member in site.members %}
-{% if member.username == include.username %}
-{% for role in member.roles %}{{ role }}{% unless forloop.last %}, {% endunless %}{% endfor %}
-{% for project in site.projects %}
-{% if project.leader == include.username %}, {{ project.title }} projektvezető{% unless forloop.last %}, {% endunless %}
-{% endif %}
+  {% if member.username == include.username %}
+    {% for role in member.roles %}
+      {% assign title = role | split: ', ' | concat: title %}
+    {% endfor %}
+    {% for project in site.projects %}
+      {% if project.leader == include.username %}
+        {% assign role = project.title | append: ' projektvezető' %}
+        {% assign title = role | split: ', ' | concat: title %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
-{% endif %}
+{% for role in title reversed %}
+  {{ role }}{% unless forloop.last %}, {% endunless %}
 {% endfor %}
