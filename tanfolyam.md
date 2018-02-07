@@ -22,7 +22,7 @@ layout: default
 
 ## Arduino Workshop
 
-Arduino.
+Érdekel az Arduino programozás, de nem tudod hol indulj el? Gyere a LEGO Arduino Workshopra, és tanuld meg az alapoktól egészen az operációs rendszerekig, milyen a beágyazott software fejlesztés!
 
 4 alkalom:
 
