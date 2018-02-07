@@ -1,7 +1,7 @@
 ---
 layout: album
 code: tabor-2017-tavasz
-title: 2017 tavaszi tabor
+title: 2017 tavaszi tábor - Visegrád
 date: 2017.04.01.
 preview: 1.jpg
 pictures:
