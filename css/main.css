@@ -49,6 +49,13 @@ nav img {
   height: 60px;
 }
 
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
 #article-block {
   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin: 30px auto;
@@ -259,6 +266,7 @@ a.preview {
   display: inline-flex;
   justify-content: center;
   align-items: flex-end;
+  max-width: calc(100% - 20px);
 }
 
 .gallery-date, .gallery-title {
@@ -270,7 +278,7 @@ a.preview {
 .gallery-title {
   background-color: rgba(255, 255, 255, 0.8);
   height: 50px;
-  width: calc(360px - 11ch);
+  width: calc(100% - 11ch);
 }
 
 .gallery-date {
@@ -293,18 +301,19 @@ a .gallery-date, a .project-status {
   width: 360px;
   margin: 20px;
   background-size: cover;
-  display: inline-block;
+  display: inline-table;
   justify-content: center;
   align-items: stretch;
   border-radius: 3px;
   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  max-width: calc(100% - 40px);
 }
 
 .project-description {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 5px;
   color: #000;
-  width: 360px;
+  width: 100%;
 }
 
 .project-title-box {
@@ -313,6 +322,7 @@ a .gallery-date, a .project-status {
   position: absolute;
   left: 0;
   bottom: 0;
+  width: 100%;
 }
 
 .project-title {
@@ -321,13 +331,12 @@ a .gallery-date, a .project-status {
   justify-content: center;
   align-items: center;
   height: 50px;
-  width: calc(360px - 15ch);
+  width: 100%;
 }
 
 .project-status {
   background-color: #6a6a6a;
   height: 50px;
-  width: 15ch;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -410,10 +419,38 @@ ul.guides-list a, #markdown-toc a{
   color: #6a6a6a;
 }
 
+.video16-9 {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; 
+}
+
+.video4-3 {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 75%;
+}
+
+/* Adjust the iframe so it's rendered in the outer-width and outer-height of it's parent */
+.video16-9 iframe, .video4-3 iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
 
 @media screen and (max-width: 810px) {
   #article-block {
     margin: 30px 5px;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .project-box, .gallery-box {
+    margin: 10px;
   }
 }
 
@@ -455,6 +492,18 @@ ul.guides-list a, #markdown-toc a{
 
   .post-content {
     width: unset;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .project-box {
+    height: 227px;
+  }
+  .project-title-box {
+    display: block;
+  }
+  .project-status {
+    height: 25px;
   }
 }
 
