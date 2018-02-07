@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Spybot
-preview: 
+preview: spybot1.JPG
 introduction: Mindenünk a mobilis, lábbal rendelkező robotok.
 leader: berke-marton
 members:
