@@ -1,6 +1,6 @@
 ---
 layout: post
-author: komposzt
+author: goczan-bence
 title: Magaslégköri Ballon Tesztelése – 1. rész
 image: http://lego.sch.bme.hu/wp-content/uploads/2017/03/Testing_in_Progress.gif
 ---
