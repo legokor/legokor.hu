@@ -1,7 +1,7 @@
 ---
 title: Magaslégköri Ballon Tesztelése – 2. rész
 layout: post
-author: moricz-tamas
+author: goczan-bence
 image: http://lego.sch.bme.hu/wp-content/uploads/2017/04/toolbox.png
 ---
 
