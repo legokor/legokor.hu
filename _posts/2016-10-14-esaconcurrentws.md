@@ -1,7 +1,7 @@
 ---
 title: ESA Concurrent Engineering Workshop 2016
 layout: post
-author: moricz-tamas
+author: goczan-bence
 image: http://lego.sch.bme.hu/wp-content/uploads/2016/10/20160923_175609.jpg
 ---
 
