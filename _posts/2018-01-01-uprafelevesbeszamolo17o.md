@@ -1,7 +1,7 @@
 ---
 title: UPRA féléves beszámoló - 2017 ősz
 layout: post
-author: moricz-tamas
+author: goczan-bence
 image: http://lego.sch.bme.hu/wp-content/uploads/2015/02/upra_logo.png
 ---
 
