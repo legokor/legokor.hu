@@ -7,7 +7,6 @@ leader: sganetz-bence
 members:
 - albert-benjamin
 - kecskes-daniel
-- sganetz-bence
 - szi-adam
 ---
 
