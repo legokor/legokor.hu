@@ -17,3 +17,16 @@ A projekt keretein belül kezdetben egy kereskedelmi forgalomban kapható quadco
 Ezen kívül a projekt keretein belül foglalkozunk BLDC motorok vezérlésével, PC-s nyomkövető és irányítószoftver fejlesztésével, illetve LiPo akkumulátortöltő elektronika készítésével. Hosszútávú terveink között van saját quadcopterünk önálló feladatvégzésre való felkészítése további szenzorok felhasználásával, Androidos irányítószoftver fejlesztése, valamint a gyári quadcopterünk továbbfejlesztése.
 
 Szívesen várunk minden érdeklődőt projektünkbe, gyűléseink nyíltak bárki számára, akár nem körtagoknak is.
+
+## Feladatok, melyekre akár Te is jelentkezhetsz:
+•	Kéttengelyes gimbal fejlesztése (HW + beágyazott SW)
+•	Nagytávolságú kommunikációs modul fejlesztése (HW + beágyazott SW)
+•	Motorvezérlő (ESC) továbbfejlesztése (HW + beágyazott SW)
+•	Ütközéselkerülő/távolságérzékelő szenzor fejlesztése (HW)
+•	Telefonos alkalmazás fejlesztés drón irányítására (Android/IOS SW)
+•	Vezeték nélküli akkumulátor töltő egység fejlesztése (HW)
+•	Repülésirányító/felügyelő szoftver fejlesztése (PC SW)
+•	Szabályzási algoritmus továbbfejlesztése (beágyazott SW)
+•	Repülésvezérlő szoftver fejlesztése (Linux SW) 
+•	Egyéb a témakörbe illő, számodra érdekes feladat.
+
