@@ -23,5 +23,6 @@ Ha érdeklődnél a projekt iránt, keresd nyugodtan a projektvezetőt e-mailbe.
 -	"Control panel" készítése PC-re a robothoz (SW)
 -	Robotpók váz továbbfejlesztése (HW)
 -	Hexapod váz tervezése és gyártatása (CAD, HW)
+-	Robot vezérlő mobil alkalmazás fejlesztése (SW, Android/iOS)
 
 
