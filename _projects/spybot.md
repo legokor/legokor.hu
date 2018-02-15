@@ -16,12 +16,12 @@ Jelenleg az STM32F4 mikrokontroller család egyik fejlesztőkártyáját, és AR
 Ha érdeklődnél a projekt iránt, keresd nyugodtan a projektvezetőt e-mailbe.
 
 ### Feladatok, melyekre akár Te is jelentkezhetsz:
--Motorvezérlő tervezése (SW)
--Szabályzó a robot lábaihoz (SW + HW)
--Tápegység tervezés (HW)
--Vezeték nélküli kommunikáció PC-vel (SW)
--"Control panel" készítése PC-re a robothoz (SW)
--Robotpók váz továbbfejlesztése (HW)
--Hexapod váz tervezése és gyártatása (CAD, HW)
+-	Motorvezérlő tervezése (SW)
+-	Szabályzó a robot lábaihoz (SW + HW)
+-	Tápegység tervezés (HW)
+-	Vezeték nélküli kommunikáció PC-vel (SW)
+-	"Control panel" készítése PC-re a robothoz (SW)
+-	Robotpók váz továbbfejlesztése (HW)
+-	Hexapod váz tervezése és gyártatása (CAD, HW)
 
 
