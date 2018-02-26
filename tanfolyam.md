@@ -20,9 +20,11 @@ layout: default
 >  - Hányad éves vagy
 >  - Melyik workshopokra jelentkezel
 
-## Arduino Workshop
+## [Arduino Workshop]: http://legokor.hu/tanfolyam/arduino/
 
 Érdekel az Arduino programozás, de nem tudod hol indulj el? Gyere a LEGO Arduino Workshopra, és tanuld meg az alapoktól egészen az operációs rendszerekig, milyen a beágyazott software fejlesztés!
+
+[Segédanyagokat megtaláljátok a tanfolyam összefoglaló oldalán!]: http://legokor.hu/tanfolyam/arduino/
 
 4 alkalom:
 
