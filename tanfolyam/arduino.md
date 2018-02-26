@@ -1,9 +1,14 @@
 ---
 layout: default
-title: "LEGO Tanfolyam: Építés"
+title: "Arduino Tanfolyam - LEGO Kör"
 ---
 
 # Arduino Tanfolyam Segédanyagok
+
+## Fejlesztőkörnyezet
+[Arduino IDE letöltése]: https://www.arduino.cc/en/Main/Software
+[CH341 Serial-USB driver]: https://github.com/legokor/legokor.hu/raw/master/tanfolyam/CH341SER.zip
+
 
 ## Első alkalom
 * Bevezetés a mikrokontrollerek felépítésébe
@@ -12,8 +17,9 @@ title: "LEGO Tanfolyam: Építés"
 * Soros porti kapcsolat
 
 ### Letölthető segédanyagok
-TBD
------
+[Az első alkalom példakódjai és segédlet]: https://github.com/legokor/legokor.hu/raw/master/tanfolyam/01_ardu_tanf.zip
+
+****
 
 ## Második alkalom
 * Beszéljünk még a soros portról
@@ -23,18 +29,21 @@ TBD
 
 ### Letölthető segédanyagok
 TBD
------
+
+****
 
 ## Harmadik alkalom
 TBD
 
 ### Letölthető segédanyagok
 TBD
------
+
+****
 
 ## Negyedik alkalom
 TBD
 
 ### Letölthető segédanyagok
 TBD
------
+
+****
