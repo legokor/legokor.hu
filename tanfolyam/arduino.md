@@ -7,6 +7,7 @@ title: "Arduino Tanfolyam - LEGO Kör"
 
 ## Fejlesztőkörnyezet
 [Arduino IDE letöltése](https://www.arduino.cc/en/Main/Software)
+
 [CH341 Serial-USB driver](https://github.com/legokor/legokor.hu/raw/master/tanfolyam/CH341SER.zip)
 
 
@@ -17,7 +18,7 @@ title: "Arduino Tanfolyam - LEGO Kör"
 * Soros porti kapcsolat
 
 ### Letölthető segédanyagok
-[Az első alkalom példakódjai és segédlet]: https://github.com/legokor/legokor.hu/raw/master/tanfolyam/01_ardu_tanf.zip
+[Az első alkalom példakódjai és segédlet](https://github.com/legokor/legokor.hu/raw/master/tanfolyam/01_ardu_tanf.zip)
 
 ****
 
