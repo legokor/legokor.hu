@@ -17,28 +17,36 @@ A Git ezt a (két) problémát hivatott megoldani, illetve még sok mást, amir�
 
 A Gitben az egyes követett projekteket `repositorynak` hívjuk. Első megközelítésben minden fájl, ami ebben a mappában van, követve lesz. Egy ilyen repositoryt a következő parancssal hozhatunk létre:
 
-    $ git init .
-    Initialized empty Git repository in /home/user/sandbox/.git/
+```bash
+$ git init .
+Initialized empty Git repository in /home/user/sandbox/.git/
+```
 
 Ez a jelenlegi mappát fogja repositoryként kezelni (amelyben éppen állunk). Ezek után már ki is próbálhatunk pár egyszerű git parancsot, ami a repositorynk (röviden repó) állapotáról tud információt szolgáltatni.
 
-    $ git status
-    On branch master
+```bash
+$ git status
+On branch master
 
-    Initial commit
+Initial commit
 
-    nothing to commit (create/copy files and use "git add" to track)
+nothing to commit (create/copy files and use "git add" to track)
+```
 
 A kimenet itt rögtön több olyan fogalmat is használ, amikről egyelőre semmit nem tudunk, de látszólag fontosak lesznek (`branch`? `commit`?). Próbáljunk ki egy másik parancsot is.
 
-    $ git log
-    fatal: your current branch 'master' does not have any commits yet
+```bash
+$ git log
+fatal: your current branch 'master' does not have any commits yet
+```
 
 Tehát tudjuk azt, hogy jelenleg a `master` nevű branchen állunk, és nincsen commitunk. Na jó, inkább essünk neki a projektünknek. Hozzunk létre egy új fájlt a mappában, tartalomként írjunk bele például egy "Helló, világ!"-ot.
 
-    $ echo Hello, vilag! > file.txt
-    $ ls
-    file.txt
+```bash
+$ echo Hello, vilag! > file.txt
+$ ls
+file.txt
+```
 
 Próbáljunk most újra egy `git status`-t futtatni! A kimenetben közli velünk a git, hogy van egy `untracked` fájlunk, illetve, hogy a `git add` paranccsal tudjuk azt hozzáadni a commitunkhoz. Na jó, de mi is az a commit?
 
@@ -52,21 +60,29 @@ A commitokhoz az adott változtatásokon kívül tartozik a szerkesztő e-mail c
 
 Nézzük akkor először a változtatásokat. Az imént létrehoztunk egy új fájlt, de a `git status` szerint ezt még nem adtuk hozzá a commitunkhoz. Tehát a változtatásaink *nem adódnak hozzá automatikusan az aktuális commithoz*.
 
-    $ git add file.txt
+```bash
+$ git add file.txt
+```
 
 Történt valami? Nézzük meg a `git status` segítségével. Úgy tűnik, hogy sikerült hozzáadni, most már `Changes to be committed` felirat alatt jelenik meg! Na, akkor már csak a commitot kell létrehozni. Először is, ha még nem tettük volna meg, meg kell mondanunk a gitnek, hogy kik vagyunk (milyen aláírással lássa el a commitunkat).
 
-    $ git config --global user.email "email@example.com"
-    $ git config --global user.name "Gipsz Jakab"
+```bash
+$ git config --global user.email "email@example.com"
+$ git config --global user.name "Gipsz Jakab"
+```
 
 A jövőre tekintve, itt olyan e-mail címet érdemes megadni, ami a GitHub felhasználónkhoz is be van regisztrálva, ugyanis az oldal ez alapján linkeli a commitokat felhasználókhoz. Ha ezzel megvagyunk, már tényleg csak a commit létrehozása van hátra.
 
-    $ git commit -m "My first commit"
+```bash
+$ git commit -m "My first commit"
+```
 
 Itt a `-m` kapcsolóval adtuk meg a commit címét. Ha csak egyszerűen `git commit`-ot írunk, akkor megnyílik az alapértelmezett szövegszerkesztő (vigyázat, vi[m]!), és ebben adhatjuk ezt meg.
 
 Ha ezzel megvagyunk, nézzünk megint egy statust. Itt újra azzal találkozunk, hogy nincs mit commitolni. Ilyenkor az ember szeretné megnézni, hogy sikerült-e létrehoznunk a commitot.
 
-    $ git log
+```bash
+$ git log
+```
 
 Ezzel a paranccsal listázhatjuk a commitokat, és ha minden jól meg, itt meg is jelenik a mienk.
