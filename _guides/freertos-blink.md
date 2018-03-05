@@ -1,9 +1,10 @@
 ---
-title: FreeRTOS blink example
+title: FreeRTOS villogó példa
 layout: default
 projects:
 - Quadrocopter
 ---
+# FreeRTOS villogó példa
 
 Ha sikeresen feltelepítettük a fejlesztőkörnyezetet és le tudtuk fordítani az üres projektet, akkor nekiláthatunk tartalommal megtölteni. Először egy egyszerű LED-villogtató alkalmazást mutatunk be UART kommunikációval, majd kiegészítjük PMW generálással, amivel később a quadcopter motorjait tudjuk vezérelni.
 
