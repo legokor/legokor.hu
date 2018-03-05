@@ -1,3 +1,8 @@
+---
+title: A Git verziókezelő rendszer
+layout: default
+projects:
+---
 # A Git verziókezelő rendszer
 
 ## Problémafelvetés
