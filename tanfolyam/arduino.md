@@ -10,6 +10,8 @@ title: "Arduino Tanfolyam - LEGO Kör"
 
 [CH341 Serial-USB driver](https://github.com/legokor/legokor.hu/raw/master/tanfolyam/CH341SER.zip)
 
+[Arduino for Dummies](https://github.com/legokor/legokor.hu/raw/master/tanfolyam/arduino4dummies.zip) A teljes hardverközeli segédlet
+
 ****
 
 ## Első alkalom
@@ -26,24 +28,24 @@ title: "Arduino Tanfolyam - LEGO Kör"
 ## Második alkalom
 * Beszéljünk még a soros portról
 * Analóg jelek beolvasása
-* Kvázi analóg kimenetek generálása
-* Adattárolás Arduinoval
 
 ### Letölthető segédanyagok
-TBD
+[Második alkalom példakódok és segédlet](https://github.com/legokor/legokor.hu/raw/master/tanfolyam/02_ardu_tanf.zip)
 
 ****
 
 ## Harmadik alkalom
-TBD
+* Kvázi analóg kimenetek generálása
+* Adattárolás Arduinoval
+* Bootloader rövid ismertető
 
 ### Letölthető segédanyagok
-TBD
+[Harmadik alkalom példakódok és segédlet](https://github.com/legokor/legokor.hu/raw/master/tanfolyam/03_ardu_tanf.zip)
 
 ****
 
 ## Negyedik alkalom
-TBD
+Beágyazott operációs rendszer alkalmazása
 
 ### Letölthető segédanyagok
 TBD
