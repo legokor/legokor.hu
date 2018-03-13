@@ -86,3 +86,15 @@ $ git log
 ```
 
 Ezzel a paranccsal listázhatjuk a commitokat, és ha minden jól meg, itt meg is jelenik a mienk.
+
+## A .gitignore
+
+Mi van akkor, ha nem szeretnénk minden fájlt követni, ami a mappában van? Tegyük fel, hogy a repót később szeretnénk GitHub-ra publikálni, de a programunknak része egy `config.json`, ami az adatbázis adatait (többek között a kapcsolódáshoz tartozó jelszót) tartalmazza. Erre a célra lett kitalálva a `.gitignore` fájl. (Windowson figyeljünk arra, hogy a kiterjesztés a gitignore, neve nincs a fájlnak.)
+
+Ebben a fájlban sorolhatjuk fel azokat az elérési utakat, amiket a git figyelmen kívül fog hagyni. Az előző példa alapján létrehozhatunk a mappánkban egy gitignoret.
+
+```bash
+$ echo config.json > .gitignore
+```
+
+Adjuk ezt hozzá a commitunkhoz (`git add .gitignore`). Ezután hozzunk létre egy config.json-t, és nézzük meg a git status kimenetét. Ha minden jól megy, a git nem fog változást detektálni a mappában. A .gitignore-ban nem csak konkrét fájlneveket adhatunk meg, hanem például teljes mappákat is (`mappa`), vagy regex mintákat (`*.json`).
