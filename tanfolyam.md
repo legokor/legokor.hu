@@ -70,4 +70,4 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
  - [2018.02.27. 18:00 – 20:00 @SCH 103](programozas-1)
  - [2018.03.06. 18:00 – 20:00 @SCH 103](programozas-2)
  - [2018.03.13. 18:00 – 20:00 @SCH 103](szabalyozastechnika)
- - [2018.03.20. 18:00 – 20:00 @SCH 103 – Vizsga](#)
+ - [2018.03.20. 18:00 – 20:00 @SCH 103 – Vizsga](vizsga)

@@ -5,6 +5,8 @@ title: "LEGO Tanfolyam: Vizsga"
 
 # LEGO Tanfolyam: Vizsga
 
+[Labor jelentkezés](https://docs.google.com/spreadsheets/d/1lt8gPLnYQvEIFRB4rFeru4NEq2DuSnXrWQCVYwpndjw/edit#gid=126259014)
+
 A vizsgán több feladatot kell elvégeznetek. Ezekért jár külön-külön is pont, illetve pluszpont jár, ha a teljes pályát egy menetben teljesítitek. A pontozásnál figyelembe vesszük a pontosságot és a gyorsaságot is, illetve ha valami különleges kiegészítőt raktok a robotra, arra is járhat pluszpont.
 
 Az ábra nem a tényleges vizsgafeladat reprezentációja, az útvonalak és a színek változhatnak, a feladatok sorrendje nem!
