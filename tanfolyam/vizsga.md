@@ -24,10 +24,10 @@ A feladatok a következők:
 
 | 🙉 | C | Y | M | K |
 |---|---|---|---|---|
-| Vonalkövetés | ✖ | ✖ | ✖ | ✖ |
-| Labirintus | ✖ | ✖ | ✖ | ✖ |
-| Parkolás | ✖ | ✖ | ✖ | ✖ |
-| Dobozkövetés | ✖ | ✖ | ✖ | ✖ |
+| Vonalkövetés | 1:50.00 (18) | 1:38.10 (125) | ~2:00.00 (forgatas, nincs tavolsag) | ✖ |
+| Labirintus | 27.50 | ✖ | ✖ | ✖ |
+| Parkolás | ✖ + 1 | 26.00 | 19.60 | ✖ |
+| Dobozkövetés | 1/2 | 1/2 | 1 | 3/4 |
 | Teljes pálya | ✖ | ✖ | ✖ | ✖ |
 | Feltöltött kód | ✖ | ✖ | ✖ | ✖ |
 | Kitöltött kérdőív | ✖ | ✖ | ✖ | ✖ |
