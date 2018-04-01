@@ -16,7 +16,7 @@ html, body {
   text-align: center;
 }
 
-#green {
+.green {
   color: #cfc;
 }
 
@@ -405,18 +405,45 @@ a .gallery-date, a .project-status {
   line-height: 15px;
 }
 
-ul.guides-list, #markdown-toc {
-  color: orange;
-}
-
 ul.guides-list p, #markdown-toc p{
   color: black;
   display: inline;
+  font-size: 16px;
 }
 
 ul.guides-list a, #markdown-toc a{
   text-decoration: none;
   color: #6a6a6a;
+  font-size: 16px;
+}
+
+#article-block > ul,
+#article-block > ul > li > ul,
+#article-block > ul > li > ul > li > ul {
+  list-style: none;
+}
+
+#article-block > ul li::before {
+  content: '\2022'; 
+  color: orange;
+  display: inline-block;
+  font-size: 1.5em;
+  margin: -0.2em 0 0 -1em;
+  width: 0.67em;
+  line-height: 0;
+  vertical-align: middle;
+}
+
+#article-block > ul li {
+  font-size: 14px;
+}
+
+#article-block > ul > li > ul > li::before {
+  content: '\25E6';
+}
+
+#article-block > ul > li > ul > li > ul > li::before {
+  content: '\25AA';
 }
 
 .video16-9 {
