@@ -377,7 +377,9 @@ a .gallery-date, a .project-status {
 }
 
 .post-meta {
-  padding-right: 4%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .post-author, .post-date {
@@ -400,10 +402,12 @@ a .gallery-date, a .project-status {
 
 .post-content {
   display: inline-block;
-  width: 300px;
+  width: 270px;
   text-align: left;
-  padding: 15px;
   vertical-align: top;
+  height: 210px;
+  margin: 15px;
+  position: relative;
 }
 
 .post-content h1 {
@@ -415,8 +419,40 @@ a .gallery-date, a .project-status {
 .post-content p {
   color: #6d6d6d;
   font-size: 14px;
-  line-height: 15px;
+  line-height: 16px;
+  margin: 0;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+
+  overflow: hidden;
+  position: relative;
+  line-height: 16px;
+  max-height: calc(7*16px);
+  text-align: justify;
+  padding-right: 1.5em;
+  word-break: normal;
 }
+
+.post-content p::before {
+  content: '…';
+  position: absolute;
+  right: 0.5em;
+  bottom: 0;
+}
+
+.post-content p::after {
+  content: '';
+  position: absolute;
+  right: 0.5em;
+  width: 1em;
+  height: 1em;
+  margin-top: 0.2em;
+  background: white;
+}
+
 
 ul.guides-list p, #markdown-toc p{
   color: black;
