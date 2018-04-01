@@ -414,6 +414,8 @@ a .gallery-date, a .project-status {
   font-size: 18px;
   line-height: 21px;
   color: #000;
+  max-height: 42px;
+  overflow: hidden;
 }
 
 .post-content p {
@@ -485,6 +487,7 @@ ul.guides-list a, #markdown-toc a{
 
 #article-block > ul li {
   font-size: 14px;
+  text-align: left;
 }
 
 #article-block > ul > li > ul > li::before {
