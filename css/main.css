@@ -77,6 +77,16 @@ p {
   display: block;
 }
 
+#article-block a {
+  color: orange;
+  text-decoration: none;
+}
+
+#article-block ul a {
+  color: #6a6a6a;
+  text-decoration: none;
+}
+
 blockquote {
   background-color: #eeeeee;
   border-radius: 3px;
@@ -100,8 +110,8 @@ strong {
   margin-top: 0px;
 }
 
-#article-block > h2 {
-  font-weight: 500;
+#article-block > h2, #article-block > h2 > * {
+  font-weight: 500 !important;
 }
 
 #article-block > h3 {
