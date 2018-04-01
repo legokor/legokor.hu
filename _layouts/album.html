@@ -3,11 +3,11 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-
+<div class="pictures">
 {% for image in page.pictures %}
   <a class='preview' href="/images/gallery/{{ page.code }}/{{ image.filename }}" data-lightbox="{{ page.code }}" data-title="{{ image.description }}">
     <img class='preview' src="/images/gallery/{{ page.code }}/{{ image.filename }}" alt=""/>
   </a>
 {% endfor %}
-
+</div>
 <script src='/js/lightbox-plus-jquery.min.js'></script>
