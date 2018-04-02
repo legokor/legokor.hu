@@ -135,7 +135,7 @@ pre {
 }
 
 #article-date {
-  text-align: center;
+  float: right;
 }
 
 #leader-holder, #members-holder {
