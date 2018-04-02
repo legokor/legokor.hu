@@ -4,6 +4,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
+<div id="article-meta">
 {% for member in site.members %}
   {% if member.username == page.author %}
     Írta: <a href='{{ member.url }}'>{{ member.name }}</a>
@@ -13,4 +14,5 @@ layout: default
 {{ author }}
 
 <div id="article-date">{{ page.date | date: "%Y.%m.%d." }}</div>
+</div>
 {{ content }}

@@ -108,6 +108,7 @@ strong {
   align-items: center;
   font-size: 22px;
   margin-top: 0px;
+  text-align: center;
 }
 
 #article-block > h2, #article-block > h2 > * {
@@ -116,6 +117,10 @@ strong {
 
 #article-block > h3 {
   font-size: 20px;
+}
+
+#article-meta {
+  height: 1.25em;
 }
 
 pre {
@@ -581,6 +586,11 @@ ul.guides-list a, #markdown-toc a{
   .post-content {
     width: unset;
     height: unset;
+    margin-top: 0;
+  }
+
+  .post-content h1 {
+    margin-top: 0;
   }
 
   .post-meta {
