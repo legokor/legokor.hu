@@ -580,7 +580,14 @@ ul.guides-list a, #markdown-toc a{
 
   .post-content {
     width: unset;
+    height: unset;
   }
+
+  .post-meta {
+    position: unset;
+    margin-top: 10px;
+  }
+
 }
 
 @media screen and (max-width: 500px) {
