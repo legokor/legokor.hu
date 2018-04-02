@@ -362,7 +362,7 @@ a .gallery-date, a .project-status {
 }
 
 .project-status {
-  background-color: #6a6a6a;
+  background-color: rgba(106, 106, 106, 0.8);
   height: 50px;
   display: flex;
   justify-content: center;
