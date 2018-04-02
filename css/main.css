@@ -432,7 +432,7 @@ a .gallery-date, a .project-status {
   overflow: hidden;
   position: relative;
   line-height: 16px;
-  max-height: calc(7*16px);
+  max-height: calc(7.1*16px);
   text-align: justify;
   padding-right: 1.5em;
   word-break: normal;
