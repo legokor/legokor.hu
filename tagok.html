@@ -16,9 +16,11 @@ title: Tagok
 {% for member in site.members %}
 	{% if member.roles contains "Körvezető" %}
 	{% else %}
-		<a href='{{ member.url }}' class='box-wrapper'>
+		<div class='box-wrapper'>
+		<a href='{{ member.url }}'>
 		  {% include member.html username=member.username projects=true %}
 		</a>
+		</div>
 	{% endif %}
 {% endfor %}
 </div>
