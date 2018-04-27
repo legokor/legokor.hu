@@ -18,6 +18,8 @@ A két repülés között kevesebb mint három hét telt el, ami alatt megvizsg�
 # UPRA-MATeF Platform
 ![](/images/posts/matef2-3_cikk/matef_description.jpg)
 
+![](/images/posts/matef2-3_cikk/matef_flightmodel.jpg)
+
 
 # MATeF-2
 
