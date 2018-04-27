@@ -5,8 +5,6 @@ author: goczan-bence
 image: https://github.com/legokor/legokor.hu/blob/master/images/posts/matef2-3_cikk/matef2-3_cikk_borito.jpg?raw=true
 ---
 
-# MATeF-2 és MATeF-3 Repülés Összefoglaló
-
 Az UPRA csapat idén ismét a szokásos, tavaszi felbocsátási ablakban reptetett ballont. A szokásoktól eltérően azonban idén kettő ballon is felszállt...és mindkettőt sikerült begyűjteni a repülés után! 
 
 A MATeF-2 és MATeF-3 küldetéseknek két fő célja volt
@@ -83,7 +81,7 @@ A felbocsátás ismét a BME Q épület mögött zajlott. A földi állomásunka
 
 A felbocsátás kisebb technikai problémától eltekintve a tervezettnek megfelelően zajlott. A repüléshez Totex 1200 grammos (TA1200) ballont használtunk és a maximális repülési magasságot 34km-ben határoztuk meg. A ballon töltése ismét közel fél órát vett igénybe, a MATeF-2 repüléssel megegyező gázmennyiséget használtunk fel.
 
-![](/images/posts/matef2-3_cikk/matef3-launch.jpg)
+![](/images/posts/matef2-3_cikk/matef3-launch.JPG)
 
 <div class="video16-9">
 	<iframe src="https://www.youtube.com/embed/TjesxaWhb9E" frameborder="0" allowfullscreen></iframe>
