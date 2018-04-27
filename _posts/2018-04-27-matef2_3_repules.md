@@ -7,7 +7,6 @@ image: https://github.com/legokor/legokor.hu/blob/master/images/posts/matef2-3_c
 
 Az UPRA csapat idén ismét a szokásos, tavaszi felbocsátási ablakban reptetett ballont. A szokásoktól eltérően azonban idén kettő ballon is felszállt...és mindkettőt sikerült begyűjteni a repülés után! 
 
-
 A MATeF-2 és MATeF-3 küldetéseknek két fő célja volt
 * Éles repülésen tesztelni az elmúlt két évben fejlesztett fedélzeti rendszert
 * Megvizsgálni, hogy a csapat képes-e rövid határidővel újra felbocsátani
