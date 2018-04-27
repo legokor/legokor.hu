@@ -3,6 +3,7 @@ title: UPRA Tavaszi Felbocsátások
 layout: post
 author: goczan-bence
 image: https://github.com/legokor/legokor.hu/blob/master/images/posts/matef2-3_cikk/matef2-3_cikk_borito.jpg?raw=true
+excerpt: Az UPRA csapat idén ismét a szokásos, tavaszi felbocsátási ablakban reptetett ballont. A szokásoktól eltérően azonban idén kettő ballon is felszállt...és mindkettőt sikerült begyűjteni a repülés után!
 ---
 
 Az UPRA csapat idén ismét a szokásos, tavaszi felbocsátási ablakban reptetett ballont. A szokásoktól eltérően azonban idén kettő ballon is felszállt...és mindkettőt sikerült begyűjteni a repülés után!
