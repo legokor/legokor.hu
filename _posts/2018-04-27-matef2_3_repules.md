@@ -73,7 +73,7 @@ Az ejtőernyő vizsgálatából kiderült, hogy az ereszkedési görbe nem szám
 
 # MATeF-3 (Konferencia II)
 
-2018.04.18-án a XV. Simonyi Konferencián újrareptettük a rendszert a MATeF-3 (Konferencia II) küldetés keretében. A repülés szinte napra pontosan az első repülésünk negyedik évfordulóján történt. A repülés során a MATeF-2 felbocsátás során használt rendszert kiegészítettük egy payload gondolával, melyben egy kamera és a saját fejlesztésű GPS-GSM trackerünk foglalt helyet. Ezekkel a kiegészítésekkel a MATeF-3 repülésünkkel nevezhettünk az idei Global Space Balloon Challengre [ide link], melynek felbocsátási ablaka 2018.04.13. és 04.30 között volt.
+2018.04.18-án a XV. Simonyi Konferencián újrareptettük a rendszert a MATeF-3 (Konferencia II) küldetés keretében. A repülés szinte napra pontosan az első repülésünk negyedik évfordulóján történt. A repülés során a MATeF-2 felbocsátás során használt rendszert kiegészítettük egy payload gondolával, melyben egy kamera és a saját fejlesztésű GPS-GSM trackerünk foglalt helyet. Ezekkel a kiegészítésekkel a MATeF-3 repülésünkkel nevezhettünk az idei (Global Space Balloon Challenge)[https://balloonchallenge.org/]re, melynek felbocsátási ablaka 2018.04.13. és 04.30 között volt.
 
 A felbocsátás ismét a BME Q épület mögött zajlott. A földi állomásunkat az ELTE Asztrofizika Tanszék csillagvizsgálójának(pontosítást igényel) platformján állíthattuk fel, mely tökéletes rálátást biztosított a repülés útvonalára.
 
