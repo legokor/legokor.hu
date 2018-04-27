@@ -105,6 +105,7 @@ Sajnos a másodlagos payload, a kamera nem készített képeket a repülés sor�
 A repülés után ismét megvizsgáltuk a hardvert és elkezdtük a fedélzeten gyűjtött adatok vizsgálatát.
 
 A legmagasabb regisztrált magasságunk 31839m volt, ami a szimulációknak megfelelt.
+![](/images/posts/matef2-3_cikk/matef3_alt.jpg)
 
 Ismét összevetettük az adatokat az OMSZ aznapi ballonengedésével, mely a repülésünk után egy órával zajlott le. Mivel a hőmérőnkön nem változtattunk az összehasonlítás eredménye megegyezett a MATeF-2 repülés analízisével.
 
