@@ -2,10 +2,11 @@
 title: UPRA Tavaszi Felbocsátások
 layout: post
 author: goczan-bence
-image: https://github.com/legokor/legokor.hu/blob/master/images/posts/matef2-3_cikk/matef2-3_cikk_borito.jpg
+image: https://github.com/legokor/legokor.hu/blob/master/images/posts/matef2-3_cikk/matef2-3_cikk_borito.jpg?raw=true
 ---
 
 Az UPRA csapat idén ismét a szokásos, tavaszi felbocsátási ablakban reptetett ballont. A szokásoktól eltérően azonban idén kettő ballon is felszállt...és mindkettőt sikerült begyűjteni a repülés után! 
+
 
 A MATeF-2 és MATeF-3 küldetéseknek két fő célja volt
 * Éles repülésen tesztelni az elmúlt két évben fejlesztett fedélzeti rendszert
