@@ -9,7 +9,7 @@ layout: default
 
 > Jelentkezés [ezen a formon](https://goo.gl/forms/WSJVGe7hnm3ZLOa43)
 >
-> **Jelentkezési határidő: 2018.09.23. (Vasárnap) 23:59**
+> **Jelentkezési határidő: 2018.09.30. (Vasárnap) 23:59**
 
 
 ## Mesterséges Intelligencia Workshop
@@ -29,7 +29,7 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > Jelentkezés [ezen a formon](https://goo.gl/forms/fjtsMxBeWxzYevcA3)
 >
-> **Jelentkezési határidő: 2018.09.23. (Vasárnap) 23:59**
+> **Jelentkezési határidő: 2018.09.30. (Vasárnap) 23:59**
 
 
 A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovereket építeni 4-5 fős csapatokban, és megtanuljátok azok programozását. Az utolsó alkalmon egy végső megmérettetésen nézzük meg, meddig juttok el a kiadott pályán.
