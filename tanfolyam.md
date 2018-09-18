@@ -5,7 +5,7 @@ layout: default
 * Table of contents
 {:toc}
 
-# Workshopok
+# Workshop
 
 > Jelentkezés [ezen a formon](https://goo.gl/forms/WSJVGe7hnm3ZLOa43)
 >
