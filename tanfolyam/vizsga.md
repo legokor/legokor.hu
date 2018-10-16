@@ -5,8 +5,10 @@ title: "LEGO Tanfolyam: Vizsga"
 
 # LEGO Tanfolyam: Vizsga
 
-[Labor jelentkezés](https://docs.google.com/spreadsheets/d/1lt8gPLnYQvEIFRB4rFeru4NEq2DuSnXrWQCVYwpndjw/edit#gid=126259014)
+[Labor jelentkezés](https://drive.google.com/open?id=12LwUNToq-DlD6gxyDcOineTTb0BBmTe3kWcnB3zGLcc)
 
+Itt lesz elérhető a feladatkiírás:
+{% comment %}
 A vizsgán több feladatot kell elvégeznetek. Ezekért jár külön-külön is pont, illetve pluszpont jár, ha a teljes pályát egy menetben teljesítitek. A pontozásnál figyelembe vesszük a pontosságot és a gyorsaságot is, illetve ha valami különleges kiegészítőt raktok a robotra, arra is járhat pluszpont.
 
 Az ábra nem a tényleges vizsgafeladat reprezentációja, az útvonalak és a színek változhatnak, a feladatok sorrendje nem!
@@ -22,12 +24,13 @@ A feladatok a következők:
 
 ## Feladatmegoldás
 
-| 🙉 | C | Y | M | K |
+| 🙉 | K | L | P | Z |
 |---|---|---|---|---|
-| Vonalkövetés | 1:50.00 (18) | 1:38.10 (125) | ~2:00.00 (forgatas, nincs tavolsag) | ✖ |
-| Labirintus | 27.50 | ✖ | ✖ | ✖ |
-| Parkolás | ✖ + 1 | 26.00 | 19.60 | ✖ |
-| Dobozkövetés | 1/2 | 1/2 | 1 | 3/4 |
+| Vonalkövetés | ✖ | ✖ | ✖ | ✖ |
+| Labirintus | ✖ | ✖ | ✖ | ✖ |
+| Parkolás | ✖ | ✖ | ✖ | ✖ |
+| Dobozkövetés | ✖ | ✖ | ✖ | ✖ |
 | Teljes pálya | ✖ | ✖ | ✖ | ✖ |
 | Feltöltött kód | ✖ | ✖ | ✖ | ✖ |
 | Kitöltött kérdőív | ✖ | ✖ | ✖ | ✖ |
+{% endcomment %}

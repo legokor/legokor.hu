@@ -4,12 +4,14 @@ title: Mesterséges Intelligencia
 preview: mi_projekt.jpg
 introduction: A projekt célja, hogy megismerkedjünk különböző gépi tanulási módszerekkel, majd ezen algoritmusokat ki is próbáljuk különböző alkalmazási területeken.
 complete: false
-leader: boros-abel
+leader: csoke-mate
 members:
 - gujgiczer-anna
 - moricz-tamas
 - rabatin-gabor-miklos
 - zsiga-tibor
+- boros-abel
+- frey-balazs
 ---
 
 A projekt célja, hogy megismerkedjünk különböző gépi tanulási módszerekkel, majd ezen algoritmusokat ki is próbáljuk különböző alkalmazási területeken.
