@@ -26,7 +26,7 @@ A feladatok a következők:
 |---|---|---|---|---|
 | Vonalkövetés | ✖ | ✖ | ✖ | ✖ |
 | Labirintus | ✖ | ✖ | ✖ | ✖ |
-| Parkolás | ✖ | ✖ | ✖ | ✖ |
+| Akadály kikerülése | ✖ | ✖ | ✖ | ✖ |
 | Dobozkövetés | ✖ | ✖ | ✖ | ✖ |
 | Teljes pálya | ✖ | ✖ | ✖ | ✖ |
 | Feltöltött kód | ✖ | ✖ | ✖ | ✖ |

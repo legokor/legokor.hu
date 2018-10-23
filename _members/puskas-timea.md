@@ -6,4 +6,5 @@ roles:
 - Gazdaságis
 contact:
   email: puskas.timea@simonyi.bme.hu
+image: /images/members/PuskasTimea.jpg
 ---
