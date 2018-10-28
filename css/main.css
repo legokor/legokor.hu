@@ -143,7 +143,7 @@ pre {
   float: right;
 }
 
-#leader-holder, #members-holder {
+#leader-holder, .members-holder {
   text-align: center;
   vertical-align: top;
 }
@@ -152,16 +152,16 @@ pre {
   display: none;
 }
 
-#members-holder {
+.members-holder {
   display: grid;
   grid-template-columns: calc(100%/3) calc(100%/3) calc(100%/3);
 }
 
-#members-holder .member-image {
+.members-holder .member-image {
 
 }
 
-.proj-members #members-holder h2, .proj-members #members-holder h3 {
+.proj-members .members-holder h2, .proj-members .members-holder h3 {
   display: none;
 }
 
@@ -601,23 +601,23 @@ ul.guides-list a, #markdown-toc a{
 }
 
 @media screen and (max-width: 500px) {
-  #members-holder .member-image > h1 {
+  .members-holder .member-image > h1 {
     font-size: 4vw;
   }
 
-  #members-holder .member-image > h2 {
+  .members-holder .member-image > h2 {
     font-size: 2.4vw;
   }
 
-  #members-holder .member-image > h3 {
+  .members-holder .member-image > h3 {
     font-size: 3.2vw;
   }
 
-  #members-holder .member-image img {
+  .members-holder .member-image img {
     margin-bottom: 3vw;
   }
 
-  #members-holder .member-image {
+  .members-holder .member-image {
     max-height: 54vw;
   }
 }
