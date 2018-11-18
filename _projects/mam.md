@@ -11,7 +11,7 @@ members:
 - toth-adam-raymond
 ---
 
-A projekt elsődleges célja a <a href="http://www.magyarokamarson.hu/">Magyar Alkalmazott Mérnöki Tudományok Versenyére</a> (Magyarok a Marson) való felkészülés. A versenyen általában egy kerekeken guruló rover elkészítése a cél, aminek egy megadott küldetést kell teljesíteni. A robot vezérlése egy földi állomásról zajlik, ami lehet manuálisé és automata is. A felkészülés során az alábbi feladatokkal lehet megismerkedni, foglalkozni:
+A projekt elsődleges célja a <a target="_blank" href="http://www.magyarokamarson.hu/">Magyar Alkalmazott Mérnöki Tudományok Versenyére</a> (Magyarok a Marson) való felkészülés. A versenyen általában egy kerekeken guruló rover elkészítése a cél, aminek egy megadott küldetést kell teljesíteni. A robot vezérlése egy földi állomásról zajlik, ami lehet manuálisé és automata is. A felkészülés során az alábbi feladatokkal lehet megismerkedni, foglalkozni:
 
 - mechanika tervezés
 - nyák tervezés
@@ -26,13 +26,13 @@ Az elmúlt évek roverei:
 <img src="/images/projects/mam/rover2018.jpg" width="500px" alt="rover2018">
 <div style="text-align: center">
     <p>2018</p>
-    <a href="https://drive.google.com/open?id=1y4w-gBMxqJ5Yih-dg5TYHK8Yn5oNeVdu">2018-as összefoglaló videó</a>
+    <a target="_blank" href="https://drive.google.com/open?id=1y4w-gBMxqJ5Yih-dg5TYHK8Yn5oNeVdu">2018-as összefoglaló videó</a>
 </div>
 <br>
 <img src="/images/projects/mam/rover2016.jpg" height="500px" alt="rover2016">
 <div style="text-align: center">
     <p>2016</p>
-    <a href="https://www.youtube.com/watch?v=4L2YJJ1X5M4">2016-os összefoglaló videó</a>
+    <a target="_blank" href="https://www.youtube.com/watch?v=4L2YJJ1X5M4">2016-os összefoglaló videó</a>
 </div>
 <br>
 

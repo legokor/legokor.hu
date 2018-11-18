@@ -12,4 +12,4 @@ A projekt célja a laborunkban lévő 3d nyomtató fejlesztése, karbantartása 
 
 Ha érdekel a projekt, akkor keress minket emailben bármikor.
 
-További információk a hamarosan induló <a href="https://3d.legokor.hu">3d.legokor.hu</a> oldalunkon lesznek megtalálhatóak.
+További információk a hamarosan induló <a target="_blank" href="https://3d.legokor.hu">3d.legokor.hu</a> oldalunkon lesznek megtalálhatóak.
