@@ -2,7 +2,7 @@
 layout: default
 title: "LEGO Tanfolyam: Vizsga"
 ---
-
+<!--
 # LEGO Tanfolyam: Vizsga
 
 [Labor jelentkezés](https://drive.google.com/open?id=12LwUNToq-DlD6gxyDcOineTTb0BBmTe3kWcnB3zGLcc)
@@ -19,16 +19,18 @@ A feladatok a következők:
 2. Labirintusból kijutás: a labirintus falai más színnel vannak jelölve, mint a követett vonal. Miután bejutottatok a labirintusba, meg kell keresni annak a kijáratát, ez egy harmadik színnel van jelölve. A labirintusból kijutva ismét az eredeti vonalkövetést kell folytatni. A labirintus falait bejutás után nem szabad átlépni (a szenzor nem lóghat ki).
 3. Akadály kikerülése: amikor a vonal egy, az eredetitől eltérő színű vonalra vált, a vonalkövetésnek vége és az útban lévő objektumot meg kell kerülni, majd a vonalat megtalálva kell a vonalkövetést folytatni.  
 4. Doboz követése: egy egyenes vonalon kell haladni a járművel olyan sebességgel, hogy az előtte húzott dobozig mért távolságot fixen tartsa. A földön a doboz útvonalát vonal is jelzi, hogy segítse az iránytartást.
-{% comment %}
 ## Feladatmegoldás
+
+
 
 | 🙉 | K | L | P | Z |
 |---|---|---|---|---|
-| Vonalkövetés | ✖ | ✖ | ✖ | ✖ |
-| Labirintus | ✖ | ✖ | ✖ | ✖ |
-| Akadály kikerülése | ✖ | ✖ | ✖ | ✖ |
-| Dobozkövetés | ✖ | ✖ | ✖ | ✖ |
+| Vonalkövetés | 0:32.51 | 1:18.78 | 0:59.74 .nem nyomogombról indul. | 0:58.21 |
+| Kereszteződés| 0:26:30 | 0:57.51 | 0:38.15 | ✖ |
+| Labirintus | 1:31.28 .első 3 egybe.| ✖ | ✖ | ✖ |
+| Akadály kikerülése | ✖ | ✖ | 0:15.9 | ✖ |
+| Dobozkövetés | 1/2* | 1/2* | 1/2 | 1/2 |
 | Teljes pálya | ✖ | ✖ | ✖ | ✖ |
 | Feltöltött kód | ✖ | ✖ | ✖ | ✖ |
 | Kitöltött kérdőív | ✖ | ✖ | ✖ | ✖ |
-{% endcomment %}
+-->
