@@ -3,16 +3,14 @@ title: Tanfolyam
 layout: default
 ---
 
-<!--
-
 * Table of contents
 {:toc}
 
 # Workshop
 
-> Jelentkezés [ezen a formon](https://goo.gl/forms/WSJVGe7hnm3ZLOa43)
+> Jelentkezés [ezen a formon](https://goo.gl/forms/b5Mc6YEe7W6dMWEl2)
 >
-> **Jelentkezési határidő: 2018.09.30. (Vasárnap) 23:59**
+> **Jelentkezési határidő: 2019.02.10. (Vasárnap) 23:59**
 
 
 ## Mesterséges Intelligencia Workshop
@@ -21,12 +19,11 @@ Napjainkban igen felkapott területe az informatikának a mesterséges intellige
 
 4 alkalom:
 
-- 2018.10.03. 18:00 - 20:00 
-- 2018.10.10. 18:00 - 20:00 
-- 2018.10.17. 18:00 - 20:00 
-- 2018.10.24. 18:00 - 20:00 
+- 2019.02.12. 16:00 - 18:00 
+- 2019.02.19. 16:00 - 18:00 
+- 2019.02.26. 16:00 - 18:00 
+- 2019.03.05. 16:00 - 18:00 
 
--->
 
 # Robotika tanfolyam
 
