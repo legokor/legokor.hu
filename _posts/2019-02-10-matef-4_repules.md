@@ -9,7 +9,7 @@ excerpt: Az UPRA csapat az őszi félév során végrehajtotta a MATeF sorozat u
 Az UPRA csapat az őszi félév során végrehajtotta a MATeF sorozat utolsó repülését, melynek egyik célja a távérzékelési repülések előkészítése volt.
 
 Novemberben a régóta húzódó MATeF Program negyedik és egyben utolsó repülésére is sor került. A küldetéssorozat célja az új UPRA-ReHAB fedélzeti rendszer kifejlesztése és tesztelése volt. A MATeF Program során a csapatunk megépített és validált
-* egy új alacsony fogyasztású fedélzeti számítógépet (OBC)
+* egy új, alacsony fogyasztású fedélzeti számítógépet (OBC)
 * egy melegtartalékolt rádiós rendszert
 * egy tartalék GPS követőt
 * és egy olcsó, gyorsan összeállítható kísérleti kapszulát
