@@ -6,6 +6,8 @@ introduction: A projekt célja, hogy megismerkedjünk különböző gépi tanul�
 complete: false
 leader: csoke-mate
 members:
+- zih-botond
+- dobos-oliver
 - gujgiczer-anna
 - moricz-tamas
 - rabatin-gabor-miklos
