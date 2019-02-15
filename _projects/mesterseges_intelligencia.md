@@ -24,6 +24,6 @@ A projekt egyik része a mélytanuló rendszerek alkalmazásának megismerésév
   * evolúciós algoritmusok megismerése,
   * intelligens viselkedés integrálása különböző játékokba.
   
-A félév elején mindenki kiválaszt egy számára izgalmas témakört, majd félév közben egymást segítve próbáljuk leküzdeni a felmerülő problémákat. Az így szerzett tapasztalatokat workshop alkalmak során osztjuk meg egymással.
+A félév elején a projekt kiválaszt egy mindenki számára izgalmas témakört, majd félév közben egymást segítve próbáljuk leküzdeni a felmerülő problémákat, és közösen elsajátítani az adott témakör minden csínját-bínját.
 
 Ha érdekel a projekt, bátran keresd a projektvezetőt e-mailben.
