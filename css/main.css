@@ -139,10 +139,10 @@ strong {
 }
 
 pre {
-  background-color: #404040;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 3px;
-  padding: 5px;
+  margin: 0 -10px 0 -25px;
+  padding: 10px 25px;
+  border-left: solid 5px #3D4751;
+  border-radius: 0 2px 2px 0; 
 }
 
 #article-block > .pictures {
@@ -653,4 +653,5 @@ table {
   border-spacing: 10px;
   border-collapse: separate;
 }
+
 
