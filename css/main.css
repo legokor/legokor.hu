@@ -422,6 +422,7 @@ a .gallery-date, a .project-status {
 
 .post-preview {
   margin: 10px;
+  background-color: white;
   border-radius: 3px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
   display: inline-block;
@@ -429,12 +430,13 @@ a .gallery-date, a .project-status {
 }
 
 .post-preview img {
-  margin: 10px;
+  margin: 0px;
   max-width: 220px;
   max-height: 220px;
-  display: inline-block;
+  box-shadow: 3px 0 3px -2px rgba(0, 0, 0, 0.2);
   height: 220px;
   object-fit: cover;
+  border-radius: 3px 0 0 3px;
 }
 
 .post-meta {
@@ -457,17 +459,17 @@ a .gallery-date, a .project-status {
 }
 
 .post-wrapper {
-  display: inline;
-  vertical-align: middle;
+  display: flex;
+  vertical-align: top;
 }
 
 .post-content {
-  display: inline-block;
+  display: block;
   width: 270px;
   text-align: left;
   vertical-align: top;
   height: 210px;
-  margin: 15px;
+  margin: 0 15px;
   position: relative;
 }
 
@@ -495,7 +497,6 @@ a .gallery-date, a .project-status {
   line-height: 16px;
   max-height: calc(7.1*16px);
   text-align: justify;
-  padding-right: 1.5em;
   word-break: normal;
 }
 
