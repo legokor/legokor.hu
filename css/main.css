@@ -5,44 +5,75 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   font-weight: 400;
+  flex-grow: 10;
 }
 
-html, body {
-  background-color: #f5f5f5;
+
+body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  margin: 10px auto 0px auto;
+  margin: 25px auto 0px auto;
   padding: 0;
   max-width: 1240px;
   text-align: center;
+}
+
+html {
+  background-color: #f5f5f5;
+  background-size: cover, 25px 25px, 25px 25px, 5px 5px, 5px 5px;
+  background-image: linear-gradient(170deg, transparent, #f5f5f5 20%),
+                  linear-gradient(white 1px, transparent 1px),
+                  linear-gradient(90deg, white 1px, transparent 1px),
+                  linear-gradient(rgba(255,255,255,0.5) 1px, transparent 1px),
+                  linear-gradient(90deg, rgba(255,255,255,0.5) 1px, transparent 1px);
 }
 
 .green {
   color: #cfc;
 }
 
+header {
+  display: flex;
+}
+
 .topnav {
-    background-color: #ff9800;
+    background-color: orange;
+    flex-grow: 100;
+    border-radius: 2px;
+    box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.05), 0 2px 3px 0 rgba(0, 0, 0, 0.1);
     overflow: hidden;
 }
 
 .topnav a {
+    line-height: 50px;
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 0px 16px;
     text-decoration: none;
-    font-size: 17px;
+    text-shadow: 0px 1px 1px rgba(0,0,0,0.2);
+    font-size: 18px;
+    transition: all 0.15s ease;
+    /*box-shadow: inset 0px 0px 3px 5px darkorange;*/
 }
 
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: darkorange;
 }
 
 .topnav .icon {
     display: none;
+}
+
+#logo {
+  display: block;
+  height: 50px;
+  margin-right: 50px;
+}
+
+#logo-link {
+  flex: 0 0 auto;
 }
 
 nav img {
@@ -61,7 +92,7 @@ p {
   background-color: white;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
   border-radius: 3px;
-  margin: 30px auto;
+  margin: 50px auto;
   padding: 15px 25px;
   text-align: justify;
   max-width: 800px;
@@ -568,8 +599,6 @@ ul.guides-list a, #markdown-toc a{
   .topnav a.icon {
     float: right;
     display: block;
-    padding-top: 12.5px;
-    padding-bottom: 12.5px;
   }
 }
 
@@ -580,8 +609,6 @@ ul.guides-list a, #markdown-toc a{
     right: 0;
     top: 0;
     display: block;
-    padding-top: 12.5px;
-    padding-bottom: 12.5px;
   }
   .topnav.responsive a {
     float: none;
