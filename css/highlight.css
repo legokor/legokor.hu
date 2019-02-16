@@ -1,4 +1,4 @@
-.highlight { background: #212733; }
+.highlight { color: #FFFFFF; background-color: #212733; }
 .highlight .hll { background-color: #272D38 }
 .highlight .p { color: #FFFFFF } /* Punctuation */
 .highlight .c { color: #5C6773 } /* Comment */
@@ -69,4 +69,5 @@
 .highlight .vi { color: #D9D7CE } /* Name.Variable.Instance */
 .highlight .vm { color: #D9D7CE } /* Name.Variable.Magic */
 .highlight .il { color: #D4BFFF; font-weight: bold } /* Literal.Number.Integer.Long */
+
 
