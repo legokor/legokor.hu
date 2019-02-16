@@ -2,7 +2,7 @@
   {% if member.username == include.username %}
   <a href='{{ member.url }}'>
     <div class='member-info'>
-      <img src='{{ member.image | default: "http://lego.sch.bme.hu/wp-content/uploads/2016/06/avatar-150x150.png" }}'>
+      <img src='{{ member.image | default: "/images/members/NoImage.svg" }}'>
       <div class='info-main'>
         <h1>{{ member.name }}</h1>
         <h2>
