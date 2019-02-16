@@ -8,9 +8,7 @@ layout: default
 
 # Workshop
 
-> Jelentkezés [ezen a formon](https://goo.gl/forms/b5Mc6YEe7W6dMWEl2)
->
-> **Jelentkezési határidő: 2019.02.10. (Vasárnap) 23:59**
+> **A jelentkezés a workshopokra ebben a félévben már lezárult**
 
 
 ## Mesterséges Intelligencia Workshop
@@ -29,9 +27,7 @@ Napjainkban igen felkapott területe az informatikának a mesterséges intellige
 
 Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív vezérlési módszerek, MI), akkor jó helyen jársz. Mi majdnem mindennel foglalkozunk, és ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamunkra, melynek elvégzésével felvételt nyerhetsz hozzánk.
 
-> Jelentkezés [ezen a formon](https://goo.gl/forms/mioHDlLNSvAMEeKA2)
->
-> **Jelentkezési határidő: 2019.02.10. (Vasárnap) 23:59**
+> **A jelentkezés a robotika tanfolyamra ebben a félévben már lezárult**
 
 
 A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovereket építeni 4-5 fős csapatokban, és megtanuljátok azok programozását. Az utolsó alkalmon egy végső megmérettetésen nézzük meg, meddig juttok el a kiadott pályán.
