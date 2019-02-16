@@ -92,10 +92,11 @@ p {
 }
 
 blockquote {
-  background-color: #eeeeee;
-  border-radius: 3px;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
-  padding: 10px;
+  background-color: #f0f0f0;
+  border-left: solid 5px #909090;
+  border-radius: 0 3px 3px 0;
+  padding: 0.5em 10px 0.5em 20px;
+  margin: 0.5em -10px 0.5em -25px;
 }
 
 strong {
