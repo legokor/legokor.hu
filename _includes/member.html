@@ -1,7 +1,7 @@
 {% for member in site.members %}
 {% if member.username == include.username %}
 <div class='member-image'>
-  <img src='{{ member.image | default: "http://lego.sch.bme.hu/wp-content/uploads/2016/06/avatar-150x150.png" }}'>
+  <img src='{{ member.image | default: "/images/members/NoImage.svg" }}'>
   <h1>{{ member.name }}</h1>
   <h2>{% include member-roles.html username=member.username %}</h2>
   {% for project in site.projects %}
