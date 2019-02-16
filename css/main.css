@@ -4,11 +4,12 @@
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 html, body {
-  font-family: 'Ubuntu', sans-serif;
+  background-color: #f5f5f5;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   margin: 10px auto 0px auto;
   padding: 0;
@@ -57,17 +58,20 @@ p {
 }
 
 #article-block {
-  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: white;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 3px;
   margin: 30px auto;
-  padding: 15px;
+  padding: 15px 25px;
   text-align: justify;
   max-width: 800px;
 }
 
 #article-block p {
-  color: #000;
+  color: #303030;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 18px;
+  margin: 0.8em 0;
 }
 
 #article-block p img {
@@ -90,7 +94,7 @@ p {
 blockquote {
   background-color: #eeeeee;
   border-radius: 3px;
-  box-shadow:0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
   padding: 10px;
 }
 
@@ -101,22 +105,33 @@ strong {
 #article-block > h1 {
   height: 60px;
   background-color: orange;
+  border-left: solid 5px darkorange;
+  border-radius: 0px 2px 2px 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.25);
   color: #fff;
-  font-weight: bold;
+  font-weight: 900;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 22px;
-  margin-top: 0px;
+  font-size: 24px;
+  margin: 0px -10px 1em -30px;
   text-align: center;
+  text-shadow: 0px 1px 1px rgba(0,0,0,0.2);
 }
 
 #article-block > h2, #article-block > h2 > * {
-  font-weight: 500 !important;
+  color: #252525;
+  font-weight: 400;
+  margin: 1em 0px 0px -25px;
+  padding-left: 20px;
+  border-left: solid 5px #909090;
 }
 
 #article-block > h3 {
+  color: #252525;
+  font-weight: 400;
   font-size: 20px;
+  margin: 25px 0px 5px;
 }
 
 #article-meta {
@@ -125,7 +140,7 @@ strong {
 
 pre {
   background-color: #404040;
-  box-shadow:0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
   border-radius: 3px;
   padding: 5px;
 }
@@ -231,7 +246,7 @@ pre {
 .member-profile img {
   border: #95989A;
   border-radius: 50%;
-  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
   display: block;
   margin: 0px auto 15px auto;
   width: 200px;
@@ -288,7 +303,7 @@ a.preview {
   margin: 20px;
   height: 202px;
   width: 360px;
-  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
   background-size: cover;
   display: inline-flex;
   justify-content: center;
@@ -332,7 +347,7 @@ a .gallery-date, a .project-status {
   justify-content: center;
   align-items: stretch;
   border-radius: 3px;
-  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
   max-width: calc(100% - 40px);
 }
 
@@ -376,7 +391,7 @@ a .gallery-date, a .project-status {
 .post-preview {
   margin: 10px;
   border-radius: 3px;
-  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
   display: inline-block;
   vertical-align: top;
 }
@@ -638,3 +653,4 @@ table {
   border-spacing: 10px;
   border-collapse: separate;
 }
+
