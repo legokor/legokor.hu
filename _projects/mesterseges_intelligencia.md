@@ -2,7 +2,7 @@
 layout: project
 title: Mesterséges Intelligencia
 preview: mi_projekt.jpg
-introduction: A projekt célja, hogy megismerkedjünk különböző gépi tanulási módszerekkel, majd ezen algoritmusokat ki is próbáljuk különböző alkalmazási területeken.
+introduction: Mesterséges intelligencia, gépi és megerősítéses tanulás módszereinek megismerése, alkalmazása.
 complete: false
 leader: csoke-mate
 members:
