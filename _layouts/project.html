@@ -13,18 +13,16 @@ layout: default
 {{ content }}
 
 {% if site.guides %}
-	{% for guide in site.guides %}
-		{% if guide.projects contains page.title %}
-			{% if forloop.first %}
-			<h1>Tudásbázis</h1>
-			<ul class="guides-list">
-			{% endif %}
-			<li><a href='{{ guide.url }}'>{{ guide.title }}</a></li>
-			{% if forloop.last %}
-			</ul>
-			{% endif %}
-		{% endif %}
-	{% endfor %}
+    {% assign guides = site.guides | where_exp:"item", "item.projects contains page.title" %}
+    {% assign guides_size = guides | size %}
+    {% if guides_size != 0 %}
+        <h1>Tudásbázis</h1>
+        <ul class="guides-list">
+            {% for guide in guides %}
+                <li><a href='{{ guide.url }}'>{{ guide.title }}</a></li>
+            {% endfor %}
+        </ul>
+    {% endif %}
 {% endif %}
 
 <h1>Tagok</h1>
@@ -35,7 +33,7 @@ layout: default
 		{% if member.username == page.leader %}
 			<a href='{{ member.url }}' class='box-wrapper'>
 			<div class='member-image'>
-			  <img src='{{ member.image | default: "http://lego.sch.bme.hu/wp-content/uploads/2016/06/avatar-150x150.png" }}'>
+			  <img src='{{ member.image | default: "/images/members/NoImage.svg" }}'>
 			  <h1>{{ member.name }}</h1>
 			  <h2>Projektvezető</h2>
 			</div>
