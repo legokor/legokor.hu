@@ -38,4 +38,4 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
  - [2019.02.19. 18:00 – 20:00](programozas-1)
  - [2019.02.26. 18:00 – 20:00](programozas-2)
  - [2019.03.05. 18:00 – 20:00](szabalyozastechnika)
- - 2019.03.12. 20:00 – 22:00[](vizsga) - Vizsga
+ - [2019.03.12. 20:00 – 22:00](vizsga) - Vizsga
