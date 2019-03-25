@@ -20,12 +20,14 @@ body {
 
 html {
   background-color: #f5f5f5;
-  background-size: cover, 25px 25px, 25px 25px, 5px 5px, 5px 5px;
-  background-image: linear-gradient(170deg, transparent, #f5f5f5 20%),
-                  linear-gradient(white 1px, transparent 1px),
-                  linear-gradient(90deg, white 1px, transparent 1px),
-                  linear-gradient(rgba(255,255,255,0.5) 1px, transparent 1px),
-                  linear-gradient(90deg, rgba(255,255,255,0.5) 1px, transparent 1px);
+  background-image: url('/images/grid.svg');
+  background-attachment: fixed;
+  background-position: center top;
+}
+
+p.lead {
+    font-size: 2em;
+    font-weight: 200;
 }
 
 .green {
@@ -40,7 +42,7 @@ header {
     background-color: orange;
     flex-grow: 100;
     border-radius: 2px;
-    box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.05), 0 2px 3px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.15), 0 2px 3px 0 rgba(0, 0, 0, 0.1);
     overflow: hidden;
 }
 
@@ -52,7 +54,7 @@ header {
     text-align: center;
     padding: 0px 16px;
     text-decoration: none;
-    text-shadow: 0px 1px 1px rgba(0,0,0,0.2);
+    text-shadow: 0px 1px 1px rgba(0,0,0,0.15);
     font-size: 18px;
     transition: all 0.15s ease;
     /*box-shadow: inset 0px 0px 3px 5px darkorange;*/
@@ -70,6 +72,8 @@ header {
   display: block;
   height: 50px;
   margin-right: 50px;
+  background-color: rgba(245,245,245,0.75);
+  box-shadow: 0px 0px 10px 10px rgba(245,245,245,0.75);
 }
 
 #logo-link {
@@ -86,6 +90,101 @@ p {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
+}
+
+.card {
+    padding: 25px;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card h2 {
+    font-size: 1.68em;
+    text-align: left;
+    margin: 0 0 0 -25px;
+    padding: 0 0 0 20px;
+    border-left: solid 5px darkorange;
+    color: #303030;
+}
+
+.card p {
+    text-align: justify;
+    color: #303030;
+}
+
+.card a {
+    color: darkorange;
+}
+
+#main-page-container {
+    background-image: url('/images/labor.jpg');
+    background-attachment: fixed;
+    background-position: center top;
+    margin-top: 25px;
+    padding: 25px 0;
+    position: relative;
+    overflow: hidden;
+}
+
+#main-page-container::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -20px;
+    left: 5px;
+    height: 20px;
+    width: calc(100% - 10px);
+    border-radius: 10px;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.2), 0 3px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+#main-page-container::after {
+    content: "";
+    clear: both;
+    display: block;
+    position: absolute;
+    bottom: -20px;
+    left: 5px;
+    height: 20px;
+    width: calc(100% - 10px);
+    border-radius: 10px;
+    box-shadow: 0 -2px 2px -2px rgba(0, 0, 0, 0.2), 0 -3px 5px -2px rgba(0, 0, 0, 0.19);
+}
+
+#main-page-container h1 {
+    display: block;
+    font-size: 2.75em;
+    font-weight: 900;
+    color: white;
+}
+
+#main-page-container h1 img {
+    height: 80px;
+    width: auto;
+    margin-left: 0.5em;
+    vertical-align: middle;
+}
+
+#main-page-container .card {
+    display: inline-block;
+    margin: 25px 75px;
+    padding: 20px 25px 10px;
+    max-width: 45%;
+    float: left;
+}
+
+#main-page-container .card:nth-of-type(even) {
+    float: right;
+}
+
+#main-page-container .card > a {
+    display: table;
+    margin-right: -25px;
+    padding: 5px 25px 5px 50px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), white 25%);
+    float: right;
 }
 
 #article-block {
@@ -112,7 +211,7 @@ p {
   display: block;
 }
 
-#article-block a {
+#article-block a, #main-page-container a {
   color: orange;
   text-decoration: none;
 }
@@ -587,6 +686,10 @@ ul.guides-list a, #markdown-toc a{
   #article-block {
     margin: 30px 5px;
   }
+  #main-page-container .card {
+    max-width: 60%;
+    margin: 25px;
+  }
 }
 
 @media screen and (max-width: 760px) {
@@ -641,6 +744,10 @@ ul.guides-list a, #markdown-toc a{
     position: unset;
     margin-top: 10px;
   }
+  #main-page-container .card {
+    max-width: 75%;
+    margin: 25px;
+  }
 
 }
 
@@ -675,6 +782,10 @@ ul.guides-list a, #markdown-toc a{
   }
   .project-status {
     height: 25px;
+  }
+  #main-page-container .card {
+    max-width: 100%;
+    margin: 10px 5px;
   }
 }
 
