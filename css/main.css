@@ -120,6 +120,7 @@ p {
 #main-page-container {
     background-image: url('/images/labor.jpg');
     background-attachment: fixed;
+    background-repeat: no-repeat;
     background-position: center top;
     margin-top: 25px;
     padding: 25px 0;
