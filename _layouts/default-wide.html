@@ -45,8 +45,8 @@
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
       if (this.readyState == 4 && this.status == 200) {
-       if(this.responseText == 1)  document.getElementById("laborstate").innerHTML = "Vannak";
-       else  document.getElementById("laborstate").innerHTML = "Kietlen";
+       if(this.responseText == 1)  document.getElementById("laborstate").innerHTML = "Laborban az élet: Exisztál";
+       else  document.getElementById("laborstate").innerHTML = "Laborban az élet: Néhai";
       }
     };
     xhttp.open("GET", "https://cors-anywhere.herokuapp.com/http://pinacolada.legokor.hu/labor", true);
