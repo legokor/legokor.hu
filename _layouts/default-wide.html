@@ -40,6 +40,17 @@
         x.className = "topnav";
       }
     }
+    
+ 
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+       if(this.responseText == 1)  document.getElementById("laborstate").innerHTML = "Vannak";
+       else  document.getElementById("laborstate").innerHTML = "Kietlen";
+      }
+    };
+    xhttp.open("GET", "https://cors-anywhere.herokuapp.com/http://pinacolada.legokor.hu/labor", true);
+    xhttp.send();
   </script>
 </head>
 <body>
