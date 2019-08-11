@@ -8,7 +8,9 @@ layout: default
 
 # Workshop
 
-> **A jelentkezés a workshopokra ebben a félévben már lezárult**
+> **Ebben a félévben még nem hirdettünk workshopokat.**
+>
+> Lentebb az előző félév információit találod.
 
 
 ## Mesterséges Intelligencia Workshop
@@ -27,7 +29,9 @@ Napjainkban igen felkapott területe az informatikának a mesterséges intellige
 
 Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív vezérlési módszerek, MI), akkor jó helyen jársz. Mi majdnem mindennel foglalkozunk, és ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamunkra, melynek elvégzésével felvételt nyerhetsz hozzánk.
 
-> **A jelentkezés a robotika tanfolyamra ebben a félévben már lezárult**
+> **Ebben a félévben még nem hirdettünk meg a tanfolyamunkat. Részletek hamarosan!**
+>
+> Lentebb az előző félév információit találod.
 
 
 A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovereket építeni 4-5 fős csapatokban, és megtanuljátok azok programozását. Az utolsó alkalmon egy végső megmérettetésen nézzük meg, meddig juttok el a kiadott pályán.
