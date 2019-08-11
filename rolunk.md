@@ -10,7 +10,7 @@ A LEGO Kör nevét a LEGO Mindstorms-ról kapta, ugyanis hosszú ideig ezen eszk
 
 **Miután bekerülsz a körbe, számos projekt közül választhatsz, melyiken szeretnél dolgozni.** Ezek között akad villamosmérnökibb és informatikusabb beállítottságú is, illetve előfordul, hogy részfeladatok szintjén keverednek ezek. **Akkor se aggódj, ha infósként túlnyomóan villanyos, vagy villanyosként túlnyomóan infós projektbe szeretnél becsatlakozni:** általában minden projektben akad a másik szakhoz illő részfeladat, illetve a projekttársaidtól is kérdezhetsz, tanulhatsz akármikor.
 
-A legtöbb projektünk célorientált, azaz valamilyen projektszintű cél felé halad minden időpontban, a projekttagok közös munkája által. Ha cél megvalósul, a tagok újat tűznek ki, vagy ritkább esetben a projekt lezárul. A maradék néhány projektünk „tanulócsoport” jellegű: itt a projekttagok közötti ismeretátadáson van a hangsúly, egyébként mindenki a saját kis célján dolgozik, és a tapasztalataikat osztják meg egymással.
+A legtöbb projektünk célorientált, azaz valamilyen projektszintű cél felé halad minden időpontban, a projekttagok közös munkája által. Ha cél megvalósul, a tagok újat tűznek ki, vagy ritkább esetben a projekt lezárul. A maradék néhány projektünk „tanulócsoport” jellegű: itt a projekttagok közötti ismeretátadáson van a hangsúly, egyébként mindenki a saját kis célján dolgozik és a tapasztalataikat osztják meg egymással.
 
 ### Villamosmérnökök?
 
@@ -34,7 +34,7 @@ Ha azt gondolnád, hogy a körben a nyomtatott áramkörnél *hardverebb* hardve
 
 Félévente meghirdetett [felvételi tanfolyamunk és egyéb workshopjaink](/tanfolyam/) mellett körtagjaink egymásnak is gyakran tartanak **belsős tanfolyamokat**. Ezek mindig olyan témákban vannak meghirdetve, melyek a tagság egy jelentős része számára a körös munkájukat elősegítő, használható tudást adnak át, például hogyan működik a gites verziókezelés, vagy hogy hogyan készítsünk nyomtatott áramkört, a tervezéstől a gyártásig.
 
-Körtagként érdemes akkor is benézned ezekre, ha a te konkrét éreklődési köröd nem érinti az éppen soron lévő téma, hiszen lehet pont ez a részvétel kelti fel iránta a kíváncsiságodat. Arra is számíts, hogy amit itt megtanulsz, nagy eséllyel jól jön majd később, akár a körben, akár az egyetemen is.
+Körtagként érdemes akkor is benézned ezekre, ha a te konkrét érdeklődési köröd nem érinti az éppen soron lévő téma, hiszen lehet pont ez a részvétel kelti fel iránta a kíváncsiságodat. Arra is számíts, hogy amit itt megtanulsz, nagy eséllyel jól jön majd később, akár a körben, akár az egyetemen is.
 
 Néhány belsős tanfolyamunk anyagát a [tudástárunkban](/tudasbazis/) is elérhetővé tettük.
 
