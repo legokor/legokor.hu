@@ -8,7 +8,7 @@ excerpt: Az UPRA csapat idén nyáron felkérést kapott, hogy a MANT Űrtábor 
 
 Az UPRA csapat idén nyáron felkérést kapott, hogy a MANT Űrtábor keretében indítson egy ballont a táborozók bevonásával. A repülés a csapat első hivatalos küldetése a "Fly With Us" program keretében, melynek célja, hogy külsős csapatok által készített hasznos teher számára biztosítson repülési lehetőséget a sztratoszférába.
 
-![](/images/posts/FWU-1_cikk/urtabor_sujhely_aero.jpg)
+<iframe src="https://www.youtube.com/embed/tLt19FdWq6s" frameborder="0" allowfullscreen></iframe>
 
 2019. július 7. és 13. között 25. alkalommal került megrendezésre a Magyar Asztronautikai Társaság (MANT) Űrtábora. A jeles évforduló alkalmából az UPRA csapata is ellátogatott a táborba, ahol Bodó Zsófia és Góczán Bence bevezették a táborozókat a magaslégöri ballonozás rejtelmeibe. Az előadást követő workshop keretében a táborban résztvevő 13-18 éves fiatalok kreatív "képeslapokat" készítettek, hogy azokat felküldhessék a sztratoszférába.
 
@@ -39,7 +39,10 @@ A visszatérő egység egy ártéri erdő közepén landolt, melynek megközelí
 
 A hasznos teher, mely tartalmazta a táborozók "képeslapjait", a város zászlaját és az emlékkártyákat még aznap visszaért a táborba és egy rövid beszámolót követően a táborvezetőkkel közösen felnyitásra kerültek a kapszulák.
 
-A platform alrendszereinek vizsgálatára a LEGO Laborban került sor hazautazás után. Az elemzés során kiderült, hogy a repülésmegszakító rendszer a megadott magasságon aktiválódott és 50 méteres sávon belül sikeresen levágta a ballont. 
+A platform alrendszereinek vizsgálatára a LEGO Laborban került sor hazautazás után. Az elemzés során kiderült, hogy a repülésmegszakító rendszer a megadott magasságon aktiválódott és 50 méteres sávon belül sikeresen levágta a ballont.
+
+![](/images/posts/FWU-1_cikk/urtabor_sujhely_aero.jpg)
+
 A fedélzeten elhelyezett CONTROLCAM kamera képei megörökítették Sátoraljaújhely városát és az őt körülvevő lenyűgöző tájakat. A felvételek alapján az emelkedés korai és a visszatérés végső fázisában a légáramlatok a vártnál jobban belengették a hasznos terhet szállító kapszulát, mely a későbbiekben a rögzítőhevederek hosszának megfelelő beállításával orvosolható.
 
 Ez a repülés fontos tapasztalatokat és rendkívül jó élményeket adott a csapatnak, mely reméli, hogy az táborozóknak is meghatározó élmény volt testközelből látni egy ballon felbocsátást és elindítja őket a tudományos vagy mérnöki pálya felé. Az UPRA csapat ezúton is szeretné megköszönni a lehetőséget, felkérést és minden segítséget a MANT Űrtábor szervezőinek!
