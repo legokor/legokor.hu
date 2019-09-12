@@ -13,7 +13,7 @@ Az UPRA csapat idén nyáron felkérést kapott, hogy a MANT Űrtábor keretébe
 </div>
 
 
-2019. július 7. és 13. között 25. alkalommal került megrendezésre a Magyar Asztronautikai Társaság (MANT) Űrtábora. A jeles évforduló alkalmából az UPRA csapata is ellátogatott a táborba, ahol Bodó Zsófia és Góczán Bence bevezették a táborozókat a magaslégöri ballonozás rejtelmeibe. Az előadást követő workshop keretében a táborban résztvevő 13-18 éves fiatalok kreatív "képeslapokat" készítettek, hogy azokat felküldhessék a sztratoszférába.
+2019\. július 7. és 13. között 25. alkalommal került megrendezésre a Magyar Asztronautikai Társaság (MANT) Űrtábora. A jeles évforduló alkalmából az UPRA csapata is ellátogatott a táborba, ahol Bodó Zsófia és Góczán Bence bevezették a táborozókat a magaslégöri ballonozás rejtelmeibe. Az előadást követő workshop keretében a táborban résztvevő 13-18 éves fiatalok kreatív "képeslapokat" készítettek, hogy azokat felküldhessék a sztratoszférába.
 
 A ballon fedélzetén a táborozók személyes üzenetei mellett a tábornak helyszínt adó város, Sátoraljaújhely zászlaja és egy-egy MANT Űrtábor emlékkártya is helyet kapott, melyek a tábor résztvevő, szervezői és külsős segítői között kiosztásra kerültek a repülést követően.
 
@@ -21,7 +21,7 @@ A mivel a repülés a "Fly With Us" program keretében valósult meg, ezért a h
 
 # FWU-1 Repülés
 
-2019. július 9-én Sátoraljaújhely főteréről indult a ballon. A csapat számára ez volt az első olyan felbocsátás, ami nem az egyetemi kampusz területén történt. A küldetés egyik nehézségét az indítási helyszín és a ballon ebből adodó útvonala okozta. A szimulációk alapján a landolási terület veszélyesen közel került az ukrán határhoz, egyes szimulációk esetében a szomszédos ország területére kerültek a landolási zónák. Országhatáron túli landolás logisztikai és diplomáciai problémákat okozhat, ezért a csapat az irányított repülésmegszakítás mellett döntött.
+2019\. július 9-én Sátoraljaújhely főteréről indult a ballon. A csapat számára ez volt az első olyan felbocsátás, ami nem az egyetemi kampusz területén történt. A küldetés egyik nehézségét az indítási helyszín és a ballon ebből adodó útvonala okozta. A szimulációk alapján a landolási terület veszélyesen közel került az ukrán határhoz, egyes szimulációk esetében a szomszédos ország területére kerültek a landolási zónák. Országhatáron túli landolás logisztikai és diplomáciai problémákat okozhat, ezért a csapat az irányított repülésmegszakítás mellett döntött.
 
 Az ejtőernyőt és a ballont összekötő zsinóron került rögzítésre a repülés megszakító egységünk (FTU) prototípusa, mely egy előre meghatározott magasságon levágta a ballont a hasznosteherláncról. A küldetés tervezés során a szimulációk hangolásával meghatározásra került egy magasságtartomány, melyen belül megszakított repülés a visszatérő egység Magyarország területén landolhatott.
 
