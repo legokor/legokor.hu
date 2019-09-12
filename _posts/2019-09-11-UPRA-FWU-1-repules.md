@@ -22,7 +22,7 @@ A mivel a repülés a "Fly With Us" program keretében valósult meg, ezért a h
 
 Az ejtőernyőt és a ballont összekötő zsinóron került rögzítésre a repülés megszakító egységünk (FTU) prototípusa, mely egy előre meghatározott magasságon levágta a ballont a hasznosteherláncról. A küldetés tervezés során a szimulációk hangolásával meghatározásra került egy magasságtartomány, melyen belül megszakított repülés a visszatérő egység Magyarország területén landolhatott.
 
-![](/images/posts/FWU-1_cikk/balloonpath.jpg)
+![](/images/posts/FWU-1_cikk/balloonpath.JPG)
 
 A fedélzeti számítógép (OBC) már a tervezés során fel lett készítve egyszerű repülésmegszakító kezelésére, így az előzetes tesztek és integráció során csak a megfelelő magasságot kellett beállítani. A repülés kiváló lehetőséget adott arra, hogy a laborkörülmények között kipróbált hőkés működéséről valós, repülési szituációban is adatot gyűjtsön a csapat.
 
