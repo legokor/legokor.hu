@@ -8,7 +8,9 @@ excerpt: Az UPRA csapat idén nyáron felkérést kapott, hogy a MANT Űrtábor 
 
 Az UPRA csapat idén nyáron felkérést kapott, hogy a MANT Űrtábor keretében indítson egy ballont a táborozók bevonásával. A repülés a csapat első hivatalos küldetése a "Fly With Us" program keretében, melynek célja, hogy külsős csapatok által készített hasznos teher számára biztosítson repülési lehetőséget a sztratoszférába.
 
-<iframe src="https://www.youtube.com/embed/tLt19FdWq6s" frameborder="0" allowfullscreen></iframe>
+<div class="video16-9">
+  <iframe src="https://www.youtube.com/embed/tLt19FdWq6s" frameborder="0" allowfullscreen></iframe>
+</div>
 
 2019. július 7. és 13. között 25. alkalommal került megrendezésre a Magyar Asztronautikai Társaság (MANT) Űrtábora. A jeles évforduló alkalmából az UPRA csapata is ellátogatott a táborba, ahol Bodó Zsófia és Góczán Bence bevezették a táborozókat a magaslégöri ballonozás rejtelmeibe. Az előadást követő workshop keretében a táborban résztvevő 13-18 éves fiatalok kreatív "képeslapokat" készítettek, hogy azokat felküldhessék a sztratoszférába.
 
