@@ -3,10 +3,12 @@ layout: project
 title: Gépi Látás
 preview: gepilatas_logo.jpg
 introduction: A projekt célja gépi látás alapú algoritmusok kipróbálása, és alkalmazása.
-leader: bartha-balint
+leader: zih-botond
 members:
+- bartha-balint
+- izso-andras
 - moricz-tamas
-- zih-botond
+- varnyu-dora
 ---
 
 A projekt célja gépi látás alapú algoritmusok kipróbálása, és alkalmazása. Ehhez az OpenCV library által nyújtott eszközöket használjuk fel. Hosszú távon azt szeretnénk elérni, hogy a körben rendelkezésre álljanak olyan képfeldolgozás alapú szoftver komponensek, melyeket más projektekben egyszerűen fel tudunk használni.
