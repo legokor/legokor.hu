@@ -9,7 +9,7 @@ excerpt: A nyár közepén egy különleges felkérést kapott az UPRA. A Rádi�
 A nyár közepén egy különleges felkérést kapott az UPRA. A Rádió 1 népszerű műsorának készítői keresték meg csapatot, hogy valamit szeretnének feljuttatni a világűr határára. Az egész történet egy reggeli telefonos interjűval kezdődött, ahol Bodó Zsófi válaszot a műsorvezetők ballonozással kapcsolatos kérdéseire. A műsor után pedig a csapat megkapta második hivatalos Fly With Us felkérését, bár ekkor még a hasznos teher pontosan nem lett definiálva.
 
 <div class="video16-9">
-  <iframe src="https://www.youtube.com/watch?v=HbtcOerCxTE" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/HbtcOerCxTE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
@@ -65,7 +65,7 @@ Részletes ellenőrzés valamint a kamerák felvételeinek kiértékelése célj
 # UPRACAM Eredmények
 
 <div class="video16-9">
-  <iframe src="https://www.youtube.com/watch?v=H5K3UstCYDc" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/H5K3UstCYDc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Az UPRACAM a repülést sikeresen rögzítette, lencséi egyenesen lefelé, a föld felé néztek. A küldetés során készült képek teljes kiértékelése még folyamatban van, ízelítőül néhány képen a csapat elvégezte a szükséges transzformációkat. 
