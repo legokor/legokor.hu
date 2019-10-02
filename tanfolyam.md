@@ -12,15 +12,11 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > **Jelentkezés:**
 >
-> A jelenetkezéshez az alábbi formot szükséges kitöltened:
->
-> [***Jelentkező kérdőív***](https://docs.google.com/forms/d/e/1FAIpQLSdq9PyMXIN0xLPARb5M1MBgjug_YbRbeE3czAd2Cuodivgvhg/viewform?usp=sf_link)
->
-> A kérdőív része egy fényképes motivációs levél leadása. Ebben arra kérünk írd le röviden, miért szeretnél a LEGO Körhöz csatlakozni, és milyen projektek érdekelnek.
+> A jelenetkezés az idei tanfolyamra már lezárult
 >
 > Jelentkezési határidő: 2019.09.29. 23:59
 >
-> A jelentkezéssel és tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj hozzánk az *izso.andras@simonyi.bme.hu* email címen.
+> A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj hozzánk az *izso.andras@simonyi.bme.hu* email címen.
 
 
 A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovereket építeni 4-5 fős csapatokban, és megtanuljátok azok programozását. Az utolsó alkalmon egy végső megmérettetésen nézzük meg, meddig juttok el a kiadott pályán.
