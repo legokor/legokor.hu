@@ -32,18 +32,20 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
 
 # Workshop
 
-> **Ebben a félévben még nem hirdettünk workshopokat.**
->
-> Lentebb az előző félév információit találod.
 
 
 ## Mesterséges Intelligencia Workshop
 
 Napjainkban igen felkapott területe az informatikának a mesterséges intelligencia. Ha szeretnél mélyebben belelátni a tanuló algoritmusokba és a velük megoldható problémakörökbe, akkor nézz be a LEGO kör mesterséges intelligencia előadásaira!
 
-4 alkalom:
+> **A jelentkezésről infók hamarosan érkeznek.**
+>
+> Az összes workshop alkalom a Schönherz Kollégium 103-as termében lesz tartva
 
-- 2019.02.12. 16:00 - 18:00 
-- 2019.02.19. 16:00 - 18:00 
-- 2019.02.26. 16:00 - 18:00 
-- 2019.03.05. 16:00 - 18:00 
+5 alkalom:
+
+- 2019.10.31. 19:00 - 21:30 
+- 2019.11.07. 19:00 - 21:30 
+- 2019.11.14. 20:00 - 22:00 
+- 2019.11.20. 18:00 - 20:00
+- 2019.11.27. 18:00 - 20:00
