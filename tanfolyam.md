@@ -52,6 +52,7 @@ Napjainkban igen felkapott területe az informatikának a mesterséges intellige
 - 2019.11.20. 18:00 - 20:00 - Bayesian Networks
 - 2019.11.27. 18:00 - 20:00 - Reinforcement learning
 
-* : BigQuery: learn about Google’s massive data warehouse solution and how to process data in petabyte scale with standard SQL
 
-** :Apache Beam (Dataflow): learn how to build a scalable data processing pipeline with an open source framework for batch or even streaming processing and how to run it on Google Cloud
+(* ): BigQuery: learn about Google’s massive data warehouse solution and how to process data in petabyte scale with standard SQL
+
+(** ): Apache Beam (Dataflow): learn how to build a scalable data processing pipeline with an open source framework for batch or even streaming processing and how to run it on Google Cloud
