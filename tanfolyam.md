@@ -38,14 +38,20 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
 
 Napjainkban igen felkapott területe az informatikának a mesterséges intelligencia. Ha szeretnél mélyebben belelátni a tanuló algoritmusokba és a velük megoldható problémakörökbe, akkor nézz be a LEGO kör mesterséges intelligencia előadásaira!
 
-> **A jelentkezésről infók hamarosan érkeznek.**
+> **Jelentkezni az alábbi linken lehetséges:**
+> 
+> [Jelentkező link](https://docs.google.com/forms/d/e/1FAIpQLScnuunufRvO66sgJT4S_R6ui0e_0Ge1PkXaQJh1jFB07KFk5w/viewform?usp=sf_link)
 >
 > Az összes workshop alkalom a Schönherz Kollégium 103-as termében lesz tartva
 
 5 alkalom:
 
-- 2019.10.31. 19:00 - 21:30 
-- 2019.11.07. 19:00 - 21:30 
-- 2019.11.14. 20:00 - 22:00 
-- 2019.11.20. 18:00 - 20:00
-- 2019.11.27. 18:00 - 20:00
+- 2019.10.31. 19:00 - 21:30 - BigQuery*
+- 2019.11.07. 19:00 - 21:30 - Apache Beam (Dataflow)**
+- 2019.11.14. 20:00 - 22:00 - Mathematics of neural networks and deep learning
+- 2019.11.20. 18:00 - 20:00 - Bayesian Networks
+- 2019.11.27. 18:00 - 20:00 - Reinforcement learning
+
+* : BigQuery: learn about Google’s massive data warehouse solution and how to process data in petabyte scale with standard SQL
+
+** :Apache Beam (Dataflow): learn how to build a scalable data processing pipeline with an open source framework for batch or even streaming processing and how to run it on Google Cloud
