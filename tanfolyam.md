@@ -27,7 +27,7 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
  - 2019.10.16. 18:00 – 20:00 - [Programozás 1](programozas-1)
  - 2019.10.23. 18:00 – 20:00 - [Programozás 2](programozas-2)
  - 2019.10.30. 19:00 – 21:00 - [Szabályozástechnika](szabalyozastechnika)
- - 2019.11.06. 18:00 – 20:00 - Vizsga
+ - 2019.11.06. 18:00 – 20:00 - [Vizsga](vizsga)
 
 
 # Workshop
