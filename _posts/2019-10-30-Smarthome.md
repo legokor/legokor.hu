@@ -14,7 +14,8 @@ Az okos otthonoknak sok fajtája létezik. Már nem elvetekedett gondolat manaps
 Fő eszközünk az ESP32 mikrokontroller NODEMCU boardon. Az alapötlet, hogy a lakás különböző pontjain elhelyezünk ilyen ESP-ket, melyek önállóan, jelerősség alapján (WiFi) felépítenek magukból egy úgynevezett „mesh hálózatot”. Ezt úgy kívánjuk megvalósítani, hogy kihasználjuk az ESP32 azon tulajdonságát, hogy képes „access point” (ap), és station (sta) módban is működni. Előbbi mód gyakorlatilag egy vezeték nélküli hozzáférési pontként értelmezhető, az utóbbi mód lényege pedig, hogy a már meglévő hálózatban keres ap-kat.
 
 ![](/images/posts/Smarthome_19_10_29/1.SBC-NODEMCU-ESP32-01.png) 
-Az ESP32 NODEMCU board
+<p style="text-align: center; font-size: 10px;">Az ESP32 NODEMCU board</p>
+
 
 A hálózat úgy épülne fel, hogy veszünk 1 db ESP-t, és ap módba állítjuk. Az összes többi ESP sta módban van, ők keresik a már meglévő ap-kat. Amint találnak egyet, (amennyiben többet, akkor a legnagyobb jelerősségűre) rácsatlakoznak, és önmagukat is ap módba állítják.  Ez addig zajlik, amíg az összes ESP ap módban nem lesz. 
 
@@ -26,9 +27,11 @@ Az egyik panel az ESP32 boardot foglalja magába, annak lábait vezeti ki RJ12-e
 
 ![](/images/posts/Smarthome_19_10_29/2.nyak_esp32.png)  
 
+
 A másik panel 1 db RJ12-es aljzattal rendelkezik, amivel összeköthető a fentebb említett panellal, és erre köthetjük rá tüskesoros csatlakozással a kívánt szenzorokat, perifériákat.
 
 ![](/images/posts/Smarthome_19_10_29/3.nyak_szenzor.png) 
+
 
 # Programozás
 
@@ -36,9 +39,11 @@ A szenzorok elhelyezése és bekötése után tudatnunk kell az ESP-vel, hogy mi
   
 ![](/images/posts/Smarthome_19_10_29/4.blockly.png) 
 
+
 A frontend Blazor segítségével készül. 
 
 ![](/images/posts/Smarthome_19_10_29/5.blazor.png)   
+
 
 # Modellház
 
