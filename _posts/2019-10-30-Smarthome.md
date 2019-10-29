@@ -4,10 +4,8 @@ layout: post
 author: bodo-zsofia
 image: https://github.com/legokor/legokor.hu/blob/master/images/posts/Smarthome_19_10_29/7.SH_Haz_Modell_Profil_Alpha.png?raw=true
 
-excerpt: Az okos otthonoknak sok fajtája létezik. Már nem elvetekedett gondolat manapság egy építkezés során, hogy egy ház kivitelezése eleve így történjen. Alapvetően a huzalozott rendszerrel létrejövő megoldások nevezhetők a legstabilabbnak, legmegbízhatóbbnak ezen a téren, azonban egy ilyesfajta megvalósítás egy idősebb lakásban, házban elég költséges, körülményes lehet. Nem feltétlenül a rendszer ára, hanem a kiépítés pluszmunkálatai (pl. fal megbontása) miatt is. Így mi, a SmartHome projekt keretein belül nem a vezetékes, hanem a vezeték nélküli megoldással foglalkozunk. 
+excerpt: Az okos otthonoknak sok fajtája létezik. Alapvetően a huzalozott rendszerrel létrejövő megoldások nevezhetők a legstabilabbnak, legmegbízhatóbbnak ezen a téren, azonban egy ilyesfajta megvalósítás egy idősebb lakásban, házban elég költséges, körülményes lehet. Nem feltétlenül a rendszer ára, hanem a kiépítés pluszmunkálatai (pl. fal megbontása) miatt is. Így mi, a SmartHome projekt keretein belül nem a vezetékes, hanem a vezeték nélküli megoldással foglalkozunk. 
 ---
-
-# Otthon okosítás, avagy a SmartHome projekt
 
 Az okos otthonoknak sok fajtája létezik. Már nem elvetekedett gondolat manapság egy építkezés során, hogy egy ház kivitelezése eleve így történjen. Alapvetően a huzalozott rendszerrel létrejövő megoldások nevezhetők a legstabilabbnak, legmegbízhatóbbnak ezen a téren, azonban egy ilyesfajta megvalósítás egy idősebb lakásban, házban elég költséges, körülményes lehet. Nem feltétlenül a rendszer ára, hanem a kiépítés pluszmunkálatai (pl. fal megbontása) miatt is. Így mi, a SmartHome projekt keretein belül nem a vezetékes, hanem a vezeték nélküli megoldással foglalkozunk. 
 
