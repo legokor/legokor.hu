@@ -531,9 +531,8 @@ a .gallery-date, a .project-status {
 
 .post-preview img {
   margin: 0px;
-  max-width: 220px;
-  max-height: 220px;
   box-shadow: 3px 0 3px -2px rgba(0, 0, 0, 0.2);
+  width: 220px;
   height: 220px;
   object-fit: cover;
   border-radius: 3px 0 0 3px;
