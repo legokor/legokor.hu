@@ -12,20 +12,20 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > **Jelentkezés:**
 >
-> Jelenleg nincsen jelentkezési időszak, az aktuális részletekkel hamarosan jelentkezünk. Alább az előző féléves időpontok találhatóak.
+> Jelenleg nincsen jelentkezési időszak, az aktuális részletekkel hamarosan jelentkezünk
 >
-> A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj hozzánk az *izso.andras@simonyi.bme.hu* email címen.
+> A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj hozzánk az *izso.andras@simonyi.bme.hu* email címen
 
 
 A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovereket építeni 4-5 fős csapatokban, és megtanuljátok azok programozását. Az utolsó alkalmon egy végső megmérettetésen nézzük meg, meddig juttok el a kiadott pályán.
 
 A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
 
- - 2019.10.09. 18:00 – 20:00 - [Építés](epites)
- - 2019.10.16. 18:00 – 20:00 - [Programozás 1](programozas-1)
- - 2019.10.23. 18:00 – 20:00 - [Programozás 2](programozas-2)
- - 2019.10.30. 19:00 – 21:00 - [Szabályozástechnika](szabalyozastechnika)
- - 2019.11.06. 18:00 – 20:00 - Vizsga
+ - 2020.02.20. 18:00 – 20:00 - [Építés](epites)
+ - 2020.02.27. 18:00 – 20:00 - [Programozás 1](programozas-1)
+ - 2020.03.05. 18:00 – 20:00 - [Programozás 2](programozas-2)
+ - 2020.03.12. 18:00 – 20:00 - [Szabályozástechnika](szabalyozastechnika)
+ - 2020.03.19. 18:00 – 20:00 - Vizsga
 
 
 # Workshop
