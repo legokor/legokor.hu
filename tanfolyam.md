@@ -12,9 +12,7 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > **Jelentkezés:**
 >
-> A jelenetkezés az idei tanfolyamra már lezárult
->
-> Jelentkezési határidő: 2019.09.29. 23:59
+> Jelenleg nincsen jelentkezési időszak, az aktuális részletekkel hamarosan jelentkezünk. Alább az előző féléves időpontok találhatóak.
 >
 > A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj hozzánk az *izso.andras@simonyi.bme.hu* email címen.
 
@@ -27,7 +25,7 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
  - 2019.10.16. 18:00 – 20:00 - [Programozás 1](programozas-1)
  - 2019.10.23. 18:00 – 20:00 - [Programozás 2](programozas-2)
  - 2019.10.30. 19:00 – 21:00 - [Szabályozástechnika](szabalyozastechnika)
- - 2019.11.06. 18:00 – 20:00 - [Vizsga](vizsga)
+ - 2019.11.06. 18:00 – 20:00 - Vizsga
 
 
 # Workshop
@@ -38,9 +36,9 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
 
 Napjainkban igen felkapott területe az informatikának a mesterséges intelligencia. Ha szeretnél mélyebben belelátni a tanuló algoritmusokba és a velük megoldható problémakörökbe, akkor nézz be a LEGO kör mesterséges intelligencia előadásaira!
 
-> **Jelentkezni az alábbi linken lehetséges:**
-> 
-> [Jelentkező link](https://docs.google.com/forms/d/e/1FAIpQLScnuunufRvO66sgJT4S_R6ui0e_0Ge1PkXaQJh1jFB07KFk5w/viewform?usp=sf_link)
+> **Jelentkezés:**
+>
+> Jelenleg nincsen jelentkezési időszak
 >
 > Az összes workshop alkalom a Schönherz Kollégium 103-as termében lesz tartva
 
