@@ -12,7 +12,11 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > **Jelentkezés:**
 >
-> Jelenleg nincsen jelentkezési időszak, az aktuális részletekkel hamarosan jelentkezünk
+> A következő linkre kattintva tudsz jelentkezni: https://forms.gle/pK1N628b6Bj2adYu9
+>
+> A kérdőívben az alapvető adatok megadásán túl szükséges továbbá egy legalább fél oldalas, fényképpel ellátott motivációs levél mellékelése, melyben röviden bemutatkozol és leírod, hogy miért is szeretnél csatlakozni hozzánk, milyen szakmailag témába vágó dolgokkal foglalkoztál eddig, és mit szeretnél tenni nálunk, mit vársz a körtől.
+>
+> Leadási határidő: 2020.02.16. éjfél
 >
 > A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj hozzánk az *izso.andras@simonyi.bme.hu* email címen
 
@@ -38,19 +42,14 @@ Napjainkban igen felkapott területe az informatikának a mesterséges intellige
 
 > **Jelentkezés:**
 >
-> Jelenleg nincsen jelentkezési időszak
+> Jelenleg nincsen jelentkezési időszak, hamarosan jelentkezünk az aktuális információkkal
 >
 > Az összes workshop alkalom a Schönherz Kollégium 103-as termében lesz tartva
 
 5 alkalom:
 
-- 2019.10.31. 19:00 - 21:30 - BigQuery*
-- 2019.11.07. 19:00 - 21:30 - Apache Beam (Dataflow)**
-- 2019.11.14. 20:00 - 22:00 - Mathematics of neural networks and deep learning
-- 2019.11.20. 18:00 - 20:00 - Bayesian Networks
-- 2019.11.27. 18:00 - 20:00 - Reinforcement learning
-
-
-(* ): BigQuery: learn about Google’s massive data warehouse solution and how to process data in petabyte scale with standard SQL
-
-(** ): Apache Beam (Dataflow): learn how to build a scalable data processing pipeline with an open source framework for batch or even streaming processing and how to run it on Google Cloud
+- 2020.03.26. 18:00 - 20:00
+- 2020.04.02. 18:00 - 20:00
+- 2020.04.09. 18:00 - 20:00
+- 2020.04.16. 18:00 - 20:00
+- 2020.04.23. 18:00 - 20:00
