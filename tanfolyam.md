@@ -12,7 +12,7 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > **Jelentkezés:**
 >
-> A következő linkre kattintva tudsz jelentkezni: https://forms.gle/pK1N628b6Bj2adYu9
+> A következő linkre kattintva tudsz jelentkezni: <https://forms.gle/pK1N628b6Bj2adYu9>
 >
 > A kérdőívben az alapvető adatok megadásán túl szükséges továbbá egy legalább fél oldalas, fényképpel ellátott motivációs levél mellékelése, melyben röviden bemutatkozol és leírod, hogy miért is szeretnél csatlakozni hozzánk, milyen szakmailag témába vágó dolgokkal foglalkoztál eddig, és mit szeretnél tenni nálunk, mit vársz a körtől.
 >
