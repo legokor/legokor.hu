@@ -25,7 +25,7 @@ A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovere
 
 A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
 
- - 2020.02.20. 17:00 – 19:00 - [Építés](epites)
+ - 2020.02.20. 17:00 – 19:00 - [Építés](epites), [Debuggolható programok](/tanfolyam/debuggolhato_programok.pdf)
  - 2020.02.27. 18:00 – 20:00 - [Programozás 1](programozas-1)
  - 2020.03.05. 18:00 – 20:00 - [Programozás 2](programozas-2)
  - 2020.03.12. 18:00 – 20:00 - [Szabályozástechnika](szabalyozastechnika)
