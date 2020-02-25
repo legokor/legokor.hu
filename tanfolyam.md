@@ -18,7 +18,7 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 >
 > Leadási határidő: 2020.02.16. éjfél
 >
-> A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj hozzánk az *izso.andras@simonyi.bme.hu* email címen
+> A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz az *izso.andras@simonyi.bme.hu* email címen
 
 
 A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovereket építeni 4-5 fős csapatokban, és megtanuljátok azok programozását. Az utolsó alkalmon egy végső megmérettetésen nézzük meg, meddig juttok el a kiadott pályán.
@@ -42,9 +42,9 @@ Napjainkban igen felkapott területe az informatikának a mesterséges intellige
 
 > **Jelentkezés:**
 >
-> Jelenleg nincsen jelentkezési időszak, hamarosan jelentkezünk az aktuális információkkal
+> A következő linkre kattintva tudsz jelentkezni: <https://forms.gle/zMGxM7fomMDg7uXdA>
 >
-> Az összes workshop alkalom a Schönherz Kollégium 103-as termében lesz tartva
+> Az összes workshop alkalom a Schönherz Kollégium 103-as termében lesz tartva. A workshoppal kapcsolatos kérdéseitekkel keressétek az MI projekt vezetőjét a *nagy.attila@simonyi.bme.hu* címen.
 
 5 alkalom:
 
