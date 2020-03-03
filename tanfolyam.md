@@ -12,11 +12,7 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > **Jelentkezés:**
 >
-> A következő linkre kattintva tudsz jelentkezni: <https://forms.gle/pK1N628b6Bj2adYu9>
->
-> A kérdőívben az alapvető adatok megadásán túl szükséges továbbá egy legalább fél oldalas, fényképpel ellátott motivációs levél mellékelése, melyben röviden bemutatkozol és leírod, hogy miért is szeretnél csatlakozni hozzánk, milyen szakmailag témába vágó dolgokkal foglalkoztál eddig, és mit szeretnél tenni nálunk, mit vársz a körtől.
->
-> Leadási határidő: 2020.02.16. éjfél
+> Jelenleg nincsen jelentkezési időszak
 >
 > A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz az *izso.andras@simonyi.bme.hu* email címen
 
@@ -48,8 +44,8 @@ Napjainkban igen felkapott területe az informatikának a mesterséges intellige
 
 5 alkalom:
 
-- 2020.03.26. 18:00 - 20:00
-- 2020.04.02. 18:00 - 20:00
-- 2020.04.09. 18:00 - 20:00
-- 2020.04.16. 18:00 - 20:00
-- 2020.04.23. 18:00 - 20:00
+- 2020.03.26. 18:00 - 20:00 - Neurális hálózatok matematikai alapjai I
+- 2020.04.02. 18:00 - 20:00 - Neurális hálózatok matematikai alapjai II
+- 2020.04.09. 18:00 - 20:00 - Megerősítéses tanulás
+- 2020.04.16. 18:00 - 20:00 - Gyakorlati alkalmazások I
+- 2020.04.23. 18:00 - 20:00 - Gyakorlati alkalmazások II
