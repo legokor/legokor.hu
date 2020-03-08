@@ -262,6 +262,8 @@ Láthattunk tehát egy egyszerű példát a konkurens folyamatok egyik hibalehet
 a kivédésére. Az első és a második megoldást a gyakorlatban egyaránt lehet használni, mivel
 igen kicsi az esélye annak, hogy a szemafor lefoglalása közben következzen be task váltás.
 
+Az alkalmon vetített [diasor](LEGO_Robotika_tanf_3_prog2.pdf) itt érhető el.
+
 ## Hasznos függvények
 
 A következőkben pár új vagy nagyon hasznos függvényt szeretnék röviden és tömören
