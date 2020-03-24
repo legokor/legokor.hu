@@ -32,15 +32,13 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
 
 
 
-## Mesterséges Intelligencia Workshop
+## Mesterséges Intelligencia Workshop - ELMARAD
 
 Napjainkban igen felkapott területe az informatikának a mesterséges intelligencia. Ha szeretnél mélyebben belelátni a tanuló algoritmusokba és a velük megoldható problémakörökbe, akkor nézz be a LEGO kör mesterséges intelligencia előadásaira!
 
-> **Jelentkezés:**
+> **A workshop sajnálatos módon elmarad**
 >
-> A következő linkre kattintva tudsz jelentkezni: <https://forms.gle/zMGxM7fomMDg7uXdA>
->
-> Az összes workshop alkalom a Schönherz Kollégium 103-as termében lesz tartva. A workshoppal kapcsolatos kérdéseitekkel keressétek az MI projekt vezetőjét a *nagy.attila@simonyi.bme.hu* címen.
+> Sajnálattal közöljük, hogy a részletezésre nem szoruló jelenlegi globális és lokális helyzet miatt ebben a félévben nem kerül megtartásra a Mesterséges Intelligencia Workshop. Megértéseteket köszönjük!
 
 5 alkalom:
 
