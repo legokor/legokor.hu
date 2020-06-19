@@ -4,8 +4,7 @@ title: INDACT
 preview: indactlogo.jpg
 introduction: A LEGO kör ipari irányítástechnikával foglalkozó projektje.
 complete: false
-leader:
-- takacs-adam
+leader: takacs-adam
 members:
 - gyulai-laszlo
 - antal-marton
