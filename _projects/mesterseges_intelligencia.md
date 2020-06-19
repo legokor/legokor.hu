@@ -4,16 +4,19 @@ title: Mesterséges Intelligencia
 preview: mi_projekt.jpg
 introduction: Mesterséges intelligencia, gépi és megerősítéses tanulás módszereinek megismerése, alkalmazása.
 complete: false
-leader: csoke-mate
+leader: nagy-attila
 members:
+- gujgiczer-anna
+- rabatin-gabor-miklos
+- csoke-mate
 - zih-botond
 - dobos-oliver
-- gujgiczer-anna
 - moricz-tamas
-- rabatin-gabor-miklos
 - zsiga-tibor
 - boros-abel
 - frey-balazs
+- bial-bence
+- karman-krisztina
 ---
 
 A projekt célja, hogy megismerkedjünk különböző gépi tanulási módszerekkel, majd ezen algoritmusokat ki is próbáljuk különböző alkalmazási területeken.
