@@ -6,7 +6,6 @@ introduction: A LEGO kör ipari irányítástechnikával foglalkozó projektje.
 complete: false
 leader:
 - takacs-adam
-- szilagyi-bence-agoston
 members:
 - gyulai-laszlo
 - antal-marton
@@ -15,6 +14,7 @@ members:
 - zadori-ferenc
 - horvath-andras
 - horvath-patrik
+- szilagyi-bence-agoston
 - puskas-timea
 - komaromi-sandor
 - juhasz-elod-illes
