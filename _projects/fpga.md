@@ -1,7 +1,7 @@
 ---
 layout: project
 title: FPGA Projekt
-preview: fpga.jpg
+preview: fpga\_bg.jpg
 introduction: Ide jön majd rövid leírás
 leader: kiss-tamas
 members:
