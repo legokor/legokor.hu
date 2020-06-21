@@ -4,11 +4,14 @@
   <img src='{{ member.image | default: "/images/members/NoImage.svg" }}'>
   <h1>{{ member.name }}</h1>
   <h2>{% include member-roles.html username=member.username %}</h2>
+
+  {% assign memberprojects = '' %}
   {% for project in site.projects %}
   	{% if project.members contains member.username or project.leader == member.username %}
-  		<h3>{{ project.title }}</h3>
-  	{% endif %}
+      {% capture memberprojects %}{{ memberprojects | append: project.title | append: '|' }}{% endcapture %}
+    {% endif %}
   {% endfor %}
+  <p class="member-projects">{{ memberprojects | split: '|' | join: ', ' }}</p>
 </div>
 {% endif %}
 {% endfor %}

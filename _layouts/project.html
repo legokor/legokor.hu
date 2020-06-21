@@ -25,7 +25,7 @@ layout: default
     {% endif %}
 {% endif %}
 
-<h1>Tagok</h1>
+<h1 class="member-list">Tagok</h1>
 {% assign members = site.members | where_exp:"item", "page.members contains item.username" %}
 <div class="proj-members">
 	<div id='leader-holder'>
