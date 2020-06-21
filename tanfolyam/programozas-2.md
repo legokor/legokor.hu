@@ -269,40 +269,44 @@ Az alkalmon vetített [diasor](LEGO_Robotika_tanf_3_prog2.pdf) itt érhető el.
 A következőkben pár új vagy nagyon hasznos függvényt szeretnék röviden és tömören
 bemutatni:
 
-- Szinkronizált motor mozgatás
+### Szinkronizált motor mozgatás
 
-  Ahogy a cím is mutatja, ez a függvény képes két motort egymáshoz képest szinkronban vagy valamilyen eltolással forgatni.
+Ahogy a cím is mutatja, ez a függvény képes két motort egymáshoz képest szinkronban vagy valamilyen eltolással forgatni.
 
-  Szintaktika: `OnFwdSync(PORT, sebesség, szinkronizáció)`.
+Szintaktika: `OnFwdSync(PORT, sebesség, szinkronizáció)`.
 
-  A szinkronizációs változó -100 – 100 között változhat, ahol a 0 értéknél forog ugyanazzal a sebességgel ugyanarra, míg a két végértéknél egyenlő sebességgel, de ellentétes irányba forog a motor.
+A szinkronizációs változó -100 – 100 között változhat, ahol a 0 értéknél forog ugyanazzal a sebességgel ugyanarra, míg a két végértéknél egyenlő sebességgel, de ellentétes irányba forog a motor.
 
-  Természetesen létezik az `OnRevSync(...)` is, illetve a motorokat ugyanúgy az `Off(...)` paranccsal lehet lekapcsolni.
-- Encoder
+Természetesen létezik az `OnRevSync(...)` is, illetve a motorokat ugyanúgy az `Off(...)` paranccsal lehet lekapcsolni.
 
-  Minden egyes motor rendelkezik encoder-rel. Ez egy olyan fém tárcsa, amelyen különböző fekete osztások vannak. Ezt az egyik irányból megvilágítva, majd a visszaverődést vagy épp annak hiányát érzékelve meghatározható, hogy a motor nagyjából hány fokot fordult el.
+### Enkóder
 
-  Függvények:
+Minden egyes motor rendelkezik encoder-rel. Ez egy olyan fém tárcsa, amelyen különböző fekete osztások vannak. Ezt az egyik irányból megvilágítva, majd a visszaverődést vagy épp annak hiányát érzékelve meghatározható, hogy a motor nagyjából hány fokot fordult el.
 
-  + `ResetTachoCount(PORT)` – az adott porton lévő encoder-t állítja 0-ra.
-  + `MotorTachoCount(PORT)` – Az adott porton lévő encoder állapotát kéri le.
-  + `RotateMotor(PORT, sebesség, fok)` – Az adott porton lévő motort forgatja foknyi encoder jelig a megadott sebességgel. Nem túlságosan pontos a róver tehetetlensége miatt!
-- Task
+Függvények:
 
-  + deklaráció: `task név() {...}`
-  + egy indítása: `start név;`
-  + egy megállítása: `stop név;`
-  + párhuzamos indítás: `Precedes(task1, task2, task3, ...);`
-  + minden futó task megállítása: `StopAllTasks();`
-  + kilépés aktuális taskból másikba: `ExitTo (új_task);`
-- Szubrutin
+- `ResetTachoCount(PORT)` – az adott porton lévő encoder-t állítja 0-ra.
+- `MotorTachoCount(PORT)` – Az adott porton lévő encoder állapotát kéri le.
+- `RotateMotor(PORT, sebesség, fok)` – Az adott porton lévő motort forgatja foknyi encoder jelig a megadott sebességgel. Nem túlságosan pontos a róver tehetetlensége miatt!
 
-  + deklarálás: `sub név(paraméterek) {...}`
-  + hívás: `név(paraméterek);`
-- Szemafor
+### Taszk
 
-  + bool-ra várakozás: `until (szemafor);` a szemafor false értékéig vár.
-  + mutex:
-    - deklarálás: `mutex változó_név;`
-    - lefoglalás: `Acquire(szemafor);`
-    - elengedés: `Release(szemafor);`
+- deklaráció: `task név() {...}`
+- egy indítása: `start név;`
+- egy megállítása: `stop név;`
+- párhuzamos indítás: `Precedes(task1, task2, task3, ...);`
+- minden futó task megállítása: `StopAllTasks();`
+- kilépés aktuális taskból másikba: `ExitTo (új_task);`
+
+### Szubrutin
+
+- deklarálás: `sub név(paraméterek) {...}`
+- hívás: `név(paraméterek);`
+
+### Szemafor
+
+- bool-ra várakozás: `until (szemafor);` a szemafor false értékéig vár.
+- mutex:
+- deklarálás: `mutex változó_név;`
+- lefoglalás: `Acquire(szemafor);`
+- elengedés: `Release(szemafor);`

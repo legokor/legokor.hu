@@ -9,18 +9,18 @@ layout: default
 
 A tanfolyamalkalmak során a Bricx Command Centert használjuk az NXT programozására, ami céltudatosan különböző programozható LEGO termékekhez lett tervezve. A környezetről néhány fontos tudnivaló:
 
-- Alapesetben nem ismeri magyar billentyűzetkiosztással a `;`-t, ami igazán kellemetlen. Ezen viszont egy makró beállításával könnyen lehet segíteni:
+Alapesetben nem ismeri magyar billentyűzetkiosztással a `;`-t, ami igazán kellemetlen. Ezen viszont egy makró beállításával könnyen lehet segíteni:
 
-  Felső menüpontokból View → Macro manager → Create, majd illeszük be a következő kódrészletet:
-  ```c
-  macro ;
-  begin
+Felső menüpontokból View → Macro manager → Create, majd illeszük be a következő kódrészletet:
+```c
+macro ;
+    begin
     ecString ';'
-  end
-  ```
-  Ezek után ha a makróhoz hozzárendeljük a pontosvesszőhöz tartozó billentyûkombinációt már tudunk is ;-t írni.
-- Ahhoz, hogy a kódot le tudjuk fordítani, először egyszer el kell menteni, különben hibát dob a fordító.
-- Szükséges szoftverek: [NXT Phantom Driver](https://drive.google.com/file/d/0B6woiJSRfjnbVEVnR3pvUzNudG8/view), [Bricx CC](https://sourceforge.net/projects/bricxcc/files/bricxcc/)
+end
+```
+Ezek után ha a makróhoz hozzárendeljük a pontosvesszőhöz tartozó billentyûkombinációt már tudunk is ;-t írni.
+Ahhoz, hogy a kódot le tudjuk fordítani, először egyszer el kell menteni, különben hibát dob a fordító.
+Szükséges szoftverek: [NXT Phantom Driver](https://drive.google.com/file/d/0B6woiJSRfjnbVEVnR3pvUzNudG8/view), [Bricx CC](https://sourceforge.net/projects/bricxcc/files/bricxcc/)
 
 ## Bevezetés
 
@@ -58,24 +58,14 @@ Az NXT-nek 4 bemeneti portja van amire szenzorok köthetők, ezeket a programban
 
 Az egyes szenzorok használata előtt be kell állítanunk, hogy hol milyen szenzort szeretnénk használni, amihez a következő függvényeket lehet használni:
 
-- `SetSensorTouch(port);`
-
-  Nyomógomb inicializálása, argumentumban a port(IN_portszám formátumban) amire be van kötve.
-- `SetSensorLowspeed(port);`
-
-  Ultrahang szenzor inicializálása.
-- `SetSensorColorFull(port);`
-
-  RGB Szenzor inicializálása.
+- `SetSensorTouch(port);` – Nyomógomb inicializálása, argumentumban a port(IN\_portszám formátumban) amire be van kötve.
+- `SetSensorLowspeed(port);` – Ultrahang szenzor inicializálása.
+- `SetSensorColorFull(port);` – RGB Szenzor inicializálása.
 
 A szenzorok értékét a következő függvényekkel lehet visszakérni:
 
-- `Sensor(port);`
-
-  visszaadja az adott porton lévő szenzor értékét(nem ultrahang szenzorokra)
-- `SensorUS(port);`
-
-  visszaadja az adott porton lévő ultrahangszenzor értékét.
+- `Sensor(port);` – visszaadja az adott porton lévő szenzor értékét(nem ultrahang szenzorokra)
+- `SensorUS(port);` – visszaadja az adott porton lévő ultrahangszenzor értékét.
 
 ### Mozgás
 
@@ -83,36 +73,18 @@ A motorok használatához az NXT 3 kimeneti portját használhatjuk amiket a pro
 
 A motorok kezelésére a következő függvények használhatók:
 
-- `OnFwd(port, N);`
-
-  A megadott porton/portokon lévő motort/motorokat előremenetbe állítja. N-ben az őket hajtó feszültséget (ezáltal a sebességet) lehet állítani %-ban (megj.: ez negatív is lehet)
-- `OnRev(port, N);`
-
-  A megadott porton/portokon lévő motort/motorokat hátramenetbe állítja. N-ben az őket hajtó feszültséget (ezáltal a sebességet) lehet állítani %-ban (megj.: ez negatív is lehet)
-- `Off(port);`
-
-  Kikapcsolja a motorokat.
-- `OnFwdSync(port, sebesség, fordulás);`
-
-  A megadott motorok szinkronizált mozgatárása használható. Az első két argumentum ugyanaz mint az `OnFwd(...)` esetében, a harmadik argumentumnak viszont megadható a motorok között szinkronizáció -100-tól 100-ig. Ez 0 érték esetén a motorok szinkrónizált egyirányba forgását, míg -100 vagy 100 esetén teljesen ellentétes forgást jelent.
-- `OnRevSync(port, sebesség, fordulás);`
-
-  `OnFwdSync(...)`, csak hátrafelé.
+- `OnFwd(port, N);` – A megadott porton/portokon lévő motort/motorokat előremenetbe állítja. N-ben az őket hajtó feszültséget (ezáltal a sebességet) lehet állítani %-ban (megj.: ez negatív is lehet)
+- `OnRev(port, N);` – A megadott porton/portokon lévő motort/motorokat hátramenetbe állítja. N-ben az őket hajtó feszültséget (ezáltal a sebességet) lehet állítani %-ban (megj.: ez negatív is lehet)
+- `Off(port);` – Kikapcsolja a motorokat.
+- `OnFwdSync(port, sebesség, fordulás);` – A megadott motorok szinkronizált mozgatárása használható. Az első két argumentum ugyanaz mint az `OnFwd(...)` esetében, a harmadik argumentumnak viszont megadható a motorok között szinkronizáció -100-tól 100-ig. Ez 0 érték esetén a motorok szinkrónizált egyirányba forgását, míg -100 vagy 100 esetén teljesen ellentétes forgást jelent.
+- `OnRevSync(port, sebesség, fordulás);` – Pont, mint az `OnFwdSync(...)`, csak hátrafelé.
 
 ## Egyéb függvények
 
-- `Wait(idő);`
-
-  Üresjárat megadott ideig (ms-ban).
-- `NumOut(0, LCD_LINE1, X, FALSE);`
-
-  Szám kiírása LCD-re (X változóban lehet a kiírandó szám).
-- `TextOut(0, LCD_LINE2, "String", FALSE);`
-
-  Szöveg kiírása LCD-re.
-- `ClearScreen();`
-
-  Kijelző törlése.
+- `Wait(idő);` – Üresjárat megadott ideig (ms-ban).
+- `NumOut(0, LCD_LINE1, X, FALSE);` – Szám kiírása LCD-re (X változóban lehet a kiírandó szám).
+- `TextOut(0, LCD_LINE2, "String", FALSE);` – Szöveg kiírása LCD-re.
+- `ClearScreen();` – Kijelző törlése.
 
 ## Példák
 
