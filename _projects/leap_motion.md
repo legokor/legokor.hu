@@ -1,7 +1,9 @@
 ---
 layout: project
 title: Leap Motion
-preview: leap_motion.png
+logo: leapmotion.svg
+preview: leap\_motion.png
+status: active
 introduction: A projekt célja minél több területen bevetni a kézfelismeréses vezérlést.
 leader: sganetz-bence
 members:

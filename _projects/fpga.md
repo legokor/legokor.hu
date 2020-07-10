@@ -1,8 +1,10 @@
 ---
 layout: project
 title: FPGA Projekt
+logo: fpga.svg
 preview: fpga\_bg.jpg
-introduction: Ide jön majd rövid leírás
+status: starting
+introduction: Ide jön majd rövid leírás.
 leader: kiss-tamas
 members:
 - toth-adam-raymond

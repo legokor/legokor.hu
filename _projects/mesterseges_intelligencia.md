@@ -1,9 +1,10 @@
 ---
 layout: project
 title: Mesterséges Intelligencia
-preview: mi_projekt.jpg
+logo: mi.svg
+preview: mi\_projekt.jpg
+status: active
 introduction: Mesterséges intelligencia, gépi és megerősítéses tanulás módszereinek megismerése, alkalmazása.
-complete: false
 leader: nagy-attila
 members:
 - gujgiczer-anna

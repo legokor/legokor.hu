@@ -1,0 +1,12 @@
+{% case include.status %}
+{% when 'starting' %}
+<span class="project-status project-status-starting">Indul</span>
+{% when 'active' %}
+<span class="project-status project-status-active">Aktív</span>
+{% when 'inactive' %}
+<span class="project-status project-status-inactive">Inaktív</span>
+{% when 'finished' %}
+<span class="project-status project-status-finished">Elkészült</span>
+{% when 'unfinished' %}
+<span class="project-status project-status-unfinished">Félbemaradt</span>
+{% endcase %}

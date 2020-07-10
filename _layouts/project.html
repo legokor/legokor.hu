@@ -1,52 +1,58 @@
 ---
-layout: default
+layout: default-wide
 ---
 
-<h1>{{ page.title }}</h1>
+<article id="article-block">
+    <h1>{{ page.title }}</h1>
 
-{% if page.complete %}
-<div id="complete">Kész projekt</div>
-{% else %}
-<div id="inprogress">A projekt jelenleg is aktív!</div>
-{% endif %}
+    {% if page.complete %}
+    <div id="complete">Kész projekt</div>
+    {% else %}
+    <div id="inprogress">A projekt jelenleg is aktív!</div>
+    {% endif %}
 
-{{ content }}
+    {{ content }}
+</article>
 
 {% if site.guides %}
     {% assign guides = site.guides | where_exp:"item", "item.projects contains page.title" %}
     {% assign guides_size = guides | size %}
     {% if guides_size != 0 %}
-        <h1>Tudásbázis</h1>
-        <ul class="guides-list">
-            {% for guide in guides %}
-                <li><a href='{{ guide.url }}'>{{ guide.title }}</a></li>
-            {% endfor %}
-        </ul>
+<aside class="guides-block">
+    <h1>Tudásbázis</h1>
+    <ul class="guides-list">
+        {% for guide in guides %}
+        <li><a href='{{ guide.url }}'>{{ guide.title }}</a></li>
+        {% endfor %}
+    </ul>
+</aside>
     {% endif %}
 {% endif %}
 
-<h1 class="member-list">Tagok</h1>
-{% assign members = site.members | where_exp:"item", "page.members contains item.username" %}
-<div class="proj-members">
-	<div id='leader-holder'>
-	{% for member in site.members %}
-		{% if member.username == page.leader %}
-			<a href='{{ member.url }}' class='box-wrapper'>
-			<div class='member-image'>
-			  <img src='{{ member.image | default: "/images/members/NoImage.svg" }}'>
-			  <h1>{{ member.name }}</h1>
-			  <h2>Projektvezető</h2>
-			</div>
-			</a>
-		{% endif %}
-	{% endfor %}
-	</div>
+<aside class="members-block">
+    <h1>Tagok</h1>
+    {% assign members = site.members | where_exp:"item", "page.members contains item.username" %}
+    <div class="proj-members">
+        <div id='leader-holder'>
+        {% for member in site.members %}
+            {% if member.username == page.leader %}
+                <a href='{{ member.url }}' class='box-wrapper'>
+                <div class='member-image'>
+                  <img src='{{ member.image | default: "/images/members/NoImage.svg" }}'>
+                  <h1>{{ member.name }}</h1>
+                  <h2>Projektvezető</h2>
+                </div>
+                </a>
+            {% endif %}
+        {% endfor %}
+        </div>
 
-	<div class='members-holder'>
-	{% for member in members %}
-		<a href='{{ member.url }}' class='box-wrapper'>
-		  {% include member.html username=member.username projects=true %}
-		</a>
-	{% endfor %}
-	</div>
-</div>
+        <div class='members-holder'>
+        {% for member in members %}
+            <a href='{{ member.url }}' class='box-wrapper'>
+              {% include member.html username=member.username projects=true %}
+            </a>
+        {% endfor %}
+        </div>
+    </div>
+</aside>

@@ -1,0 +1,20 @@
+<a href='{{ project.url }}' class='box-wrapper'>
+  <div class='project-box' style='background-image: url(/images/projects/{{ project.preview }})'>
+    <div class='project-title-box'>
+      <img class="project-title" src="/images/logos/projects/{{ project.logo }}" alt="{{ project.title }}" />
+        {% assign project_info = '' | split: ',' %}
+        {% capture project_status %}{% include project-status.html status=project.status %}{% endcapture %}
+        {% assign project_info = project_info | push: project_status %}
+        {% for member in site.members %}
+          {% if member.username == project.leader %}
+            {% capture project_leader %}Projektvezető: {{ member.name }}{% endcapture %}
+            {% assign project_info = project_info | push: project_leader %}
+          {% endif %}
+        {% endfor %}
+      {{project_info | join: ' &bull; '}}
+    </div>
+    <div class='project-description'>
+      {{ project.introduction }}
+    </div>
+  </div>
+</a>

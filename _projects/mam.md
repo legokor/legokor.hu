@@ -1,8 +1,10 @@
 ---
 layout: project
 title: Magyarok a Marson
+logo: mam.svg
 preview: mam/rover2018.jpg
-introduction: Rover fejlesztése feladatspecifikáció alapján
+status: active
+introduction: Rover fejlesztése feladatspecifikáció alapján.
 leader: ugrin-daniel
 members:
 - berke-marton

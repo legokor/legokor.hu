@@ -1,37 +1,40 @@
 ---
-layout: default
+layout: default-wide
 title: Tagok
 ---
-<div id='leader-holder'>
-{% for member in site.members %}
-	{% if member.roles contains "Körvezető" %}
-		<a href='{{ member.url }}' class='box-wrapper'>
-		{% include member.html username=member.username %}
-		</a>
-	{% endif %}
-{% endfor %}
-</div>
 
-<div class='members-holder'>
-{% for member in site.members %}
-	{% if member.roles contains "Körvezető" %}
-	{% elsif member.roles contains "Öregtag" %}
-	{% else %}
-		<div class='box-wrapper'>
-		<a href='{{ member.url }}'>
-		  {% include member.html username=member.username projects=true %}
-		</a>
-		</div>
-	{% endif %}
-{% endfor %}
-</div>
-<h1 class="member-list">Öregtagok</h1>
-<div class="members-holder">
-{% for member in site.members %}
-	{% if member.roles contains "Öregtag" %}
-		<a href='{{ member.url }}' class='box-wrapper'>
-		{% include member.html username=member.username %}
-		</a>
-	{% endif %}
-{% endfor %}
+<div class="members-block">
+    <div id='leader-holder'>
+    {% for member in site.members %}
+        {% if member.roles contains "Körvezető" %}
+            <a href='{{ member.url }}' class='box-wrapper'>
+            {% include member.html username=member.username %}
+            </a>
+        {% endif %}
+    {% endfor %}
+    </div>
+
+    <div class='members-holder'>
+    {% for member in site.members %}
+        {% if member.roles contains "Körvezető" %}
+        {% elsif member.roles contains "Öregtag" %}
+        {% else %}
+            <div class='box-wrapper'>
+            <a href='{{ member.url }}'>
+              {% include member.html username=member.username projects=true %}
+            </a>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h1>Öregtagok</h1>
+    <div class="members-holder">
+    {% for member in site.members %}
+        {% if member.roles contains "Öregtag" %}
+            <a href='{{ member.url }}' class='box-wrapper'>
+            {% include member.html username=member.username %}
+            </a>
+        {% endif %}
+    {% endfor %}
+    </div>
 </div>

@@ -1,9 +1,10 @@
 ---
 layout: project
 title: Quadrocopter
+logo: qc.svg
 preview: quadrocopter.jpg
-introduction: A projekt célja elsősorban a Lego-kör profiljába illeszkedve a tagok villamosmérnöki és informatikai tudásának elmélyítése egy quadcopter fejlesztésén keresztül.
-complete: false
+status: inactive
+introduction: A tagok villamosmérnöki és informatikai tudásának elmélyítése egy négyrotoros drón fejlesztésén keresztül.
 leader: boroznaki-daniel
 members:
 - bognar-marton

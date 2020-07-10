@@ -1,7 +1,9 @@
 ---
 layout: project
 title: Gépi Látás
-preview: gepilatas_logo.jpg
+logo: gepilatas.svg
+preview: gepilatas\_logo.jpg
+status: active
 introduction: A projekt célja gépi látás alapú algoritmusok kipróbálása, és alkalmazása.
 leader: zih-botond
 members:

@@ -1,8 +1,10 @@
 ---
 layout: project
 title: 3D Nyomtató
+logo: 3dnyomtato.svg
 preview: 3dnyomtato.jpg
-introduction: 3D modellek tervezése, nyomtatása
+status: active
+introduction: 3D modellek tervezése, nyomtatása.
 leader: ugrin-daniel
 members:
 - farkas-tamas

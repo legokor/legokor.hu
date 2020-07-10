@@ -3,30 +3,29 @@ title: Projektek
 layout: default-wide
 ---
 
-{% for project in site.projects %}
-<a href='{{ project.url }}' class='box-wrapper'>
-  <div class='project-box' style='background-image: url(/images/projects/{{ project.preview }})'>
-    <div class='project-description'>
-      {{ project.introduction }}
-    </div>
-    <div class='project-title-box'>
-      <div class='project-title'>
-        {{ project.title }}
-        <br>
-        {% for member in site.members %}
-          {% if member.username == project.leader %}
-            Projektvezető: {{ member.name }}
-          {% endif %}
-        {% endfor %}
-      </div>
-      <div class='project-status'>
-          {% if project.complete %}
-          Kész projekt
-          {% else %}
-          <span class='green'>A projekt jelenleg is aktív!</span>
-          {% endif %}
-      </div>
-    </div>
-  </div>
-</a>
+<div id="project-list">
+{% assign starting_projects = site.projects | where: 'status', 'starting' %}
+{% for project in starting_projects %}
+    {% include project.html %}
 {% endfor %}
+
+{% assign active_projects = site.projects | where: 'status', 'active' %}
+{% for project in active_projects %}
+    {% include project.html %}
+{% endfor %}
+
+{% assign inactive_projects = site.projects | where: 'status', 'inactive' %}
+{% for project in inactive_projects %}
+    {% include project.html %}
+{% endfor %}
+
+{% assign finished_projects = site.projects | where: 'status', 'finished' %}
+{% for project in finished_projects %}
+    {% include project.html %}
+{% endfor %}
+
+{% assign unfinished_projects = site.projects | where: 'status', 'unfinished' %}
+{% for project in unfinished_projects %}
+    {% include project.html %}
+{% endfor %}
+</div>
