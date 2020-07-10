@@ -584,9 +584,8 @@ a .gallery-date {
 
 .post-preview img {
   margin: 0px;
-  max-width: 220px;
-  max-height: 220px;
   box-shadow: 3px 0 3px -2px rgba(0, 0, 0, 0.2);
+  width: 220px;
   height: 220px;
   object-fit: cover;
   border-radius: 3px 0 0 3px;
@@ -786,24 +785,26 @@ ul.guides-list a, #markdown-toc a{
     height: unset;
   }
 
+  .post-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
   .post-preview img {
-    max-width: calc(100% - 20px);
+    max-width: 100%;
   }
 
   .post-content {
     width: unset;
     height: unset;
-    margin-top: 0;
-  }
-
-  .post-content h1 {
-    margin-top: 0;
   }
 
   .post-meta {
     position: unset;
     margin-top: 10px;
+    margin-bottom: 10px;
   }
+
   #main-page-container .card {
     max-width: 75%;
     margin: 25px;
