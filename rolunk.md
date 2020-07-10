@@ -32,7 +32,7 @@ Ha azt gondolnád, hogy a körben a nyomtatott áramkörnél *hardverebb* hardve
 
 ### Tanfolyamok
 
-Félévente meghirdetett [felvételi tanfolyamunk és egyéb workshopjaink](/tanfolyam/) mellett körtagjaink egymásnak is gyakran tartanak **belsős tanfolyamokat**. Ezek mindig olyan témákban vannak meghirdetve, melyek a tagság egy jelentős része számára a körös munkájukat elősegítő, használható tudást adnak át, például hogyan működik a gites verziókezelés, vagy hogy hogyan készítsünk nyomtatott áramkört, a tervezéstől a gyártásig.
+Félévente meghirdetett [felvételi tanfolyamunk](/tanfolyam/) és [egyéb workshopjaink](/workshopok/) mellett körtagjaink egymásnak is gyakran tartanak **belsős tanfolyamokat**. Ezek mindig olyan témákban vannak meghirdetve, melyek a tagság egy jelentős része számára a körös munkájukat elősegítő, használható tudást adnak át, például hogyan működik a gites verziókezelés, vagy hogy hogyan készítsünk nyomtatott áramkört, a tervezéstől a gyártásig.
 
 Körtagként érdemes akkor is benézned ezekre, ha a te konkrét érdeklődési köröd nem érinti az éppen soron lévő téma, hiszen lehet pont ez a részvétel kelti fel iránta a kíváncsiságodat. Arra is számíts, hogy amit itt megtanulsz, nagy eséllyel jól jön majd később, akár a körben, akár az egyetemen is.
 
