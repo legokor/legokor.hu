@@ -11,10 +11,19 @@ title: Cikkek
         <p>{{ post.excerpt }}</p>
         <div class='post-meta'>
           <span class='post-author'>
+            {%- assign first = true -%}
             {%- for member in site.members -%}
-              {% if member.username == post.author %}
-                {{ member.name }}
-              {% endif %}
+              {%- for author in post.author -%}
+                {% if member.username == author %}
+                  {% if first == true %}
+                    {{ member.name }}
+                    {% assign first = false %}
+                  {% else %}
+                    , {{ member.name }}
+                  {% endif %}
+                  
+                {% endif %}
+              {%- endfor -%}
             {%- endfor -%}
           </span>
           <span class='post-date'>{{ post.date | date: "%Y.%m.%d." }}</span>

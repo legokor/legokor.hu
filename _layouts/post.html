@@ -5,10 +5,18 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <div id="article-meta">
+{% assign first = true %}
 {% for member in site.members %}
-  {% if member.username == page.author %}
-    Írta: <a href='{{ member.url }}'>{{ member.name }}</a>
-  {% endif %}
+  {% for author in page.author %}
+    {% if member.username == author %}
+      {% if first == true %}
+        Írta: <a href='{{ member.url }}'>{{ member.name }}</a>
+        {% assign first = false %}
+      {% else %}
+        , <a href='{{ member.url }}'>{{ member.name }}</a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 {{ author }}
