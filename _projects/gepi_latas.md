@@ -11,6 +11,7 @@ members:
 - izso-andras
 - moricz-tamas
 - varnyu-dora
+- komaromi-sandor
 ---
 
 A projekt célja gépi látás alapú algoritmusok kipróbálása, és alkalmazása. Ehhez az OpenCV library által nyújtott eszközöket használjuk fel. Hosszú távon azt szeretnénk elérni, hogy a körben rendelkezésre álljanak olyan képfeldolgozás alapú szoftver komponensek, melyeket más projektekben egyszerűen fel tudunk használni.
