@@ -14,15 +14,14 @@ title: Cikkek
             {%- assign first = true -%}
             {%- for member in site.members -%}
               {%- for author in post.author -%}
-                {% if member.username == author %}
-                  {% if first == true %}
+                {%- if member.username == author -%}
+                  {%- if first == true -%}
+                    {{- member.name -}}
+                    {%- assign first = false -%}
+                  {%- else -%},
                     {{ member.name }}
-                    {% assign first = false %}
-                  {% else %}
-                    , {{ member.name }}
-                  {% endif %}
-                  
-                {% endif %}
+                  {%- endif -%}
+                {%- endif -%}
               {%- endfor -%}
             {%- endfor -%}
           </span>
