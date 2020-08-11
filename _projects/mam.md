@@ -12,6 +12,7 @@ members:
 - bognar-marton
 - toth-adam-raymond
 - izso-andras
+- komaromi-sandor
 ---
 
 A projekt elsődleges célja a <a target="_blank" href="http://www.magyarokamarson.hu/">Magyar Alkalmazott Mérnöki Tudományok Versenyére</a> (Magyarok a Marson) való felkészülés. A versenyen általában egy kerekeken guruló rover elkészítése a cél, aminek egy megadott küldetést kell teljesíteni. A robot vezérlése egy földi állomásról zajlik, ami lehet manuálisé és automata is. A felkészülés során az alábbi feladatokkal lehet megismerkedni, foglalkozni:
