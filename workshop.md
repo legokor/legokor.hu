@@ -5,6 +5,10 @@ layout: default
 
 # Workshopok
 
+> **Ebben a félévben még nem hirdettünk workshopokat.**
+>
+> Lentebb az előző félév információit találod.
+
 * Table of contents
 {:toc}
 
