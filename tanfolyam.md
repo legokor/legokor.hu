@@ -28,4 +28,4 @@ A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
  - 2020.10.13. 18:00 – 20:00 - [Szabályozástechnika](szabalyozastechnika)
  - 2020.10.20. 18:00 – 20:00 - Vizsga
 
-**Kérünk titeket, hogy kövessétek figyelemmel a kiírt időpontokat, mivel jelenlegi helyzetben időpontváltozások elődordulhatnak.**
+**Kérünk titeket, hogy kövessétek figyelemmel a kiírt időpontokat, mivel jelenlegi helyzetben időpontváltozások előfordulhatnak.**
