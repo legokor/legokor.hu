@@ -9,7 +9,7 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > **Jelentkezés:**
 >
-> Ha jelentkezni szeretnél tanfolyamunkra, valamint a LEGO Körbe, akkor azt az alábbi form kitöltésével teheted meg. A kérdőív során az alapvető adataid megadásán túl egy legalább fél oldalas fényképpel ellátott motivációs levél feltöltését kérjük tőled.
+> Ha jelentkezni szeretnél tanfolyamunkra, valamint a LEGO Körbe, akkor azt az alábbi form kitöltésével teheted meg. A kérdőív során az alapvető adataid megadásán túl egy legalább fél oldalas fényképpel ellátott motivációs levél feltöltését kérjük tőled. Ebben csupán annyit kell tenned, hogy röviden bemutatkozol és leírod, hogy miért is szeretnél csatlakozni hozzánk, milyen szakmailag témába vágó dolgokkal foglalkoztál eddig, és mit szeretnél tenni nálunk, mit vársz a körtől.
 >
 > Jeletkezni a következő linkre kattintva tudsz: [Jeletkezős form](https://forms.gle/Gp295ELKRU1pJs44A)
 > 
