@@ -20,14 +20,18 @@ members:
 - karman-krisztina
 ---
 
-A projekt célja, hogy megismerkedjünk különböző gépi tanulási módszerekkel, majd ezen algoritmusokat ki is próbáljuk különböző alkalmazási területeken.
-A projekt egyik része a mélytanuló rendszerek alkalmazásának megismerésével foglalkozik, néhány téma ízelítőképp:
-  * különböző képosztályozási feladatok megoldása,
-  * neurális hálózatok támadhatóságának vizsgálata,
-  * EEG eszközökből érkező jelek feldolgozása,
-  * evolúciós algoritmusok megismerése,
-  * intelligens viselkedés integrálása különböző játékokba.
-  
+A projekt célja, hogy rendszeres workshopokkal, friss tanulmányok olvasásával, a legújabb modellek implementálásával és saját projekteken való munkával hasznos ismereteket szerezzünk és minél jobban elmélyüljünk a gépi tanulás, neurális hálózatok és egyéb kurrens kutatási terültek világában.
+
 A félév elején a projekt kiválaszt egy mindenki számára izgalmas témakört, majd félév közben egymást segítve próbáljuk leküzdeni a felmerülő problémákat, és közösen elsajátítani az adott témakör minden csínját-bínját.
+
+Ebben a félévben (2020 ősz) egy **gépi tanuláson alapuló relatív ingatlan-értékbecslő architektúra** megalkotása a cél. A relatív értékbecslés során, az abszolút értékbecsléssel szemben egymáshoz hasonló ingatlanok kerülnek összehasonlításra különböző tulajdonságok alapján a piaci érték megállapításához.
+
+A projekt során lehetőség van a mesterséges intelligencia és a data science számos területével megismerkedni, mint például:
+
+- Természetes nyelvfeldolgozás (NLP)
+- Adatelemzés, adattisztítás, adatvizualizáció
+- Gépi látás
+
+A szakmai fejlődés lehetősége mellett, a projekten keresztül egy remek közösségbe lehet bekapcsolódni. A félév során rendszeresen szervezünk csapatépítő programokat.
 
 Ha érdekel a projekt, bátran keresd a projektvezetőt e-mailben.
