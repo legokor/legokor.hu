@@ -29,8 +29,15 @@ Ebben a félévben (2020 ősz) egy **gépi tanuláson alapuló relatív ingatlan
 A projekt során lehetőség van a mesterséges intelligencia és a data science számos területével megismerkedni, mint például:
 
 - Természetes nyelvfeldolgozás (NLP)
-- Adatelemzés, adattisztítás, adatvizualizáció
+- Adatgyűjtés, adatelemzés, adattisztítás, adatvizualizáció
+- Predikció tabuláris adatokból
 - Gépi látás
+
+Előző félévekben a projekt sok hasonlóan érdekes problémán dolgozott, mint például:
+
+- EEG eszközökből érkező jelek feldolgozása
+- Intelligens viselkedés integrálása számítógépes játékokba megerősítéses tanulással (Mortal Kombat Bot)
+- Stílustranszfer GAN hálózatokkal
 
 A szakmai fejlődés lehetősége mellett, a projekten keresztül egy remek közösségbe lehet bekapcsolódni. A félév során rendszeresen szervezünk csapatépítő programokat.
 
