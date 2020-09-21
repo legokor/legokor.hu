@@ -16,12 +16,12 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 A robotika tanfolyam alatt a LEGO Mindstorms NXT-k segítségével fogtok rovereket építeni 4-5 fős csapatokban, és megtanuljátok azok programozását. Az utolsó alkalmon egy végső megmérettetésen nézzük meg, meddig juttok el a kiadott pályán.
 
-A tanfolyam összesen 5 alkalomból fog állni, 4 előadás + vizsga:
+A tanfolyam összesen 5 alkalomból fog állni, ezek 3 előadás, a vizsgára készülés és a vizsga:
 
- - 2020.09.22. 18:00 – 20:00 - [Építés](epites), [Debuggolható programok](/tanfolyam/debuggolhato_programok.pdf)
- - 2020.09.29. 18:00 – 20:00 - [Programozás 1](programozas-1)
- - 2020.10.06. 18:00 – 20:00 - [Programozás 2](programozas-2)
- - 2020.10.13. 18:00 – 20:00 - [Szabályozástechnika](szabalyozastechnika)
+ - 2020.09.22. 18:00 – 20:00 - [Programozás 1](programozas-1), [Debuggolható programok](/tanfolyam/debuggolhato_programok.pdf)
+ - 2020.09.29. 18:00 – 20:00 - [Programozás 2](programozas-2)
+ - 2020.10.06. 18:00 – 20:00 - [Szabályozástechnika](szabalyozastechnika)
+ - 2020.10.13. 18:00 – 20:00 - Vizsgára készülés
  - 2020.10.20. 18:00 – 20:00 - Vizsga
 
 Az alkalmak helyszíne (további esetleges változásig) a QBF09 terem.
