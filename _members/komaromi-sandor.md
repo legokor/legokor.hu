@@ -4,4 +4,7 @@ name: Komáromi Sándor
 username: komaromi-sandor
 roles:
 - Gazdaságis
+contact:
+  email: komaromi.sandor@simonyi.bme.hu
+  phone: '+36 20 489 6211'
 ---

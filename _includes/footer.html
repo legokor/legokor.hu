@@ -3,8 +3,13 @@
     <div class='footer-column footer-column-center'>
       <h3>Elérhetőségek</h3>
       <div class='team-list'>
-        {% include member-info.html username="farkas-tamas" %}
-        {% include member-info.html username="puskas-timea" %}
+		{% for member in site.members %}
+			{% if member.roles contains "Körvezető" %}
+				{% include member-info.html username=member.username %}
+			{% elsif member.roles contains "Gazdaságis" %}
+				{% include member-info.html username=member.username %}
+			{% endif %}
+		{% endfor %}
       </div>
     </div>
 
