@@ -36,7 +36,7 @@ A **2020 tavaszán jelentkezett** tanfolyamozóinknak a következő időpontokba
 
  - 2020.09.24. 18:00 – 20:00 - Felzárkóztató alkalom: [Debuggolható programok](/tanfolyam/debuggolhato_programok.pdf), [Programozás 1](programozas-1), [Programozás 2](programozas-2)
  - 2020.10.01. 18:00 – 20:00 - [Szabályozástechnika](szabalyozastechnika)
- - 2020.10.08. 18:00 – 20:00 - Vizsga
+ - 2020.10.08. 18:00 – 20:00 - [Vizsga](vizsga/2020-tavasz)
 
 Az alkalmak helyszíne (további esetleges változásig) a QBF13 terem.
 
