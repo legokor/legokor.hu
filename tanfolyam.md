@@ -22,7 +22,7 @@ A tanfolyam összesen 5 alkalomból fog állni, ezek 3 előadás, a vizsgára k�
  - 2020.09.29. 18:00 – 20:00 - [Programozás 2](programozas-2)
  - 2020.10.06. 18:00 – 20:00 - [Szabályozástechnika](szabalyozastechnika)
  - 2020.10.13. 18:00 – 20:00 - Vizsgára készülés
- - 2020.10.20. 18:00 – 20:00 - Vizsga
+ - 2020.10.20. 18:00 – 20:00 - [Vizsga](vizsga/2020-osz)
 
 Az alkalmak helyszíne (további esetleges változásig) a QBF09 terem.
 
