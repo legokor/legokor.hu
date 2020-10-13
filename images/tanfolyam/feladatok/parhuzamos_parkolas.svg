@@ -161,8 +161,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="56.023727"
-     inkscape:cx="82.364741"
+     inkscape:cy="87.217683"
+     inkscape:cx="35.098742"
      inkscape:zoom="1.28"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -189,6 +189,16 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Réteg 1">
+    <path
+       style="fill:none;stroke:url(#linearGradient1644);stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.71437,36.297224 H 0.97011508"
+       id="path1636"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:1.05833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16.454409,30.573909 V 42.020538"
+       id="path932"
+       sodipodi:nodetypes="cc" />
     <g
        inkscape:corner7="-0.41498649 : 4.3892563 : 0.0045057873 : 1"
        inkscape:corner0="0.046145418 : 3.7811868 : -1.9773268e-05 : 1"
@@ -239,11 +249,6 @@
          id="path5844"
          sodipodi:type="inkscape:box3dside" />
     </g>
-    <path
-       style="fill:none;stroke:url(#linearGradient1644);stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 79.71437,36.297224 H 0.97011508"
-       id="path1636"
-       sodipodi:nodetypes="cc" />
     <g
        inkscape:corner7="-0.12996745 : -0.26663561 : 0.016848972 : 1"
        inkscape:corner0="0.16521081 : -0.17336661 : 0 : 1"
@@ -295,7 +300,7 @@
          sodipodi:type="inkscape:box3dside" />
     </g>
     <path
-       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:1.05833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffcc00;stroke:#37c837;stroke-width:1.05833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 30.75108,30.573909 V 42.020538"
        id="path2895"
        sodipodi:nodetypes="cc" />

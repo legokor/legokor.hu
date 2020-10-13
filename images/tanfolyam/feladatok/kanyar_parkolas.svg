@@ -163,9 +163,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="123.23887"
-     inkscape:cx="145.1369"
-     inkscape:zoom="1.8101934"
+     inkscape:cy="113.02137"
+     inkscape:cx="84.589237"
+     inkscape:zoom="1.28"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -183,7 +183,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -191,6 +191,16 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Réteg 1">
+    <path
+       style="fill:none;stroke:url(#linearGradient1644);stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.71437,40.747164 H 0.97011508"
+       id="path1636"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:1.05833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.568165,35.023849 V 46.470478"
+       id="path1797"
+       sodipodi:nodetypes="cc" />
     <g
        inkscape:corner7="-0.35404968 : 3.4773113 : 0.0045057873 : 1"
        inkscape:corner0="0.0011458232 : 2.9345398 : -1.9773268e-05 : 1"
@@ -241,11 +251,6 @@
          id="path5844"
          sodipodi:type="inkscape:box3dside" />
     </g>
-    <path
-       style="fill:none;stroke:url(#linearGradient1644);stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 79.71437,40.747164 H 0.97011508"
-       id="path1636"
-       sodipodi:nodetypes="cc" />
     <g
        inkscape:corner7="-0.47236488 : 0.32867976 : 0.030620263 : 1"
        inkscape:corner0="0.14195013 : 0.51197172 : 0 : 1"
@@ -297,7 +302,7 @@
          sodipodi:type="inkscape:box3dside" />
     </g>
     <path
-       style="fill:#ffcc00;stroke:#ffcc00;stroke-width:1.05833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffcc00;stroke:#37c837;stroke-width:1.05833;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 34.400002,35.023849 V 46.470478"
        id="path2895"
        sodipodi:nodetypes="cc" />
