@@ -70,11 +70,12 @@ footer a, footer a:visited {
 }
 
 .social-button {
-  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.5);
   border-radius: 3px;
   color: #fff;
   display: block;
   font-size: 18px;
+  font-weight: 500;
   height: 40px;
   line-height: 40px;
   margin: 0 auto 23px;
@@ -83,10 +84,12 @@ footer a, footer a:visited {
   text-decoration: none;
   transition: all 0.3s;
   width: 200px;
+  background-color: #585858;
 }
 
 .social-button:hover {
-  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+  background-color: #545454;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.5);
 }
 
 .social-button a {
@@ -95,38 +98,31 @@ footer a, footer a:visited {
   line-height: 50px;
 }
 
-.fb-button {
-  background-color: #5e77b5;
-}
-
-.fb-button:hover {
-  background-color: #4b5f90;
-}
-
 .fb-button div {
   background-position: -360px 0px;
   height: 24px;
-  left: 16px;
+  left: 12px;
   position: absolute;
   top: 8px;
-  width: 12px;
-}
-
-.tw-button {
-  background-color: #7ac9e8;
-}
-
-.tw-button:hover {
-  background-color: #61a0b9;
+  width: 24px;
 }
 
 .tw-button div {
   background-position: -390px 0px;
   height: 18px;
-  left: 12px;
+  left: 14px;
   position: absolute;
   top: 11px;
   width: 22px;
+}
+
+.ig-button div {
+  background-position: -420px 0px;
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
 }
 
 .use-sprite {
