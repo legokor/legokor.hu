@@ -5,7 +5,7 @@ logo: indact.svg
 preview: indactlogo.jpg
 status: active
 introduction: A LEGO kör ipari irányítástechnikával foglalkozó projektje.
-leader: takacs-adam
+leader: szilagyi-bence-agoston
 members:
 - gyulai-laszlo
 - antal-marton
@@ -14,7 +14,7 @@ members:
 - zadori-ferenc
 - horvath-andras
 - horvath-patrik
-- szilagyi-bence-agoston
+- takacs-adam
 - puskas-timea
 - komaromi-sandor
 - juhasz-elod-illes
