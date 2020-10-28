@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="197.99327mm"
-   height="45.279686mm"
-   viewBox="0 0 197.99327 45.279686"
+   width="744.87561"
+   height="171.13582"
+   viewBox="0 0 197.08167 45.279686"
    version="1.1"
    id="svg3195"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="fpga.svg">
   <defs
      id="defs3189">
@@ -96,9 +96,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="58.250366"
-     inkscape:cy="117.0043"
+     inkscape:zoom="1"
+     inkscape:cx="388.51311"
+     inkscape:cy="60.475641"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -118,22 +118,23 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-nodes="true">
+     inkscape:snap-nodes="true"
+     units="px">
     <inkscape:grid
        type="xygrid"
        id="grid4392"
        originx="-12.09629"
-       originy="-73.395332" />
+       originy="-73.395333" />
     <sodipodi:guide
-       position="69.658397,37.349122"
+       position="69.658398,37.349122"
        orientation="0,-1"
        id="guide4579" />
     <sodipodi:guide
-       position="67.380081,39.619698"
+       position="67.380082,39.619698"
        orientation="1,0"
        id="guide4583" />
     <sodipodi:guide
-       position="67.380082,7.9232571"
+       position="67.380083,7.9232565"
        orientation="0,-1"
        id="guide4587" />
   </sodipodi:namedview>
@@ -202,7 +203,7 @@
          id="tspan4370"
          x="154.96844"
          y="110.94593"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Semi-Bold';fill:#363636;fill-opacity:1;stroke-width:0.264584">FPGA</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Medium';fill:#363636;fill-opacity:1;stroke-width:0.264584">FPGA</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#363636;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4386"
