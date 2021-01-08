@@ -5,7 +5,7 @@ logo: mi.svg
 preview: mi\_projekt.jpg
 status: active
 introduction: Mesterséges intelligencia, gépi és megerősítéses tanulás módszereinek megismerése, alkalmazása.
-leader: nagy-attila
+leader: bial-bence
 members:
 - gujgiczer-anna
 - rabatin-gabor-miklos
@@ -16,7 +16,7 @@ members:
 - zsiga-tibor
 - boros-abel
 - frey-balazs
-- bial-bence
+- nagy-attila
 - karman-krisztina
 ---
 
