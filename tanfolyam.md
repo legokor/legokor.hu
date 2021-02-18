@@ -9,7 +9,11 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 > **Jelentkezés:**
 >
-> A 2021 tavaszi félévben február 28-ig lehet majd a tanfolyamra jelentkezni. _Jelentkező form hamarosan!_
+> Ha jelentkezni szeretnél tanfolyamunkra, valamint a LEGO Körbe, akkor azt az alábbi form kitöltésével teheted meg. A kérdőív során az alapvető adataid megadásán túl egy legalább fél oldalas fényképpel ellátott motivációs levél feltöltését kérjük tőled. Ebben csupán annyit kell tenned, hogy röviden bemutatkozol és leírod, hogy miért is szeretnél csatlakozni hozzánk, milyen szakmailag témába vágó dolgokkal foglalkoztál eddig, és mit szeretnél tenni nálunk, mit vársz a körtől.
+>
+> Jeletkezni a következő linkre kattintva tudsz: [Jeletkezős form](https://forms.gle/PupuZrxgqA6pZV957)
+>
+> A 2021 tavaszi félévben **február 28 éjfélig** lehet jelentkezni a tanfolyamra.
 >
 > A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz a *mona.daniel@simonyi.bme.hu* email címen.
 
