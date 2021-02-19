@@ -19,4 +19,9 @@ Ha érdekel a LEGO kör (robotika, gépi látás, űrtechnológia, alternatív v
 
 Ebben a félévben (2021 tavasz) a járványhelyzet miatt online tanfolyamot tartunk, a résztvevők egy számítógépen szimulált, a felépítését, szenzorait tekintve a korábbi félévek NXT roveréhez hasonló kis robotot fognak programozni.
 
-A szervezés jelenleg is zajlik, információk hamarosan!
+A tanfolyam összesen 5 alkalomból fog állni, ezek 3 előadás, a vizsgára készülés és a vizsga:
+ - 2021.03.02. 20:00–22:00 – Programozás 1, [Debuggolható programok](/tanfolyam/debuggolhato_programok.pdf)
+ - 2021.03.09. 20:00–22:00 – Programozás 2
+ - 2021.03.16. 20:00–22:00 – Szabályozástechnika
+ - 2021.03.23. 20:00–22:00 – Vizsgára készülés
+ - 2021.03.30. 20:00–22:00 – Vizsga
