@@ -19,9 +19,9 @@ A vizsgaalkalom egy, az alkalom elején közölt időpontban _lezárul_, az utá
 
 **A vizsga alatt** a próbálkozásokat a következőképp adhatjátok be:
 - A Webots videókészítő funkciójával készítsetek egy felvételt a próbálkozásról. (Nem érdemes túl nagy videofelbontást használni, 360p elég szokott lenni, hogy minden látsszon.)
-- A videót küldjétek be a körös Discordon a csapatotok szöveg csatornájába, és a videó mellett megadható szövegben _tüntessétek fel, hogy ez egy próbálkozás_ (nem a vizsga közbeni fejlesztgetéstek valami részlete), a következőképp (Az emoji és a félkövér formázás nem muszáj, de könnyebb tőle észrevenni az üzenetet.):
-  - Teljes pályás próbálkozás: **✳️  Próbálkozás: Teljes pálya**
-  - Külön feladatos próbálkozás: **✳️  Próbálkozás: _\<feladat neve\>_**
+- A videót küldjétek be a körös Discordon a csapatotok szöveg csatornájába, és a videó mellett megadható szövegben _tüntessétek fel, hogy ez egy próbálkozás_ (nem a vizsga közbeni fejlesztgetésetek valami részlete), a következőképp (Az emoji és a félkövér formázás nem muszáj, de könnyebb tőle észrevenni az üzenetet.):
+  - Teljes pályás próbálkozás: **🔰 Próbálkozás: Teljes pálya**
+  - Külön feladatos próbálkozás: **🔰 Próbálkozás: _\<feladat neve\>_**
 
 A segítők a videóra tett „👀” reakcióval (vagy egyéb módon) jelzik nektek (és egymásnak), hogy nézik a megoldásotokat, és utána egy másik üzenettel/reakcióval (pl. ✅, 🆗), ha értékelték és felvitték a **(nem hivatalos!)** pontozását a vizsgaeredményes táblázatba.
 
