@@ -17,14 +17,15 @@ A vizsgaalkalom egy, az alkalom elején közölt időpontban _lezárul_, az utá
 
 ### Próbálkozások beadása
 
-***A vizsga alatt*** a próbálkozásokat a következőképp adhatjátok be:
+**A vizsga alatt** a próbálkozásokat a következőképp adhatjátok be:
 - A Webots videókészítő funkciójával készítsetek egy felvételt a próbálkozásról. (Nem érdemes túl nagy videofelbontást használni, 360p elég szokott lenni, hogy minden látsszon.)
-- A videót küldjétek be a körös Discordon a csapatotok szöveg csatornájába, és a videó mellett megadható szövegben _tüntessétek fel, hogy ez egy próbálkozás_ (nem a vizsga közbeni fejlesztgetéstek valami részlete), a következőképp:
+- A videót küldjétek be a körös Discordon a csapatotok szöveg csatornájába, és a videó mellett megadható szövegben _tüntessétek fel, hogy ez egy próbálkozás_ (nem a vizsga közbeni fejlesztgetéstek valami részlete), a következőképp (Az emoji és a félkövér formázás nem muszáj, de könnyebb tőle észrevenni az üzenetet.):
   - Teljes pályás próbálkozás: **✳️  Próbálkozás: Teljes pálya**
-  - Külön feladatos próbálkozás: **✳️  Próbálkozás: _<feladat neve>_**
-(Az emoji és a félkövér formázás nem muszáj, de könnyebb tőle észrevenni az üzenetet.) A segítők a videóra tett „👀” reakcióval (vagy egyéb módon) jelzik nektek (és egymásnak), hogy nézik a megoldásotokat, és utána egy másik üzenettel/reakcióval (pl. ✅, 🆗), ha értékelték és felvitték a **(nem hivatalos!)** pontozását a vizsgaeredményes táblázatba.
+  - Külön feladatos próbálkozás: **✳️  Próbálkozás: _\<feladat neve\>_**
 
-***A vizsga végén*** [ezen a formon](https://docs.google.com/forms/d/e/1FAIpQLSet20wSE6fyOqtqmR7q4gW16yE9rFiP7qomcXrSJYy6y4CLhA/viewform?usp=sf_link) tudjátok beadni a megoldásotok kódját. A beadáshoz a teljes kontroller mappát (a `tanfolyam_mozgo_akadaly_2` kontrollerrel egy szinten lévő mappát) csomagoljátok egy ZIP-be és azt töltsétek fel. A vizsga után a segítők a kiadott vizsgapályán futtatják a kontrollert és megadják a megoldásotokra a hivatalos értékelést. (Ha a robot működése extrém módon eltérne a mi gépünkön a tietekhez képest, azt eseti alapon fogjuk kezelni.)
+A segítők a videóra tett „👀” reakcióval (vagy egyéb módon) jelzik nektek (és egymásnak), hogy nézik a megoldásotokat, és utána egy másik üzenettel/reakcióval (pl. ✅, 🆗), ha értékelték és felvitték a **(nem hivatalos!)** pontozását a vizsgaeredményes táblázatba.
+
+**A vizsga végén** [ezen a formon](https://docs.google.com/forms/d/e/1FAIpQLSet20wSE6fyOqtqmR7q4gW16yE9rFiP7qomcXrSJYy6y4CLhA/viewform?usp=sf_link) tudjátok beadni a megoldásotok kódját. A beadáshoz a teljes kontroller mappát (a `tanfolyam_mozgo_akadaly_2` kontrollerrel egy szinten lévő mappát) csomagoljátok egy ZIP-be és azt töltsétek fel. A vizsga után a segítők a kiadott vizsgapályán futtatják a kontrollert és megadják a megoldásotokra a hivatalos értékelést. (Ha a robot működése extrém módon eltérne a mi gépünkön a tietekhez képest, azt eseti alapon fogjuk kezelni.)
 
 ### Próbálkozások értékelése
 
