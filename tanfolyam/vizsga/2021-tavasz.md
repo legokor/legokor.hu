@@ -5,13 +5,13 @@ title: "LEGO Tanfolyam: Vizsga (2021 tavasz)"
 
 # LEGO Tanfolyam: Vizsga (2021 tavasz)
 
-A vizsgán több feladatot kell elvégeznetek. Ezekért jár külön-külön is pont, illetve pluszpont jár, ha a teljes pályát egy menetben teljesítitek. A pontozásnál figyelembe vesszük a pontosságot és a gyorsaságot is, illetve a különösen hatékony és/vagy (a működőképességet nem hátráltatóan) szórakoztató pluszpont járhat.
+A vizsgán több feladatot kell elvégeznetek. Ezekért jár külön-külön is pont, illetve pluszpont jár, ha a teljes pályát egy menetben teljesítitek. A pontozásnál figyelembe vesszük a pontosságot és a gyorsaságot is, illetve a különösen hatékony és/vagy (a működőképességet nem hátráltatóan) szórakoztató megoldásokért pluszpont is járhat.
 
 ## A vizsga menete
 
 A vizsga során vagy az egész pálya _megszakítás nélküli_ teljesítésével, vagy a feladatok közül _az egyik külön_ teljesítésével probálkozhattok. A vizsgaalkalom folyamán a teljes pályát és külön-külön bármelyik feladatot is akárhányszor kipróbálhatjátok, illetve amennyiben szükségesnek ítélitek, végig csiszolhatjátok tovább a robot kódját, viszont:
-- mind az egyik konkrét feladaton külön tett, mind a teljes pályán tett legutóbbi próbálkozásotok eredménye **felülírja az előzőt**, akkor is, ha az jobb volt,
-- egy teljes pályás próbálkozás minden egyes _sikeresen vett_ feladat korábbi, külön teljesített eredményét is felülírja.
+- mind az egyik konkrét feladaton külön tett, mind a teljes pályán tett legutóbbi beadott próbálkozásotok eredménye **felülírja az előzőt**, akkor is, ha az jobb volt,
+- egy beadott teljes pályás próbálkozás minden egyes _sikeresen vett_ feladat korábbi, külön teljesített eredményét is felülírja.
 
 A vizsgaalkalom egy, az alkalom elején közölt időpontban _lezárul_, az után nem lehet új köztes próbálkozást beadni és egy rövid időtök lesz a végleges megoldásotok feltöltésére.
 
@@ -50,7 +50,6 @@ A vizsga vonalkövetési feladattal kezdődik, illetve az egyes feladatrészek k
 - ami a képen a vonal bal oldalán van, lehet jobb oldalt is.
 
 Ugyanakkor:
-- a jelölt hosszmértékektől nem fogunk eltérni,
 - ami külön színű vonal a gyakorlópályán, az a tényleges vizsgapályán is külön színű lesz,
 - ami egyező színű vonal a gyakorlópályán (feladatokon átívelően is!), az a tényleges vizsgapályán is egyező színű lesz.
 
