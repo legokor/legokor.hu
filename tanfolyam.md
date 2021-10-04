@@ -16,6 +16,7 @@ Ebben csupán annyit kell tenned, hogy röviden bemutatkozol és leírod, hogy m
 Jelentkezni a következő linkre kattintva tudsz: [Jelentkezős form](https://docs.google.com/forms/d/1rvvDBftzPx91CFVH11UIKkCmYovYbU8x9kwh_5Guc1A/edit) 
  
 A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz: 
-[mailto](revay.regina@simonyi.bme.hu)
+
+[revay.regina@simonyi.bme.hu](mailto:revay.regina@simonyi.bme.hu)
 
 >További részletek és időpontok hamarosan!
