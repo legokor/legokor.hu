@@ -13,7 +13,7 @@ A kérdőív során az alapvető adataid megadásán túl egy legalább fél old
 Ebben csupán annyit kell tenned, hogy röviden bemutatkozol és leírod, hogy miért is szeretnél csatlakozni hozzánk, milyen szakmailag témába vágó dolgokkal foglalkoztál eddig,
 és mit szeretnél tenni nálunk, mit vársz a körtől.
 
-Jelentkezni a következő linkre kattintva tudsz: [Jelentkezős form](https://docs.google.com/forms/d/1rvvDBftzPx91CFVH11UIKkCmYovYbU8x9kwh_5Guc1A/edit) 
+Jelentkezni a következő linkre kattintva tudsz: [Jelentkezős form](https://forms.gle/WddisR9QcbCgwih66) 
  
 A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz: 
 
