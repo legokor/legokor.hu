@@ -19,7 +19,14 @@ A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünk
 
 [revay.regina@simonyi.bme.hu](mailto:revay.regina@simonyi.bme.hu)
 
-> Aktuális információk
+> **Aktuális információk:**
+> Ha érdekel a kör és szeretnél csatlakozni,
+akkor gyere és végezd el 5 alkalmas
+tanfolyamunkat, melynek során ebben a
+félévben először egy saját fejlesztésű,
+STM32 alapú rover programozásával
+vezetünk be a projektmunka alapjaiba.
+>
 > #new #STM32 #saját
 > 
 > |    Dátum    |    Időpont    |
