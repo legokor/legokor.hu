@@ -19,4 +19,13 @@ A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünk
 
 [revay.regina@simonyi.bme.hu](mailto:revay.regina@simonyi.bme.hu)
 
->További részletek és időpontok hamarosan!
+> Aktuális információk
+> #new #STM32 #saját
+
+|    Dátum    |    Időpont    |
+|-------------|---------------|
+| 2021.10.12. | 19:00 – 21:00 |
+| 2021.10.19. | 19:00 – 21:00 |
+| 2021.10.26. | 19:00 – 21:00 |
+| 2021.11.02. | 19:00 – 21:00 |
+| 2021.11.09. | 19:00 – 21:00 |
