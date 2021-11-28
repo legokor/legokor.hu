@@ -5,7 +5,7 @@ logo: mi.svg
 preview: mi\_projekt.jpg
 status: active
 introduction: Mesterséges intelligencia, gépi és megerősítéses tanulás módszereinek megismerése, alkalmazása.
-leader: bial-bence
+leader: bartos-elekes-miklos
 members:
 - gujgiczer-anna
 - rabatin-gabor-miklos
@@ -16,8 +16,13 @@ members:
 - zsiga-tibor
 - boros-abel
 - frey-balazs
+- bial-bence
 - nagy-attila
 - karman-krisztina
+- bartos-elekes-miklos
+- meszaros-peter
+- telekes-marton-gabor
+- el-ali-maya
 ---
 
 A projekt célja, hogy rendszeres workshopokkal, friss tanulmányok olvasásával, a legújabb modellek implementálásával és saját projekteken való munkával hasznos ismereteket szerezzünk és minél jobban elmélyüljünk a gépi tanulás, neurális hálózatok és egyéb kurrens kutatási terültek világában.

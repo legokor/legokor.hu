@@ -7,9 +7,8 @@ status: active
 introduction: A projekt célja gépi látás alapú algoritmusok kipróbálása, és alkalmazása.
 leader: zih-botond
 members:
-- bartha-balint
 - izso-andras
-- moricz-tamas
+- matrahegyi-roland
 - varnyu-dora
 - komaromi-sandor
 ---

@@ -3,7 +3,8 @@ layout: user
 name: Izsó András
 username: izso-andras
 roles:
-- Körvezető
+- Volt körvezető
+- PR felelős
 contact:
   email: izso.andras@simonyi.bme.hu
   phone: '+36 20 466 2957'
