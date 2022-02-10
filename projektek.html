@@ -24,7 +24,7 @@ layout: default-wide
     {% include project.html %}
 {% endfor %}
 
-{% assign unfinished_projects = site.projects | where: 'status', 'unfinished' %}
+{% assign unfinished_projects = site.projects | where: 'status', 'archived' %}
 {% for project in unfinished_projects %}
     {% include project.html %}
 {% endfor %}
