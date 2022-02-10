@@ -3,7 +3,7 @@ layout: project
 title: Spybot
 logo: spybot.svg
 preview: spybot1.JPG
-status: active
+status: archived
 introduction: Mindenünk a mobilis, lábbal rendelkező robotok.
 leader: berke-marton
 members:
