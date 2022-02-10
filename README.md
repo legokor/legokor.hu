@@ -12,6 +12,7 @@
 2. You can view your site at `localhost:4000`
 
 # Know-How:
+_**Details in the [wiki site](https://github.com/legokor/legokor.hu/wiki) of this repo.**_
 ## Projects
 ### Statuses
 - change it in the `./_projects/<project_name>.html`
