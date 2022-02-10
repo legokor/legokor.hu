@@ -1,12 +1,10 @@
-# Requirements
 
- - [Ruby](http://rubyinstaller.org/)
+# Working with the site
+## Installation
+1. Requirement: [Ruby](http://rubyinstaller.org/)
+2. `gem install jekyll`
 
-# Installation
-
-1. `gem install jekyll`
-
-# Running the site
+## Hosting the site on local machine:
 
 1. `jekyll serve` in the root directory of this repository
 2. You can view your site at `localhost:4000`
