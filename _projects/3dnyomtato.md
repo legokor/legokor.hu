@@ -7,7 +7,6 @@ status: active
 introduction: 3D modellek tervezése, nyomtatása.
 leader: farkas-tamas
 members:
-- farkas-tamas
 - ugrin-daniel
 - izso-andras
 - revay-regina
