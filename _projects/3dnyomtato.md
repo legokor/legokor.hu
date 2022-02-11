@@ -10,6 +10,7 @@ members:
 - farkas-tamas
 - ugrin-daniel
 - izso-andras
+- revay-regina
 ---
 
 A projekt célja a laborunkban lévő 3d nyomtató fejlesztése, karbantartása és üzemeltetése. A tagok megismerkedhetnek a 3d nyomtatás előnyeivel és hátrányaival, modell tervezéssél, illetve azzal is hogy hogyan készíts akár sajátot házilag.
