@@ -16,7 +16,6 @@ members:
 - horvath-patrik
 - takacs-adam
 - puskas-timea
-- komaromi-sandor
 - juhasz-elod-illes
 - kiraly-istvan
 - rozsa-daniel
