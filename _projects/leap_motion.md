@@ -5,7 +5,7 @@ logo: leapmotion.svg
 preview: leap\_motion.png
 status: active
 introduction: A projekt célja minél több területen bevetni a kézfelismeréses vezérlést.
-leader: sganetz-bence
+leader: szakal-vince-abosa
 members:
 - albert-benjamin
 - kecskes-daniel
@@ -13,7 +13,7 @@ members:
 - szilagyi-bence-agoston
 - domonkos-adam
 - gabor-nikolett
-- szakal-vince-abosa
+- sganetz-bence
 ---
 
 A projekt a névadó eszköz - a Leap Motion - megismerését és határainak feltérképezését tűzte ki célul. Az eszköz önmagában mindössze 3 db infra-LED és az ezek által bevilágított karokat vagy pálca jellegű "tool"-okat észlelő két infrakamera, semmi feldolgozást nem végez, kizárólag rögzít. A kamerák által látott, maximum 240 FPS-es videófolyamot teljesen a driver dolgozza fel, így nem szükséges hardvercsere az új funkciókhoz.
