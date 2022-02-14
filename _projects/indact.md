@@ -18,6 +18,7 @@ members:
 - puskas-timea
 - juhasz-elod-illes
 - kiraly-istvan
+- komaromi-sandor
 - rozsa-daniel
 - szilagyi-bence-agoston
 - orosz-levente
