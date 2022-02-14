@@ -51,11 +51,11 @@ layout: default-wide
 
         <div class='members-holder'>
         {% for member in members %}
-            {% if member.username != page.leader$}
+	{% if member.username != page.leader %}
             <a href='{{ member.url }}' class='box-wrapper'>
               {% include member.html username=member.username projects=true %}
             </a>
-            {% endif %}
+        {% endif %}
         {% endfor %}
         </div>
     </div>
