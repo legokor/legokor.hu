@@ -19,8 +19,7 @@ A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünk
 > **Aktuális információk:**
 > Ha érdekel a kör és szeretnél csatlakozni,
 akkor gyere és végezd el 5 alkalmas
-tanfolyamunkat, melynek során ebben a
-félévben először egy saját fejlesztésű,
+tanfolyamunkat, melynek során egy saját fejlesztésű,
 STM32 alapú rover programozásával
 vezetünk be a projektmunka alapjaiba.
 >
