@@ -19,11 +19,11 @@ A legtöbb projektünk célorientált, azaz valamilyen projektszintű cél felé
 
 ### Villamosmérnökök?
 
-Villamosmérnöki tanulmányaidat nagyszerűen kamatoztathatod számos projektben. Ha az űrtechnológia érdekel, akkor tárt karokkal vár az [UPRA projekt](/projects/upra/). Ha a LabView, és az ipari irányítástechnika, arra az esetre az [INDACT projektünk](/projects/indact/) számodra a megfelelő. Esetleg ha a szabályozástechnika és a drónok világa vonz, akkor a [Quadrocopterekkel foglalkozó csapattal](/projects/quadrocopter) érdemes felvenni a kapcsolatot.
+Villamosmérnöki tanulmányaidat nagyszerűen kamatoztathatod számos projektben. Ha az űrtechnológia érdekel, akkor tárt karokkal vár az [UPRA projekt](/projects/upra/). Ha a LabView, és az ipari irányítástechnika, arra az esetre az [INDACT projektünk](/projects/indact/) számodra a megfelelő.
 
 ### Mérnökinformatikusok?
 
-Informatikusként nincs nagyobb öröm annál, mint, hogy az általad írott kód életre kel egy eszközön. Erre például remek lehetőség a [gépi látást](/projects/gepi_latas/), illetve az alternatív irányításmódokat kutató projektünk. Utóbbi keretein belül megismerkedhetsz egy [Leap Motion](/projects/leap_motion/) programozásával, onnantól pedig már csak a képzeleted szab határt, hogy mit irányítasz vele.
+Informatikusként nincs nagyobb öröm annál, mint, hogy az általad írott kód életre kel egy eszközön. Erre remek lehetőség az alternatív irányításmódokat kutató projektünk, melynek keretein belül megismerkedhetsz egy [Leap Motion](/projects/leap_motion/) programozásával, onnantól pedig már csak a képzeleted szab határt, hogy mit irányítasz vele.
 
 Manapság hatalmas divatszó lett a mesterséges intelligencia, nem is véletlenül. Ha szeretnéd te is beleásni magad ebbe a témakörbe, az [MI projektben](/projects/mesterseges_intelligencia/) hasonlóan lelkes társakat találsz hozzá.
 
