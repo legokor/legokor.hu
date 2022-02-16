@@ -9,8 +9,14 @@ layout: default-wide
     <div id="inactive">A projekt jelenleg inaktív</div>
     {% elsif page.status == "starting" %}
     <div id="starting">Induló projekt</div>
-    {% else %}
+    {% elsif page.status == "active" %}
     <div id="active">A projekt jelenleg is aktív!</div>
+    {% elsif page.status == "archived" %}
+    <div id="archived">A projekt archiválva lett!</div>
+    {% elsif page.status == "finished" %}
+    <div id="finished">A projekt sikeresen befejeződött!</div>
+    {% else %}
+    <div id="finished"></div>
     {% endif %}
 
     {{ content }}
