@@ -8,7 +8,8 @@ A LEGO Kör nevét a LEGO Mindstorms-ról kapta, ugyanis hosszú ideig ezen eszk
 
 
 <div class="video16-9">
-<iframe src="https://youtu.be/8unT5DWlPFE"></iframe>
+
+    <iframe src="https://www.youtube.com/embed/8unT5DWlPFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Szakmai fejlődés és munka a Körben
