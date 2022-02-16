@@ -6,6 +6,11 @@ layout: default
 
 A LEGO Kör nevét a LEGO Mindstorms-ról kapta, ugyanis hosszú ideig ezen eszközök fejlesztése volt a fő profilunk. Mára ezzel csak ritkán, illetve a tanfolyamunk keretei közt foglalkozunk, és nyitottunk a mesterséges intelligencia, az ipari irányítástechnika, az űrtechnológia és az alternatív irányításmódok felé is. Eszközparkunk lehetőséget nyújt az innovatív ötletek megvalósításához. Nálunk bárki megtalálhatja a számára megfelelő szakterületet.
 
+
+<div class="video16-9">
+<iframe src="https://youtu.be/8unT5DWlPFE"></iframe>
+</div>
+
 ## Szakmai fejlődés és munka a Körben
 
 **Miután bekerülsz a körbe, számos projekt közül választhatsz, melyiken szeretnél dolgozni.** Ezek között akad villamosmérnökibb és informatikusabb beállítottságú is, illetve előfordul, hogy részfeladatok szintjén keverednek ezek. **Akkor se aggódj, ha infósként túlnyomóan villanyos, vagy villanyosként túlnyomóan infós projektbe szeretnél becsatlakozni:** általában minden projektben akad a másik szakhoz illő részfeladat, illetve a projekttársaidtól is kérdezhetsz, tanulhatsz akármikor.
