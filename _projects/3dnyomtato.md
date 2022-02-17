@@ -12,8 +12,10 @@ members:
 - revay-regina
 ---
 
-A projekt célja a laborunkban lévő 3d nyomtató fejlesztése, karbantartása és üzemeltetése. A tagok megismerkedhetnek a 3d nyomtatás előnyeivel és hátrányaival, modell tervezéssél, illetve azzal is hogy hogyan készíts akár sajátot házilag.
+A projekt célja a laborunkban lévő 3d nyomtató fejlesztése, karbantartása és üzemeltetése. 
+
+A tagok megismerkedhetnek az egyedi modellek tervezésének folyamatával, a 3D nyomtató működésével, valamint a nyomtatás menetével. Amellett, hogy a projekt belátást enged a technológia előnyeibe és hátrányaiba, a projekt tagjainak lehetőségük van a nyomtatáson túlmutató képességeik fejlesztésére is. Mindezek mellett a projekt tagjai egy vidám és lelkes csapatot alkotnak, ahol garantáltak a jó hangulatban folyó gyűlések.
 
 Ha érdekel a projekt, akkor keress minket emailben bármikor.
 
-További információk a hamarosan induló <a target="_blank" href="https://3d.legokor.hu">3d.legokor.hu</a> oldalunkon lesznek megtalálhatóak.
+További információk a <a target="_blank" href="https://3d.legokor.hu">3d.legokor.hu</a> oldalunkon találhatóak meg.
