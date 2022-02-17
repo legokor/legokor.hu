@@ -4,5 +4,5 @@ name: Sgánetz Bence
 username: sganetz-bence
 contact:
   email: sganetz.bence@simonyi.bme.hu
-image: http://lego.sch.bme.hu/wp-content/uploads/2016/09/sganetz-bence-150x150.jpg
+image: https://warp.sch.bme.hu/img/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d7716933a6d97fcc1f352a180471c1eff72164a/SganetzBence.jpg
 ---
