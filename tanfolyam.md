@@ -7,6 +7,10 @@ layout: default
 
 Ha érdekel a LEGO kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI), akkor jó helyen jársz. Mi majdnem mindennel foglalkozunk, és ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamunkra, melynek elvégzésével felvételt nyerhetsz hozzánk.
 
+ > **Jelentkezés:**
+ Ha szeretnél beszélgetni velünk, akkor szeretettel várunk **2022.02.24-én az SCH1619-1620-ban 19.00-tól**. Lehetőséged nyílik beszélgetni a projektvezetőkkel, projekttagokkal és megismerkedheetsz a LEGO életérzéssel. Ha nem tudtok koliba bejutni írjatok e-mail tanfolyamfelelősünknek a [revay.regina@simonyi.bme.hu](mailto:revay.regina@simonyi.bme.hu) címre.
+
+
 > **Jelentkezés:**
  Ha jelentkezni szeretnél tanfolyamunkra, valamint a LEGO Körbe, akkor azt az alábbi form kitöltésével teheted meg **2022. 02. 27. (vasárnap) 23:59-ig**.
 A kérdőív során az alapvető adataid megadásán túl egy legalább fél oldalas fényképpel ellátott motivációs levél feltöltését kérjük tőled.
