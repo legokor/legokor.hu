@@ -31,7 +31,7 @@ Az játékmenet lényege, hogy a játékos felé érkező ritmushoz igazított k
 
 ## "Inspiráció"
 
-![](https://warp.sch.bme.hu/img/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--df8cad8faf0ba9adc359b2f017e3dcbc4c0aed5c/inspiration.gif)  
+![](https://warp.sch.bme.hu/img/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a655414ef09d626824314a3f11a156dd9599376b/inspiration2.gif) 
 
 A projekt ötlete eredetileg egy [Twitter posztból](https://twitter.com/pushmatrix/status/1260209543864356865) származik, de mivel ez a Quest 2 VR headset-re készült és nem volt elérhető a forráskódja, az itt bemutatott projekt teljesen tiszta lappal kezdődött.
 
