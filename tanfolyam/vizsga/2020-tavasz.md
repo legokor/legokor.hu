@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "LEGO Tanfolyam: Vizsga (2020 tavasz)"
+title: "LEGO Tanfolyam: Vizsga (2022 tavasz)"
 ---
 
-# LEGO Tanfolyam: Vizsga (2020 tavasz)
+# LEGO Tanfolyam: Vizsga (2022 tavasz)
 
 A vizsgán több feladatot kell elvégeznetek. Ezekért jár külön-külön is pont, illetve pluszpont jár, ha a teljes pályát egy menetben teljesítitek. A pontozásnál figyelembe vesszük a pontosságot és a gyorsaságot is, illetve ha valami különleges kiegészítőt raktok a robotra, arra is járhat pluszpont.
 
@@ -40,11 +40,11 @@ Ugyanakkor:
 - ami külön színű vonal az illusztrációkon, az a tényleges feladatban is külön színű lesz,
 - ami egyező színű vonal az illusztrációkon (feladatokon átívelően is!), az a tényleges feladatban is egyező színű lesz.
 
-**A vizsgafeladatok az itt lévő sorrendjükkel megegyező sorrendben fognak szerepelni a pályán.** A 2020 tavaszi vizsga feladatai a következők:
+**A vizsgafeladatok az itt lévő sorrendjükkel megegyező sorrendben fognak szerepelni a pályán.** A 2022 tavaszi vizsga feladatai a következők:
 
 ### Vonalkövetés
 ![Vonalkövetés](/images/tanfolyam/feladatok/vonal_szimpla.svg)
-A járművet a földre helyezés után a touch szenzor megnyomásával indíthatjuk el. Az útvonalon előfordulhat **éles kanyar**, viszont _nincs_ rajta kereszteződés. A kezdő vonalkövetés szekció végeztével a kijelzőre ki kell írni a megtett út **becsült hosszát** cm-ben.
+A járművet a földre helyezés után indíthatjuk el. Az útvonalon előfordulhat **éles kanyar**, viszont _nincs_ rajta kereszteződés. A kezdő vonalkövetés szekció végeztével a kijelzőre ki kell írni a megtett út **becsült hosszát** cm-ben.
 
 ### Labirintus
 ![Labirintus](/images/tanfolyam/feladatok/labirintus.svg)
