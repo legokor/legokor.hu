@@ -37,6 +37,7 @@ vezetünk be a projektmunka alapjaiba.
 > | 2022.03.22. | 18:00 – 20:00 |   E épület 403   | 
 > | 2022.03.29. | 18:00 – 20:00 |   E épület 401   |
 > | 2022.04.05. | 18:00 – 20:00 |   E épület 402   |
+> 
 
 > Csütörtöki csoport: 
 > |    Dátum    |    Időpont    |    Helyszín      |
@@ -46,3 +47,4 @@ vezetünk be a projektmunka alapjaiba.
 > | 2022.03.17. | 18:00 – 20:00 |   SCH 103        |
 > | 2022.03.24. | 18:00 – 20:00 |   I épület B140  |
 > | 2022.03.31. | 18:00 – 20:00 |   I épület B140  |
+> 
