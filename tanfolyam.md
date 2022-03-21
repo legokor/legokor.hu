@@ -30,6 +30,7 @@ vezetünk be a projektmunka alapjaiba.
 > #new #STM32 #saját
 > 
 > Keddi csoport: 
+> 
 > |    Dátum    |    Időpont    |    Helyszín      |
 > |-------------|---------------|------------------|
 > | 2022.03.01. | 19:00 – 21:00 |   E épület 401   |
@@ -40,6 +41,7 @@ vezetünk be a projektmunka alapjaiba.
 > 
 
 > Csütörtöki csoport: 
+> 
 > |    Dátum    |    Időpont    |    Helyszín      |
 > |-------------|---------------|------------------|
 > | 2022.03.03. | 19:00 – 21:00 |   SCH 103        |
