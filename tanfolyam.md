@@ -29,7 +29,7 @@ vezetünk be a projektmunka alapjaiba.
 >
 > #new #STM32 #saját
 > 
-> Keddi csoport: 
+> **Keddi csoport:**
 > 
 > |    Dátum    |    Időpont    |    Helyszín      |
 > |-------------|---------------|------------------|
@@ -40,7 +40,7 @@ vezetünk be a projektmunka alapjaiba.
 > | 2022.04.05. | 18:00 – 20:00 |   E épület 402   |
 > 
 
-> Csütörtöki csoport: 
+> **Csütörtöki csoport:** 
 > 
 > |    Dátum    |    Időpont    |    Helyszín      |
 > |-------------|---------------|------------------|
