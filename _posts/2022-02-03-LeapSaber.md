@@ -2,7 +2,7 @@
 title: Leap Saber - Beat Saber adaptálása kézkövetésre
 layout: post
 author: szakal-vince-abosa
-image:https://warp.sch.bme.hu/img/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--540bd49f77245068dc74be36d0098d6a760edaf5/thumbnail.jpg
+image: https://warp.sch.bme.hu/img/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--540bd49f77245068dc74be36d0098d6a760edaf5/thumbnail.jpg
 
 excerpt: A virtuális valóságban használt 3D követett kontrollerekről Leap Motion alapú kézkövetésre való adaptációja során sok probléma merült fel, melyek megoldása nagyon tanulságos volt.
 ---
@@ -48,7 +48,7 @@ Ennek megoldására a szenzorhoz képest a kezek el vannak tolva, a kardok pedig
 # Pályák betöltése
 
 A Beat Saber pályák betöltésének lehetősége nem volt az eredeti terv része, de egy kis utánajárás után kiderült, a játék egy JSON alapú, a dal készítő közösségnek köszönhetően alaposan dokumentált formátumot használ. Egy külön [wiki oldal](https://bsmg.wiki/mapping/map-format.html) van szentelve a formátum részleteinek, melyek könnyen feldolgozhatónak bizonyultak.
-Ugyan nem minden részét használja fel a map formátumnak a Leap-es változat, de a pályák lényegi része így megjelenítésre kerül. Ennek a megoldásnak a nagy előnye, hogy a játék akármilyen Beat Saber-hez készült map-el használható, melyekből óriási válaszék elérhető például a [BSaber](https://bsaber.com/) oldalon, vagy akár AI segítségével tetszőleges YouTube videóból generálhatóak a [BeatSage](https://beatsage.com/) segítségével. A pályák egy mappából dinamikusan töltőnek be minden indításkor, így akármikor bővíthető a dal választék.
+Ugyan nem minden részét használja fel a map formátumnak a Leap-es változat, de a pályák lényegi része így megjelenítésre kerül. Ennek a megoldásnak a nagy előnye, hogy a játék akármilyen Beat Saber-hez készült map-el használható, melyekből óriási válaszék elérhető például a [BSaber](https://bsaber.com/) oldalon, vagy akár AI segítségével tetszőleges YouTube videóból generálhatóak a [BeatSage](https://beatsage.com/) segítségével. A pályák egy mappából dinamikusan töltődnek be minden indításkor, így akármikor bővíthető a dal választék.
 
 # Menük
 A Leap-es kézkövetésben nincs semmilyen beépített kurzor, és ugyan vannak megoldások arra, hogy hogyan lehet rámutatni dolgokra, de egyik sem teljesen optimális.
@@ -66,7 +66,10 @@ Ennek javítására egy robbanásszerű impulzust adok minden darabnak, aminek k
 A bloom is fontos része volt a grafikának, amit a [KinoBloom](https://github.com/keijiro/KinoBloom) bővítmény segítségével valósítottam meg.
 
 # Az elkészült játék
-<iframe width="894" height="503" src="https://www.youtube.com/embed/14ZVVkqxJ4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video16-9">
+
+    <iframe src="https://www.youtube.com/embed/14ZVVkqxJ4c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Hova tovább?
 A projekt több részét is tervezem még fejleszteni, például egy Leaderboard készítésével, valamint egy komplexebb pontozási rendszerrel. A kényelem sokat javult a fejlesztés során, de úgy gondolom egy kis kísérletezéssel még jobbá lehetne tenni. Ezen kívül a Leap más szögekben való elhelyezésével is próbálkozni akarok.
