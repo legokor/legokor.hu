@@ -13,15 +13,17 @@ Ha érdekel a LEGO kör (robotika, űrtechnológia, alternatív vezérlési mód
 > **Jelentkezés:**
 Az őszi tanfolyamunkra ezen a [form](https://forms.gle/N99xgd7HMCohrUJGA)on tudtok jelentkezni.
 
-> **Tanfolyam alkalmak:**   
-> |    Dátum    |    Időpont    |   
-> |:-----------:|:-------------:|   
-> | 2022.09.20. | 18:00 – 20:00 |   
-> | 2022.10.04. | 18:00 – 20:00 |      
-> | 2022.10.11. | 18:00 – 20:00 |    
-> | 2022.10.18. | 18:00 – 20:00 |   
-> | 2022.10.25. | 18:00 – 20:00 |   
- A helyszínekkel később jelentkezünk.
+> **Tanfolyam alkalmak:**  
+  
+|    Dátum    |    Időpont    |  
+|:-----------:|:-------------:|  
+| 2022.09.20. | 18:00 – 20:00 |  
+| 2022.10.04. | 18:00 – 20:00 |  
+| 2022.10.11. | 18:00 – 20:00 |  
+| 2022.10.18. | 18:00 – 20:00 |  
+| 2022.10.25. | 18:00 – 20:00 |  
+
+A helyszínekkel később jelentkezünk.
 
 A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz: 
 [bodoregina01@gmail.com](mailto:bodoregina01@gmail.com)
