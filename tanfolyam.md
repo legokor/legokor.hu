@@ -15,7 +15,7 @@ Az őszi tanfolyamunkra ezen a [form](https://forms.gle/N99xgd7HMCohrUJGA)on tud
 
 > **Tanfolyam alkalmak:**   
 > |    Dátum    |    Időpont    |   
-> |-------------|---------------|   
+> |:-----------:|:-------------:|   
 > | 2022.09.20. | 18:00 – 20:00 |   
 > | 2022.10.04. | 18:00 – 20:00 |      
 > | 2022.10.11. | 18:00 – 20:00 |    
