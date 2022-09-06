@@ -14,7 +14,7 @@ Ha érdekel a LEGO kör (robotika, űrtechnológia, alternatív vezérlési mód
 Az őszi tanfolyamunkra ezen a [form](https://forms.gle/N99xgd7HMCohrUJGA)on tudtok jelentkezni.
 
 > **Tanfolyam alkalmak:**   
-> |    Dátum    |    Időpont    |   
+> |    Dátum    |    Időpont    |   
 > |-------------|---------------|   
 > | 2022.09.20. | 18:00 – 20:00 |   
 > | 2022.10.04. | 18:00 – 20:00 |      
