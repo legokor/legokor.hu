@@ -5,11 +5,11 @@ logo: 3dnyomtato.svg
 preview: 3dnyomtato.jpg
 status: active
 introduction: 3D modellek tervezése, nyomtatása.
-leader: farkas-tamas
+leader: revay-regina
 members:
 - ugrin-daniel
+- farkas-tamas
 - izso-andras
-- revay-regina
 ---
 
 A projekt célja a laborunkban lévő 3d nyomtató fejlesztése, karbantartása és üzemeltetése. 
