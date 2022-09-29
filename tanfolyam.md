@@ -10,8 +10,8 @@ Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési mód
  > **LEGO simogató:**
  Ha szeretnél beszélgetni velünk, akkor szeretettel várunk **2022.09.12-én az SCH1620-ban 20:00-tól**. Lehetőséged nyílik beszélgetni a projektvezetőkkel, projekttagokkal és megismerkedhetsz a LEGO életérzéssel. Ha nem tudtok koliba bejutni írjatok e-mail tanfolyamfelelősünknek a [bodoregina01@gmail.com](mailto:bodoregina01@gmail.com) címre vagy keressétek [Medvét](https://pek.sch.bme.hu/profiles/Mikl%C3%B3s) az alábbi elérhetőségek valamelyikén.
 
-> **Jelentkezés:**
-Az őszi tanfolyamunkra ezen a [form](https://forms.gle/N99xgd7HMCohrUJGA)on tudtok jelentkezni. A jelentkezéseteket szeptember 17. 23:59-ig várjuk!
+> **Jelentkezés:**  
+> A jelentkezés lezárult az őszi időszakra. Szeretettel várjuk majd tavaszi tanfolyamunkra az érdeklődőket!
 
 > **Tanfolyam alkalmak:**   
 >  
@@ -24,7 +24,6 @@ Az őszi tanfolyamunkra ezen a [form](https://forms.gle/N99xgd7HMCohrUJGA)on tud
 > | 2022.10.25. | 18:00 – 20:00 |      E404      |     
 > 
 
-A helyszínekkel később jelentkezünk.
 
 A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz: 
 [bodoregina01@gmail.com](mailto:bodoregina01@gmail.com)
