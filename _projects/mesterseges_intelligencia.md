@@ -23,6 +23,7 @@ members:
 - meszaros-peter
 - telekes-marton-gabor
 - el-ali-maya
+- revay-regina
 ---
 
 A projekt célja, hogy rendszeres workshopokkal, friss tanulmányok olvasásával, a legújabb modellek implementálásával és saját projekteken való munkával hasznos ismereteket szerezzünk és minél jobban elmélyüljünk a gépi tanulás, neurális hálózatok és egyéb kurrens kutatási terültek világában.
