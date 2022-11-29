@@ -10,6 +10,8 @@ members:
 - ugrin-daniel
 - farkas-tamas
 - izso-andras
+- boczen-koppany-andras
+- bodo-regina
 ---
 
 A projekt célja a laborunkban lévő 3d nyomtató fejlesztése, karbantartása és üzemeltetése. 

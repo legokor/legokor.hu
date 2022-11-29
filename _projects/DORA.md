@@ -7,6 +7,8 @@ introduction: A LEGO kör robotautó fejlesztésével foglalkozó projektje.
 leader: izso-andras
 members:
 - torok-almos
+- bodo-regina
+- horvath-mate
 ---
 A Dinamikus Orientációs Robot Autó (röviden DORA) projekt egy autonóm robot elkészítését foglalja magába. DORA feltérékpezi a környezetét, és ott megadott pontokra navigál. A robotot három darab, háromszög formában elhelyezett, omnidirekciós kerékkel felszerelt motor hajtja.
 A környezet feltérképezését és a pálya tervezését egy Jetson Nano fogja kezelni. A motorok vezérléséért, enkóderek, illetve az IMU kiolvasásáért egy STM32 Nucleo lesz a felelős, egy saját tervezésű NYÁK-kal ellátva. További szenzorok között szerepel egy LIDAR illetve egy sztereo kamera.
