@@ -25,7 +25,7 @@ Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési mód
 A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz: 
 [bodo.regina@simonyi.bme.hu](mailto:bodo.regina@simonyi.bme.hu)
 
-> **Aktuális információk:**
+> **Aktuális információk:**  
 > Ha érdekel a kör és szeretnél csatlakozni,  
 > akkor gyere és végezd el valamelyik tanfolyamunkat!  
 > Választhatod a Robotika tanfolyamot melyeken saját készítésű robotainkon sajátíthatod el az irányítástechnika alapjait.  
