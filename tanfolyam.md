@@ -5,35 +5,29 @@ layout: default
 
 # Robotika tanfolyam
 
-Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI), akkor jó helyen jársz. Mi majdnem minddel foglalkozunk, és ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamunkra, melynek elvégzésével felvételt nyerhetsz hozzánk.
-
- > **LEGO simogató:**
- Ha szeretnél beszélgetni velünk, akkor szeretettel várunk **2022.09.12-én az SCH1620-ban 20:00-tól**. Lehetőséged nyílik beszélgetni a projektvezetőkkel, projekttagokkal és megismerkedhetsz a LEGO életérzéssel. Ha nem tudtok koliba bejutni írjatok e-mail tanfolyamfelelősünknek a [bodoregina01@gmail.com](mailto:bodoregina01@gmail.com) címre vagy keressétek [Medvét](https://pek.sch.bme.hu/profiles/Mikl%C3%B3s) az alábbi elérhetőségek valamelyikén.
+Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI, VR), akkor jó helyen jársz. Mi majdnem minddel foglalkozunk, és ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamunkra, melynek elvégzésével felvételt nyerhetsz hozzánk.
 
 > **Jelentkezés:**  
-> A jelentkezés lezárult az őszi időszakra. Szeretettel várjuk majd tavaszi tanfolyamunkra az érdeklődőket!
+> Ha elnyertük tetszésed jelentkezz valamelyik tanfolyamunkra [ezen a linken!](https://tanfolyam.simonyi.bme.hu/form/jelentkezes-lego)
 
 > **Tanfolyam alkalmak:**   
 >  
 > |    Dátum    |    Időpont    |    Helyszín    |
 > |-------------|---------------|----------------|  
-> | 2022.09.20. | 18:00 – 20:00 |      E404      |  
-> | 2022.10.04. | 18:00 – 20:00 |      E404      |   
-> | 2022.10.11. | 18:00 – 20:00 |      E404      |   
-> | 2022.10.18. | 18:00 – 20:00 |      E404      |     
-> | 2022.10.25. | 18:00 – 20:00 |      E404      |     
+> | 2023.03.16. | 18:00 – 20:00 |     SCH-103    |  
+> | 2023.03.22. | 18:00 – 20:00 |     SCH-103    |   
+> | 2023.03.29. | 18:00 – 20:00 |     SCH-103    |   
+> | 2023.04.04. | 18:00 – 20:00 |     SCH-103    |     
+> | 2023.04.13. | 18:00 – 20:00 |     SCH-103    |     
 > 
 
 
 A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz: 
-[bodoregina01@gmail.com](mailto:bodoregina01@gmail.com)
+[bodo.regina@simonyi.bme.hu](mailto:bodo.regina@simonyi.bme.hu)
 
 > **Aktuális információk:**
-> Ha érdekel a kör és szeretnél csatlakozni,
-akkor gyere és végezd el 5 alkalmas
-tanfolyamunkat, melynek során egy saját fejlesztésű,
-STM32 alapú rover programozásával
-vezetünk be a projektmunka alapjaiba.
->
-> #new #STM32 #saját
-> 
+> Ha érdekel a kör és szeretnél csatlakozni,  
+> akkor gyere és végezd el valamelyik tanfolyamunkat!  
+> Választhatod a Robotika tanfolyamot melyeken saját készítésű robotainkon sajátíthatod el az irányítástechnika alapjait.  
+> Vagy kipróbálhatod magad a vadonatúj VR / MI tanfolyamunkon ahol a Leap és az MI projekt vezet be titeket a téma alapjaiba!  
+> Várunk titeket szeretettel.
