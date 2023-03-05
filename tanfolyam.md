@@ -10,15 +10,16 @@ Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési mód
 > **Jelentkezés:**  
 > Ha elnyertük tetszésed jelentkezz valamelyik tanfolyamunkra [ezen a linken!](https://tanfolyam.simonyi.bme.hu/form/jelentkezes-lego)
 
-> **Tanfolyam alkalmak:**  
-> ###Robotika  
+**Tanfolyam alkalmak:**  
+> ### Robotika 
 >  
 > |    Dátum    |    Időpont    |    Helyszín    |
 > |-------------|---------------|----------------|  
 > | 2023.03.16. | 18:00 – 20:00 |     SCH-103    |  
 > | 2023.03.22. | 18:00 – 20:00 |     SCH-103    |   
 > | 2023.03.29. | 18:00 – 20:00 |     SCH-103    |       
->   
+    
+    
 > ### VR / MI
 > 
 > |    Dátum    |    Időpont    |    Helyszín    |
