@@ -5,10 +5,10 @@ logo: fpga.svg
 preview: fpga\_bg.jpg
 status: active
 introduction: Nagysebességű digitális áramkörök fejlesztése.
-leader: kiss-tamas
+leader: fiak-adam
 members:
-- toth-adam-raymond
-- erdelyi-janka-anna
+- fiak-adam
+- kovacs-mate
 - puskas-timea
 ---
 

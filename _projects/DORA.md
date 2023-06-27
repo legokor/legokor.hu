@@ -4,8 +4,10 @@ title: DORA
 status: active
 logo: dora.svg
 introduction: A LEGO kör robotautó fejlesztésével foglalkozó projektje.
-leader: izso-andras
+leader: varga-tamas-laszlo
 members:
+- varga-tamas-laszlo
+- kiovics-daniel
 - torok-almos
 - bodo-regina
 - horvath-mate

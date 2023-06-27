@@ -5,7 +5,7 @@ logo: indact.svg
 preview: indactlogo.jpg
 status: active
 introduction: A LEGO kör ipari irányítástechnikával foglalkozó projektje.
-leader: komaromi-sandor
+leader: kabacs-mate
 members:
 - gyulai-laszlo
 - antal-marton
@@ -23,6 +23,7 @@ members:
 - szilagyi-bence-agoston
 - orosz-levente
 - erdei-sandor
+- kabacs-mate
 - boczen-koppany-andras
 ---
 Az Industrial Automation and Control Technology project(továbbiakban INDACT) a LEGO kör Ipari irányítástechnikával és automatizálással foglalkozó projectje. Célunk az olyan technológiák megismerése, melyek a gyártási folyamat irányításánál nagy részt jelen vannak.
