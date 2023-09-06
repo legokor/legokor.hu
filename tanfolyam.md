@@ -8,25 +8,25 @@ layout: default
 Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI, VR), akkor jó helyen jársz. Mi majdnem minddel foglalkozunk, és ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamunkra, melynek elvégzésével felvételt nyerhetsz hozzánk.
 
 > **Jelentkezés:**  
-> Ha elnyertük tetszésed jelentkezz hozzánk ősszel!
+> Ha elnyertük tetszésed jelentkezz hozzánk ősszel a [formon](https://docs.google.com/forms/d/e/1FAIpQLSfpdG_gVZN-LETSZtEIl_TcSN02KdspsMcvdkGM3FRfWXxncA/viewform) keresztül!!
 
 ## Tanfolyam alkalmak:  
-### Robotika 
+### ROS Workshop
 >  
 > |    Dátum    |    Időpont    |    Helyszín    |
 > |-------------|---------------|----------------|  
-> | 2023.03.16. | 18:00 – 20:00 |     SCH-103    |  
-> | 2023.03.22. | 18:00 – 20:00 |     SCH-103    |   
-> | 2023.03.29. | 18:00 – 20:00 |     SCH-103    |       
+> | 2023.09.19. | 18:00 – 21:00 |     SCH-103    |  
+> | 2023.09.26. | 18:00 – 21:00 |     SCH-103    |   
+> | 2023.10.03. | 18:00 – 21:00 |     SCH-103    |       
     
     
-### VR / MI
+### MI Workshop
 > 
 > |    Dátum    |    Időpont    |    Helyszín    |
 > |-------------|---------------|----------------|  
-> | 2023.04.04. | 18:00 – 20:00 |     SCH-103    |     
-> | 2023.04.13. | 18:00 – 20:00 |     SCH-103    |      
-> 
+> | 2023.09.28. | 18:00 – 21:00 |     SCH-103    |     
+> | 2023.10.05. | 18:00 – 21:00 |     SCH-103    |      
+> | 2023.10.12. | 18:00 – 21:00 |     SCH-103    | 
 
 A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz: 
 [bodo.regina@simonyi.bme.hu](mailto:bodo.regina@simonyi.bme.hu)
