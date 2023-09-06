@@ -13,7 +13,8 @@ Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési mód
 ## Tanfolyam alkalmak:  
 ### ROS Workshop
 > **Rövid leírás:**  
->     ROS alapok elsajátítása, workspace létrehozása, egyszerű publisher és subsricber, adatok megtekintése.  
+>     ROS alapok elsajátítása, workspace létrehozása, egyszerű publisher és subscriber,  
+>     adatok megtekintése.  
 >     Egy kis minta robot létrehozása, a modell betöltése Blenderből, szenzorok lehelyezése és az azokból érkező adatok feldolgozása, minimális vezérlés bevezetése ha marad rá idő.  
 >  
 > |    Dátum    |    Időpont    |    Helyszín    |
