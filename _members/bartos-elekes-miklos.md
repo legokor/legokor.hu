@@ -2,6 +2,8 @@
 layout: user
 name: Bartos-Elekes Miklós
 username: bartos-elekes-miklos
+roles:
+- Volt körvezető
 contact:
   email: bartos.elekes.miklos@simonyi.bme.hu
   phone: '+36 70 730 1558, +40 74 127 0989'
