@@ -1,29 +1,17 @@
 ---
 layout: project
-title: Spybot
-logo: spybot.svg
-preview: spybot1.JPG
+title: IPA
+logo: 
+preview: 
 status: archived
-introduction: Mindenünk a mobilis, lábbal rendelkező robotok.
-leader: berke-marton
+introduction: Alternatív elektromos meghajtások vizsgálata, ionhajtómű készítése és fejlesztése.
+leader: gaspari-balazs
 members:
-- janko-andras
+
 ---
 
-A projekt fő célja tagjai ismereteinek bővítése robotikai téren. Középpontban a mikrokontroller alapú robotvezérlés, és a robotikai alapismretek megszerzése, az egyetemi oktatást kiegészítő gyakorlatias tapasztalatok szerzése. Ezen ismreteket tudod megszerezni, ha a projektünkben tevékenykedsz.
+Az IPA (Ion Propulsion Applications) jelenleg a kör legfiatalabb projektje. Célja a különböző alternatív elektromos meghajtások vizsgálata, működésük és alkalmazhatóságuk megértése. A folyamat végére egy légkörben működő ionhajtóművet tervezünk készíteni, amit egy vízben működő egység építése is követhet a későbbiekben.
 
-Jelenleg az STM32F4 mikrokontroller család egyik fejlesztőkártyáját, és ARDUINO UNO-t használunk a robotokban. A projekt keretein belül megtudhatod, hogyan is lehet ezen eszközökkel robotokat vezérelni. De ezeken felül alkalmanként foglalkozunk robot hardver, és alkalmanként tápegység tervezésével.
-
-Ha érdeklődnél a projekt iránt, keresd nyugodtan a projektvezetőt e-mailbe.
-
-### Feladatok, melyekre akár Te is jelentkezhetsz:
--	Motorvezérlő tervezése (SW)
--	Szabályzó a robot lábaihoz (SW + HW)
--	Tápegység tervezés (HW)
--	Vezeték nélküli kommunikáció PC-vel (SW)
--	"Control panel" készítése PC-re a robothoz (SW)
--	Robotpók váz továbbfejlesztése (HW)
--	Hexapod váz tervezése és gyártatása (CAD, HW)
--	Robot vezérlő mobil alkalmazás fejlesztése (SW, Android/iOS)
+Az technológia pár éve használatban van űrszondákon, a legígéretesebb hasznosítási területe az űrkutatás. Mivel működési elvükben hasonlóak a vákuumban és a levegőben működő hajtóművek, így az előbbi típussal is lehetőség van megismerkedni a projekt tagjainak. Az érdeklődőket sok izgalmas gyakorlati feladat várja a 3D tervezéstől kezdve egészen a mikrokontroller programozásig.
 
 
