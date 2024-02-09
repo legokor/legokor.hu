@@ -5,7 +5,7 @@ logo:
 preview:
 status: active
 introduction: A LEGO Kör tanfolyamrobotjainak közös fejlesztése, digitális hardvertervezés
-leader: kiovics-daniel
+leader:
 members:
 
 ---
