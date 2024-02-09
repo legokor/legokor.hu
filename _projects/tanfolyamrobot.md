@@ -1,29 +1,19 @@
 ---
 layout: project
-title: Spybot
+title: Tanfolyamrobot
 logo: spybot.svg
 preview: spybot1.JPG
-status: archived
-introduction: Mindenünk a mobilis, lábbal rendelkező robotok.
-leader: berke-marton
+status: active
+introduction: A LEGO Kör tanfolyamrobotjainak közös fejlesztése, programozása, beágyazott fejlesztés és digitális hardvertervezés
+leader: kiovics-daniel
 members:
-- janko-andras
+
 ---
 
-A projekt fő célja tagjai ismereteinek bővítése robotikai téren. Középpontban a mikrokontroller alapú robotvezérlés, és a robotikai alapismretek megszerzése, az egyetemi oktatást kiegészítő gyakorlatias tapasztalatok szerzése. Ezen ismreteket tudod megszerezni, ha a projektünkben tevékenykedsz.
+A projekt a Tanfolyamrobotok karbantartásával, fejlesztésével, és a robotika tanfolyam anyagának és feladatainak kidolgozásával foglalkozik. A robotok központi eleme egy STM32 mikrovezérlő, ami egy saját fejlesztéső alaplapon helyezkedik el. 
 
-Jelenleg az STM32F4 mikrokontroller család egyik fejlesztőkártyáját, és ARDUINO UNO-t használunk a robotokban. A projekt keretein belül megtudhatod, hogyan is lehet ezen eszközökkel robotokat vezérelni. De ezeken felül alkalmanként foglalkozunk robot hardver, és alkalmanként tápegység tervezésével.
+Ez gyakorlatilag egy kicsi, programozható számítógép, mellyel az eszköz többi elemét könnyen lehet vezérelni.  Az alaplap csatlakozik a többi perifériához, például a kijelzőhöz, szervóhoz, motormeghajtóhoz, ESP-hez. Emellett a szenzorok adatait is feldolgozza, mint a színérzékelő, távolságérzékelő, enkóderek, és az IMU.
 
-Ha érdeklődnél a projekt iránt, keresd nyugodtan a projektvezetőt e-mailbe.
-
-### Feladatok, melyekre akár Te is jelentkezhetsz:
--	Motorvezérlő tervezése (SW)
--	Szabályzó a robot lábaihoz (SW + HW)
--	Tápegység tervezés (HW)
--	Vezeték nélküli kommunikáció PC-vel (SW)
--	"Control panel" készítése PC-re a robothoz (SW)
--	Robotpók váz továbbfejlesztése (HW)
--	Hexapod váz tervezése és gyártatása (CAD, HW)
--	Robot vezérlő mobil alkalmazás fejlesztése (SW, Android/iOS)
+A projekt fő profilja a beágyazott fejlesztés, azonban szerepet kap még a digitális hardvertervezés, szabályozástechnika, és a robotok programozása is. A témakínálat idén a telemetriához tartozó webfejlesztéssel is bővült. Az újoncok így sok feladat közül válogathatnak, a szenzorbeültetésen és programozáson át egészen a robot magas szintű irányításával bezárólag.
 
 
