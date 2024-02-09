@@ -30,11 +30,11 @@ members:
 - horvath-mate
 ---
 
-A projekt célja, hogy rendszeres workshopokkal, friss tanulmányok olvasásával, a legújabb modellek implementálásával és saját projekteken való munkával hasznos ismereteket szerezzünk és minél jobban elmélyüljünk a gépi tanulás, neurális hálózatok és egyéb kurrens kutatási terültek világában.
+Körünk MI projektjének fő célja egy csapatba gyűjteni a mesterséges intelligencia iránt érdeklődő szakkollégistákat. Itt a közös munka során egymást váltják a korábbi tapasztalattal rendelkező, és a lelkes, újonnan érkező tagok. Az összetett témához szükséges folyamatos tudáscserét a félév során workshopok tartásával igyekszünk folyamatosan fenntartani.
 
-A félév elején a projekt kiválaszt egy mindenki számára izgalmas témakört, majd félév közben egymást segítve próbáljuk leküzdeni a felmerülő problémákat, és közösen elsajátítani az adott témakör minden csínját-bínját.
+A 2024 tavaszi félév tervei szerint gépi látás és YOLO témakörben indul egy kezdő tagfelvételi tanfolyam, ezen kívül pedig egy mindenkinek szóló workshop sorozat a fejlődés és tanulás érdekében.
 
-Ebben a félévben (2020 ősz) egy **gépi tanuláson alapuló relatív ingatlan-értékbecslő architektúra** megalkotása a cél. A relatív értékbecslés során, az abszolút értékbecsléssel szemben egymáshoz hasonló ingatlanok kerülnek összehasonlításra különböző tulajdonságok alapján a piaci érték megállapításához.
+Ennek eredményeként olyan modelleket szeretnénk fejleszteni, amelyeket a LEGO Kör más projektjei (navigáció, AR) is használhatnak a későbbiek során. Az csatlakozó újoncoknak lehetősége lesz kisegítő munkát vállalni a modell fejlesztésében, valamint kiselőadásokat tartani a témával kapcsolatban.
 
 A projekt során lehetőség van a mesterséges intelligencia és a data science számos területével megismerkedni, mint például:
 
