@@ -1,7 +1,7 @@
 ---
 layout: project
 title: IPA
-logo: 
+logo: ipa.svg
 preview: 
 status: active
 introduction: Alternatív elektromos meghajtások vizsgálata, ionhajtómű készítése és fejlesztése.
