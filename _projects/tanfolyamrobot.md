@@ -4,7 +4,7 @@ title: Tanfolyamrobot
 logo: 
 preview: Tanfolyamrobot.jpg
 status: active
-introduction: A LEGO Kör tanfolyamrobotjainak közös fejlesztése, programozása, beágyazott fejlesztés és digitális hardvertervezés
+introduction: A LEGO Kör tanfolyamrobotjainak közös fejlesztése, és digitális hardvertervezés
 leader: kiovics-daniel
 members:
 
