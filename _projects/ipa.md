@@ -2,7 +2,7 @@
 layout: project
 title: IPA
 logo: ipa.svg
-preview: 
+preview: ipa.jpg
 status: active
 introduction: Alternatív elektromos meghajtások vizsgálata, ionhajtómű készítése és fejlesztése.
 leader: gaspari-balazs
