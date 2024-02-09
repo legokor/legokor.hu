@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Tanfolyamrobot
-logo: spybot.svg
-preview: spybot1.JPG
+logo: 
+preview: Tanfolyamrobot.jpg
 status: active
 introduction: A LEGO Kör tanfolyamrobotjainak közös fejlesztése, programozása, beágyazott fejlesztés és digitális hardvertervezés
 leader: kiovics-daniel
