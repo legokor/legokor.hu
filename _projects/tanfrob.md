@@ -2,7 +2,7 @@
 layout: project
 title: Tanfolyamrobot
 logo: 
-preview: 
+preview: tanfolyamrobot.jpg
 status: active
 introduction: Robotok programozása és fejlesztése, szenzorbeültetés, dokumentálás és webfejlesztés.
 leader: 
