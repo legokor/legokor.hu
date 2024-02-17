@@ -8,7 +8,7 @@ layout: default
 Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI, VR), akkor jó helyen jársz! Ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamainkra, melyeknek elvégzésével felvételt nyerhetsz hozzánk.
 
 > **Jelentkezés:**  
-> Ha elnyertük tetszésed jelentkezz hozzánk most tavasszal a [formon]https://tanfolyam.simonyi.bme.hu/community/8 keresztül!
+> Ha elnyertük tetszésed jelentkezz hozzánk most tavasszal a [formon](https://tanfolyam.simonyi.bme.hu/community/8) keresztül!
 
 ## Tanfolyam alkalmak:  
 ### Robotika Workshop
@@ -54,7 +54,7 @@ Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési mód
 > | 2023.03.19. | 18:00 – 21:00 |     SCH-103    | 
 
 A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünkhöz: 
-[gaspari.balazs@simonyi.bme.hu](mailto:bodo.regina@simonyi.bme.hu)
+[gaspari.balazs@simonyi.bme.hu](mailto:gaspari.balazs@simonyi.bme.hu)
 
 > **Aktuális információk:**  
 > Ha érdekel a kör és szeretnél csatlakozni,  
