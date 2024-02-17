@@ -2,7 +2,7 @@
 layout: project
 title: Tanfolyamrobot
 logo: 
-preview: tanfolyamrobot.jpg
+preview: tanfrobot.jpg
 status: active
 introduction: Robotok programozása és fejlesztése, szenzorbeültetés, dokumentálás és webfejlesztés.
 leader: 
