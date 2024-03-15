@@ -34,9 +34,13 @@ Az előadás diái [itt érhetőek el](https://drive.google.com/file/d/1IexfnnaO
 
 Előadók: Honvéd Péter és Glocker Endre
 
-Kulcsszavak: 
+Kulcsszavak:
+ - YOLO: felépítése, architektúrája, tanítása, ground truth, bounding box, confidance value, intersection over union, non-max supression, loss function, YOLO korlátjai
+ - YOLO V3: anchor box, upsampling, multi-scale detection
 
-Az előadás során a YOLOv3 architektúra alapjaival és használatával fogunk megismerkedni.
+Az előadás rövid betekintést ad a YOLO modell felépítésébe, és annak működésébe. Ezt követően pedig egy YOLO V3 alapú demo mutatja meg, hogy a modell hogyan működik a gyakorlatban.
+
+Az előadás diái [itt érhetőek el](https://docs.google.com/presentation/d/1xbbSQd3La0Rw6IBpsUhwyA-ldPQNyf8-/edit#slide=id.p5).
 
 ### 03. YOLO rendszerek tanítása | Gyakorlat | 03.13. 18:00-20:00
 
