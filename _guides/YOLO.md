@@ -44,12 +44,14 @@ Az előadás diái [itt érhetőek el](https://docs.google.com/presentation/d/1x
 
 ### 03. YOLO rendszerek tanítása | Gyakorlat | 03.13. 18:00-20:00
 
-Előadók: 
+Előadók: Medve
 
-Kulcsszavak:
+Kulcsszavak: train-val-test sets, epoch, batch, batch normalisation,data loader, logger, optimiser (SGD, Adam), learning rate, kereszt entrópia, paraméterszám, szélesség és mélység, gpu vs. cpu
 
-Az előadás során egy YOLO modell tanítását fogjuk elvégezni, ahol mélyebben belenézünk a dataloader, regularizációs tagok, optimalizálók működésébe.
+A gyakorlat alatt a YOLOv5 kódját követtük végig colabon, illetve a ClearML-en követtük az eredményeket. [Colab notebook elérhető itt.](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
 
 **++Bónusz alkalom: 03.19-én tartjuk a XXI. Simonyi Konferenciát, ahol több előadási is lesz AI témában, illetve Medve tart workshopot az AI, adatvédelem és biztonság témában. Link: [https://konferencia.simonyi.bme.hu/](https://konferencia.simonyi.bme.hu/)**
 
 ### 04. You Only Live Once Labor | 03.20. 18:00-20:00
+
+Az utolsó alkalmon az eddigi tudásunkat felhasználva fogjuk kimérni az összefüggést az alacsony memóriaigényű yolo-k és a pontosság között.
