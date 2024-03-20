@@ -55,3 +55,5 @@ A gyakorlat alatt a YOLOv5 kódját követtük végig colabon, illetve a ClearML
 ### 04. You Only Live Once Labor | 03.20. 18:00-20:00
 
 Az utolsó alkalmon az eddigi tudásunkat felhasználva fogjuk kimérni az összefüggést az alacsony memóriaigényű yolo-k és a pontosság között.
+
+Az utolsó alkalomhoz a jegyzőkönyvet itt érhetitek el: [LINK](https://docs.google.com/document/d/1HvnG31PF3SoTKpAoAQbiBZ0KF8VYCcZRZvj8aprXAjA/edit?usp=sharing)
