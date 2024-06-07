@@ -10,6 +10,8 @@ members:
 - fiak-adam
 - kovacs-mate
 - puskas-timea
+- niethammer-tamas
+- dorogi-henrik
 ---
 
 A projektben FPGA-alapú rendszerek fejlesztésével foglalkozunk. Az FPGA-k olyan integrált áramkörök, melyekben a beépített hardverelemek közötti kapcsolatokat lehet programozni. Ezek lehetnek például regiszterek, memóriák, lookup table-ök, hardveres szorzók, I/O blokkok-
