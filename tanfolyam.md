@@ -9,8 +9,7 @@ Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési mód
 
 > **Jelentkezési információ:**  
 > Ebben az évben már nem indul több tanfolyam!
-<!-- 
-## Tanfolyam alkalmak:  
+[//]: # (## Tanfolyam alkalmak:  
 ### Robotika Workshop
 > **Rövid leírás:**  
 >     A robotika tanfolyamunk során lehetőséged lesz megismerni egy kisebb robotunk működését, valamint tanulhatsz a programozásáról és a mögöttes elvekről. 
@@ -59,4 +58,4 @@ A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünk
 > **Aktuális információk:**  
 > Ha érdekel a kör és szeretnél csatlakozni,  
 > akkor gyere és végezd el valamelyik tanfolyamunkat!  
-> Szeretettel várunk titeket! -->
+> Szeretettel várunk titeket! )
