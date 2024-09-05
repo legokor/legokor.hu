@@ -7,9 +7,9 @@ layout: default
 
 Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI, VR), akkor jó helyen jársz! Ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamainkra, melyeknek elvégzésével felvételt nyerhetsz hozzánk.
 
-> **Jelentkezés:**  
-> Ha elnyertük tetszésed jelentkezz hozzánk most tavasszal a [formon](https://tanfolyam.simonyi.bme.hu/community/8) keresztül!
-
+> **Jelentkezési információ:**  
+> Ebben az évben már nem indul több tanfolyam!
+<!-- 
 ## Tanfolyam alkalmak:  
 ### Robotika Workshop
 > **Rövid leírás:**  
@@ -59,4 +59,4 @@ A tanfolyammal kapcsolatos kérdésekkel nyugodtan fordulj tanfolyamfelelősünk
 > **Aktuális információk:**  
 > Ha érdekel a kör és szeretnél csatlakozni,  
 > akkor gyere és végezd el valamelyik tanfolyamunkat!  
-> Szeretettel várunk titeket! 
+> Szeretettel várunk titeket! -->
