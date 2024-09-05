@@ -19,4 +19,4 @@ Ezen az oldalon közlünk részletes információkat a szakkollégiumon kivülre
 >   
 >   A helyszínről majd később értesítjük a jelentkezőket
 >
-> Workshoppal kapcsolatos kérdésekkel forduljatok tanfolyamfeleősünkhöz : gaspari.balazs@simonyi.bme.hu 
+> Workshoppal kapcsolatos kérdésekkel forduljatok tanfolyamfeleősünkhöz : [gaspari.balazs@simonyi.bme.hu](mailto:gaspari.balazs@simonyi.bme.hu) 
