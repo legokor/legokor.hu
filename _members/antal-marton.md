@@ -3,6 +3,6 @@ layout: user
 name: Antal Márton
 username: antal-marton
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/AntalMarton.jpg
 ---

@@ -3,6 +3,6 @@ layout: user
 name: Gyulai László
 username: gyulai-laszlo
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/GyulaiLaszlo.jpg
 ---

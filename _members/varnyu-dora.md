@@ -3,6 +3,6 @@ layout: user
 name: Varnyú Dóra
 username: varnyu-dora
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/VarnyuDora.jpg
 ---

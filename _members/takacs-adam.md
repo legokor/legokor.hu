@@ -3,7 +3,6 @@ layout: user
 name: Takács Ádám
 username: takacs-adam
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/TakacsAdam.jpg
 ---
-

@@ -3,6 +3,6 @@ layout: user
 name: Balogh Dániel
 username: balogh-daniel
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/BaloghDaniel.jpg
 ---

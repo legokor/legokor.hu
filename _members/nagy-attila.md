@@ -3,6 +3,6 @@ layout: user
 name: Nagy Attila
 username: nagy-attila
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/NagyAttila.jpg
 ---
