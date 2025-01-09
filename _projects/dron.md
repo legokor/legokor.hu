@@ -1,14 +1,15 @@
 ---
 layout: project
-title: Quadrocopter
+title: Drón
 logo: qc.svg
 preview: quadrocopter.jpg
-status: inactive
+status: active
 introduction: A tagok villamosmérnöki és informatikai tudásának elmélyítése egy négyrotoros drón fejlesztésén keresztül.
-leader: boroznaki-daniel
+leader: fiak-adam
 members:
-- bognar-marton
-- solymos-balazs
+    - kiovics-daniel
+    - bacskai-kristof
+    - molnar-attila-bendeguz
 ---
 
 A projekt célja elsősorban a Lego-kör profiljába illeszkedve a tagok villamosmérnöki és informatikai tudásának elmélyítése egy quadcopter fejlesztésén keresztül. Ez magában foglal alacsony és magas szintű szabályzási feladatokat, beágyazott rendszerek tervezését és programozását, vezetéknélküli kommunikáció implementálását, valamint PC oldali programozást. Célunk ezen tudás felhasználásával egy saját fejlesztésű copter elkészítése, ami képes önállóan feladatokat megoldani legyen szó waypoint navigációról, vagy egy felhasználó követéséről aktív ütközéselkerüléssel.
@@ -20,14 +21,14 @@ Ezen kívül a projekt keretein belül foglalkozunk BLDC motorok vezérlésével
 Szívesen várunk minden érdeklődőt projektünkbe, gyűléseink nyíltak bárki számára, akár nem körtagoknak is.
 
 ### Feladatok, melyekre akár Te is jelentkezhetsz:
--	Kéttengelyes gimbal fejlesztése (HW + beágyazott SW)
--	Nagytávolságú kommunikációs modul fejlesztése (HW + beágyazott SW)
--	Motorvezérlő (ESC) továbbfejlesztése (HW + beágyazott SW)
--	Ütközéselkerülő/távolságérzékelő szenzor fejlesztése (HW)
--	Telefonos alkalmazás fejlesztés drón irányítására (Android/IOS SW)
--	Vezeték nélküli akkumulátor töltő egység fejlesztése (HW)
--	Repülésirányító/felügyelő szoftver fejlesztése (PC SW)
--	Szabályzási algoritmus továbbfejlesztése (beágyazott SW)
--	Repülésvezérlő szoftver fejlesztése (Linux SW) 
--	Egyéb a témakörbe illő, számodra érdekes feladat.
 
+-   Kéttengelyes gimbal fejlesztése (HW + beágyazott SW)
+-   Nagytávolságú kommunikációs modul fejlesztése (HW + beágyazott SW)
+-   Motorvezérlő (ESC) továbbfejlesztése (HW + beágyazott SW)
+-   Ütközéselkerülő/távolságérzékelő szenzor fejlesztése (HW)
+-   Telefonos alkalmazás fejlesztés drón irányítására (Android/IOS SW)
+-   Vezeték nélküli akkumulátor töltő egység fejlesztése (HW)
+-   Repülésirányító/felügyelő szoftver fejlesztése (PC SW)
+-   Szabályzási algoritmus továbbfejlesztése (beágyazott SW)
+-   Repülésvezérlő szoftver fejlesztése (Linux SW)
+-   Egyéb a témakörbe illő, számodra érdekes feladat.
