@@ -5,29 +5,11 @@ logo: mi.svg
 preview: mi\_projekt.jpg
 status: active
 introduction: Mesterséges intelligencia, gépi és megerősítéses tanulás módszereinek megismerése, alkalmazása.
-leader: bartos-elekes-miklos
+leader: honved-peter-dezso
 members:
-- gujgiczer-anna
-- rabatin-gabor-miklos
-- csoke-mate
-- zih-botond
-- dobos-oliver
-- moricz-tamas
-- zsiga-tibor
-- boros-abel
-- frey-balazs
-- bial-bence
-- nagy-attila
-- karman-krisztina
-- bartos-elekes-miklos
-- meszaros-peter
-- telekes-marton-gabor
-- el-ali-maya
-- revay-regina
-- szoghy-richard
-- boczen-koppany-andras
-- majsa-nikolett
-- horvath-mate
+    - kovacs-daniel
+    - mandzsu-bendeguz
+    - meszaros-peter
 ---
 
 Körünk MI projektjének fő célja egy csapatba gyűjteni a mesterséges intelligencia iránt érdeklődő szakkollégistákat. Itt a közös munka során egymást váltják a korábbi tapasztalattal rendelkező, és a lelkes, újonnan érkező tagok. Az összetett témához szükséges folyamatos tudáscserét a félév során workshopok tartásával igyekszünk folyamatosan fenntartani.
@@ -38,16 +20,16 @@ Ennek eredményeként olyan modelleket szeretnénk fejleszteni, amelyeket a LEGO
 
 A projekt során lehetőség van a mesterséges intelligencia és a data science számos területével megismerkedni, mint például:
 
-- Természetes nyelvfeldolgozás (NLP)
-- Adatgyűjtés, adatelemzés, adattisztítás, adatvizualizáció
-- Predikció tabuláris adatokból
-- Gépi látás
+-   Természetes nyelvfeldolgozás (NLP)
+-   Adatgyűjtés, adatelemzés, adattisztítás, adatvizualizáció
+-   Predikció tabuláris adatokból
+-   Gépi látás
 
 Előző félévekben a projekt sok hasonlóan érdekes problémán dolgozott, mint például:
 
-- EEG eszközökből érkező jelek feldolgozása
-- Intelligens viselkedés integrálása számítógépes játékokba megerősítéses tanulással (Mortal Kombat Bot)
-- Stílustranszfer GAN hálózatokkal
+-   EEG eszközökből érkező jelek feldolgozása
+-   Intelligens viselkedés integrálása számítógépes játékokba megerősítéses tanulással (Mortal Kombat Bot)
+-   Stílustranszfer GAN hálózatokkal
 
 A szakmai fejlődés lehetősége mellett, a projekten keresztül egy remek közösségbe lehet bekapcsolódni. A félév során rendszeresen szervezünk csapatépítő programokat.
 

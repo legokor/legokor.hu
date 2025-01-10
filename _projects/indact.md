@@ -7,25 +7,14 @@ status: active
 introduction: A LEGO kör ipari irányítástechnikával foglalkozó projektje.
 leader: kabacs-mate
 members:
-- gyulai-laszlo
-- antal-marton
-- balogh-daniel
-- elekes-marton
-- zadori-ferenc
-- horvath-andras
-- horvath-patrik
-- takacs-adam
-- puskas-timea
-- juhasz-elod-illes
-- kiraly-istvan
-- komaromi-sandor
-- rozsa-daniel
-- szilagyi-bence-agoston
-- orosz-levente
-- erdei-sandor
-- kabacs-mate
-- boczen-koppany-andras
+    - erdei-sandor
+    - varga-peter
+    - kovacs-mate
+    - karpat-anna-maria
+    - kis-bogdan-kolos
+    - serban-andrada
 ---
+
 Az INDACT (INDustrial Automation and Conrol Technology) a LEGO kör ipari irányítástechnikával és automatizálással foglalkozó projektje. A projekt egy hengerkoordináta-rendszerben mozgó robotkar építésével és fejlesztésével foglalkozik, melyen emberi kézre hasonlító megfogó szerkezet található.
 
 Ezt a közeljövőben olyan feladatokra lehet használni, mint tárgyak mozgatása, „gyártósori” beavatkozás, és 3D pályák bejárása. A vezérlőfelületeket folyamatosan bővítjük, jelenleg egy nyomógombos távirányító, és egy WiFi-s vezérlő áll rendelkezésre.
