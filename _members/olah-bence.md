@@ -1,6 +1,6 @@
 ---
 layout: user
-name: Olah Bence
+name: Oláh Bence
 username: olah-bence
 roles:
     - Öregtag
