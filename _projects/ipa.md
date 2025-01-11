@@ -9,7 +9,6 @@ leader: gaspari-balazs
 members:
     - fiak-adam
     - toth-gabor
-    - kiss-tamas
     - horvath-mate
     - fejes-aliz
 ---
