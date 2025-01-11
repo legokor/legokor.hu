@@ -5,11 +5,9 @@ logo: mi.svg
 preview: mi\_projekt.jpg
 status: active
 introduction: Mesterséges intelligencia, gépi és megerősítéses tanulás módszereinek megismerése, alkalmazása.
-leader: honved-peter-dezso
+leader: honved-peter
 members:
     - kovacs-daniel
-    - mandzsu-bendeguz
-    - meszaros-peter
 ---
 
 Körünk MI projektjének fő célja egy csapatba gyűjteni a mesterséges intelligencia iránt érdeklődő szakkollégistákat. Itt a közös munka során egymást váltják a korábbi tapasztalattal rendelkező, és a lelkes, újonnan érkező tagok. Az összetett témához szükséges folyamatos tudáscserét a félév során workshopok tartásával igyekszünk folyamatosan fenntartani.

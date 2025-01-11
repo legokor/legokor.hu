@@ -7,7 +7,6 @@ status: active
 introduction: A projekt célja minél több területen bevetni a kézfelismeréses vezérlést.
 leader: czegledi-krisztian
 members:
-    - domonkos-adam
     - karpat-anna-maria
     - dorogi-dome
     - kercza-robert
