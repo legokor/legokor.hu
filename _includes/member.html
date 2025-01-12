@@ -1,7 +1,11 @@
 {% for member in site.members %}
 {% if member.username == include.username %}
 <div class='member-image'>
-  <img src='{{ member.image | default: "/images/members/NoImage.svg" }}'>
+  {% assign image = member.image | default: "/images/members/NoImage.svg" %}
+  {% if image contains '.jpg' %}
+    {% assign image = image | replace: '.jpg', '-sm.jpg' %}
+  {% endif %}
+  <img src='{{ image }}'>
   <h1>{{ member.name }}</h1>
   <h2>{% include member-roles.html username=member.username %}</h2>
 
