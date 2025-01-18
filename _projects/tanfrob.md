@@ -8,10 +8,7 @@ introduction: Robotok programozása és fejlesztése, szenzorbeültetés, dokume
 leader: kiovics-daniel
 members:
     - serban-andrada
-    - andrasi-benedek
-    - kiss-tamas
     - molnar-attila-bendeguz
-    - gorondi-janos
 ---
 
 A projekt a Tanfolyamrobotok karbantartásával, fejlesztésével, és a robotika tanfolyam anyagának és feladatainak kidolgozásával foglalkozik. A robotok központi eleme egy STM32 mikrovezérlő, ami egy saját fejlesztéső alaplapon helyezkedik el.

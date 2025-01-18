@@ -8,7 +8,6 @@ introduction: A LEGO Kör robotautó fejlesztésével foglalkozó projektje.
 leader: kiovics-daniel
 members:
     - mandzsu-bendeguz
-    - serban-andrada
     - bacskai-kristof
     - magyar-marton-tamas
 ---
