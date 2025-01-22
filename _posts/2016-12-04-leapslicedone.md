@@ -2,7 +2,7 @@
 title: Elkészült a LeapSlice
 layout: post
 author: moricz-tamas
-image: http://lego.sch.bme.hu/wp-content/uploads/2016/12/leap_b.png
+image: /images/misc/missing.svg
 ---
 
 Elkészült a LeapSlice, a Leap Motion projekt Fruit Ninjára hajazó játéka. A legfőbb különbség azon túl, hogy gyümölcsök helyett süteménytől moziszékig akármi felugorhat, a vezérlés módja.
@@ -13,5 +13,5 @@ A LeapSlice nyílt forráskódú, [letölthető a GitHub-ról](https://github.co
 
 Néhány pillanatkép a játékból:
 
-![](http://lego.sch.bme.hu/wp-content/uploads/2016/12/leap_a.png)
-![](http://lego.sch.bme.hu/wp-content/uploads/2016/12/leap_b.png)
+![](/images/misc/missing.svg)
+![](/images/misc/missing.svg)

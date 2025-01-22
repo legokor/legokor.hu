@@ -2,7 +2,7 @@
 title: Robotika tanfolyam és szakmai workshop 2018 ősz
 layout: post
 author: farkas-tamas
-image: http://lego.sch.bme.hu/wp-content/uploads/2015/02/0218-200723-puma.jpg
+image: /images/misc/missing.svg
 ---
 
 Az őszi félévben is megrendezésre kerül szokásos felvételi robotika tanfolyamunk és a szakmai workshopunk.

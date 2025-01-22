@@ -6,18 +6,16 @@ preview: upra_logo.png
 status: inactive
 introduction: Könnyen konfigurálható általános magaslégköri ballonplatform fejlesztése kis méretű tudományos küldetésekhez.
 leader: goczan-bence
-leader: bodo-zsofia
 members:
-- bodo-zsofia
-- erdelyi-janka-anna
-- galbacs-marton
-- kiss-tamas
-- mona-daniel
-- papp-benedek
-- toth-adam-raymond
-- toth-gabor
-- fiak-adam
-- gaspari-balazs
+    - bodo-zsofia
+    - erdelyi-janka-anna
+    - kiss-tamas
+    - mona-daniel
+    - papp-benedek
+    - toth-adam-raymond
+    - toth-gabor
+    - fiak-adam
+    - gaspari-balazs
 ---
 
 &nbsp;
@@ -32,6 +30,7 @@ A tervünk, hogy a ballonplatform mellett saját földi állomást és vezérlő
 &nbsp;
 
 &nbsp;
+
 <h1 style="text-align: center;">ReHAB Ballonplatform</h1>
 &nbsp;
 
@@ -40,10 +39,11 @@ A tervünk, hogy a ballonplatform mellett saját földi állomást és vezérlő
 &nbsp;
 
 A platformot ReHAB vagyis 'Re-usable High Altitdue Balloon' névre hallgat és egy komplex magaslégköri kutatórendszert takar.
+
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 60%;" rowspan="5"><img class="aligncenter" src="http://upra.sch.bme.hu/wp-content/uploads/2016/05/payload_train_small.gif" alt="" width="400"  /></td>
+<td style="width: 60%;" rowspan="5"><img class="aligncenter" src="/images/misc/missing.svg" alt="" width="400"  /></td>
 <td valign="top">Az emeléshez hagyományos latex időjárási ballont használunk, melyek normál felhasználás során a pálya legmagasabb pontján széthasadnak. A latex ballonok használata segít a költségek alacsonyan tartásában is.</td>
 </tr>
 <tr>
@@ -67,6 +67,7 @@ Jelenleg a ReHAB v.1.x rendszerrel dolgozunk, melyet folyamatosan fejlesztünk �
 &nbsp;
 
 &nbsp;
+
 <h1 style="text-align: center;">UPRA Fedélzeti rendszer</h1>
 &nbsp;
 
@@ -75,10 +76,11 @@ Jelenleg a ReHAB v.1.x rendszerrel dolgozunk, melyet folyamatosan fejlesztünk �
 &nbsp;
 
 A platform lelke az UPRA fedélzeti rendszer, mely szintén saját fejlesztés. A célunk egy olyan moduláris fedélzeti mikroszámítógép kifejlesztése, mely az egyes alrendszerek cseréjével vagy új alrendszerek hozzáadásával a legkülönfélébb küldetések végrehajtására alkalmas.
+
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 70%;" rowspan="3"> <img class="aligncenter wp-image-784 size-full" src="http://lego.sch.bme.hu/wp-content/uploads/2015/02/upra_system.png" alt="upra_system" width="100%" /></td>
+<td style="width: 70%;" rowspan="3"> <img class="aligncenter wp-image-784 size-full" src="/images/misc/missing.svg" alt="upra_system" width="100%" /></td>
 <td valign="center">Pilóta nélküli légi járművekhez</td>
 </tr>
 <tr>
@@ -130,7 +132,7 @@ Az energia ellátó rendszer figyeli a teleptöltöttséget és az akku hőmérs
 </table>
 Az egyes modulok külön kártyákon helyezkednek el, melyeket szerettünk volna a lehető legkisebb méreten tartani, hogy a későbbiekben akár kis-műholdas küldetések során is bevethető legyen a rendszer. A fejlesztés elején meghatároztuk az "UPRA Standard" formatényezőt, mely 70x75mm-es kártyáival belefér egy 1U CubeSat vázba.
 
-<img class="wp-image-807 size-full" src="http://lego.sch.bme.hu/wp-content/uploads/2015/02/upra_standard.png" alt="UPRA Standard" width="100%" />
+<img class="wp-image-807 size-full" src="/images/misc/missing.svg" alt="UPRA Standard" width="100%" />
 <p style="text-align: center; font-style: italic;">UPRA Standard</p>
 &nbsp;
 
@@ -139,6 +141,7 @@ Az egyes modulok külön kártyákon helyezkednek el, melyeket szerettünk volna
 &nbsp;
 
 &nbsp;
+
 <h1 style="text-align: center;">ReHAB Service Module</h1>
 &nbsp;
 
@@ -160,13 +163,15 @@ Az új ReHAB - 1uQ kapszula tervezése a méret és a tömeg csökkentésének j
 <br>
 &nbsp;
 
-<img class="aligncenter size-full wp-image-820" src="http://lego.sch.bme.hu/wp-content/uploads/2015/02/IMG_9782.jpg" alt="IMG_9782" width="100%"" />
+<img class="aligncenter size-full wp-image-820" src="/images/misc/missing.svg" alt="IMG_9782" width="100%" />
+
 <p style="text-align: center; font-style: italic;">ReHAB-1uQ prototípus/teszt verzió</p>
 &nbsp;
 
 &nbsp;
 
 &nbsp;
+
 <h1 style="text-align: center;">Földi irányítóközpont</h1>
 &nbsp;
 
@@ -175,6 +180,7 @@ Az új ReHAB - 1uQ kapszula tervezése a méret és a tömeg csökkentésének j
 &nbsp;
 
 A repülés biztonságos lebonyolítása érdekében szeretnénk kiépíteni egy saját földi irányítóközpontot, mely segítségével a felbocsátás után tudjuk követni és vezérelni a ballont. A tervezett földi állomás két fő részből áll:
+
 <table width="100%">
 <tbody>
 <tr valign="center">
@@ -188,7 +194,7 @@ A repülés biztonságos lebonyolítása érdekében szeretnénk kiépíteni egy
 </tr>
 </tbody>
 </table>
-<img class="aligncenter size-full wp-image-822" src="http://lego.sch.bme.hu/wp-content/uploads/2015/02/GND.png" alt="GND" width="100%" />
+<img class="aligncenter size-full wp-image-822" src="/images/misc/missing.svg" alt="GND" width="100%" />
 <table width="100%">
 <tbody>
 <tr valign="top">
@@ -220,6 +226,7 @@ Korábbi repülések során a hasonló felépítésű <a href="http://gnd.bme.hu
 További részletek és folyamatosan frissülő információk az UPRA Projekt<a href="http://upra.sch.bme.hu/" target="_blank"> HONLAPján</a> és <a href="https://www.facebook.com/UPRA.team" target="_blank">Facebook oldalán</a> találhatók.
 
 &nbsp;
+
 <hr />
 
 &nbsp;
