@@ -7,21 +7,21 @@ status: inactive
 introduction: Rover fejlesztése feladatspecifikáció alapján.
 leader: ugrin-daniel
 members:
-- berke-marton
-- farkas-tamas
-- bognar-marton
-- toth-adam-raymond
-- izso-andras
-- komaromi-sandor
+    - berke-marton
+    - farkas-tamas
+    - bognar-marton
+    - toth-adam-raymond
+    - izso-andras
+    - komaromi-sandor
 ---
 
 A projekt elsődleges célja a <a target="_blank" href="http://www.magyarokamarson.hu/">Magyar Alkalmazott Mérnöki Tudományok Versenyére</a> (Magyarok a Marson) való felkészülés. A versenyen általában egy kerekeken guruló rover elkészítése a cél, aminek egy megadott küldetést kell teljesíteni. A robot vezérlése egy földi állomásról zajlik, ami lehet manuálisé és automata is. A felkészülés során az alábbi feladatokkal lehet megismerkedni, foglalkozni:
 
-- mechanika tervezés
-- nyák tervezés
-- különböző mikrokontrollek programozása (stm32, esp8266, ...)
-- rover <-> vezérlőállomás kommunikáció tervezése
-- magas szintű vezérőszoftver elkészítése  
+-   mechanika tervezés
+-   nyák tervezés
+-   különböző mikrokontrollek programozása (stm32, esp8266, ...)
+-   rover <-> vezérlőállomás kommunikáció tervezése
+-   magas szintű vezérőszoftver elkészítése
 
 Ha érdekel a robotika és a roverek világa, illetve szeretnél egy jó csapat tagja lenni, akkor bátran keress minket emailben.
 
@@ -39,4 +39,3 @@ Az elmúlt évek roverei:
     <a target="_blank" href="https://www.youtube.com/watch?v=4L2YJJ1X5M4">2016-os összefoglaló videó</a>
 </div>
 <br>
-

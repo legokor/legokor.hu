@@ -1,7 +1,7 @@
 ---
 title: Quadcopter orientációszabályzó tervezése
 layout: post
-author: gujgicza
+author: gujgiczer-anna
 image: http://lego.sch.bme.hu/wp-content/uploads/2017/11/qc.jpg
 ---
 A Quadcopter projekt a tavalyi évben elhatározta, hogy a bolti copter átalakítása mellet megkezdi egy teljesen saját fejlesztésű quadcopter építését. 

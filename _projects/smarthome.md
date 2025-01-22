@@ -7,15 +7,10 @@ status: inactive
 introduction: Könnyen beszerelhető és üzemeltethető otthoni okosrendszerek fejlesztése.
 leader: simko-mate
 members:
-- ugrin-daniel
-- meggyesi-janos
-- simko-mate
-- hornyak-adam
-- kosa-mate
-- revay-regina
-- hodvogner-szilvia
-- boczen-koppany-andras
-- bodo-regina
+    - ugrin-daniel
+    - simko-mate
+    - revay-regina
+    - bodo-regina
 ---
 
 &nbsp;
