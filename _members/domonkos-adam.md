@@ -3,7 +3,7 @@ layout: user
 name: Domonkos Ádám
 username: domonkos-adam
 roles:
-    - Volt örvezető
+    - Volt körvezető
 contact:
     email: domonkos.adam@simonyi.bme.hu
     phone: '+36 20 953 4573'

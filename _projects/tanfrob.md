@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Tanfolyamrobot
-logo: ../../misc/missing.svg
+logo: tanfrob_felirat.png
 preview: tanfrobot.jpg
 status: active
 introduction: Robotok programozása és fejlesztése, szenzorbeültetés, dokumentálás és webfejlesztés.
