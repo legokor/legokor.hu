@@ -9,10 +9,24 @@ layout: default
 </h2>
 <ul>
   {% if page.contact.email %}
-  	<a href="mailto:{{ page.contact.email }}"><li id='email'> {{ page.contact.email }} </li></a>
+    {% if page.contact.email contains ',' %}
+      {% assign emails = page.contact.email | split: ',' %}
+      {% for email in emails %}
+        <a href="mailto:{{ email | strip }}"><li id='email'> {{ email | strip }} </li></a>
+      {% endfor %}
+    {% else %}
+      <a href="mailto:{{ page.contact.email }}"><li id='email'> {{ page.contact.email }} </li></a>
+    {% endif %}
   {% endif %}
   {% if page.contact.phone %}
-  	<a href="tel:{{ page.contact.phone }}"><li id='phone'> {{ page.contact.phone }} </li></a>
+    {% if page.contact.phone contains ',' %}
+      {% assign phones = page.contact.phone | split: ',' %}
+      {% for phone in phones %}
+        <a href="tel:{{ phone | strip }}"><li id='phone'> {{ phone | strip }} </li></a>
+      {% endfor %}
+    {% else %}
+      <a href="tel:{{ page.contact.phone }}"><li id='phone'> {{ page.contact.phone }} </li></a>
+    {% endif %}
   {% endif %}
 </ul>
 <p>

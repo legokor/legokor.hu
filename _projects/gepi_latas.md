@@ -7,10 +7,10 @@ status: finished
 introduction: A projekt célja gépi látás alapú algoritmusok kipróbálása, és alkalmazása.
 leader: zih-botond
 members:
-- izso-andras
-- matrahegyi-roland
-- varnyu-dora
-- komaromi-sandor
+    - izso-andras
+    - matrahegyi-roland
+    - varnyu-dora
+    - komaromi-sandor
 ---
 
 A projekt célja gépi látás alapú algoritmusok kipróbálása, és alkalmazása. Ehhez az OpenCV library által nyújtott eszközöket használjuk fel. Hosszú távon azt szeretnénk elérni, hogy a körben rendelkezésre álljanak olyan képfeldolgozás alapú szoftver komponensek, melyeket más projektekben egyszerűen fel tudunk használni.

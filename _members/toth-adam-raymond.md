@@ -3,6 +3,6 @@ layout: user
 name: Tóth Ádám Raymond
 username: toth-adam-raymond
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/TothAdamRaymond.jpg
 ---

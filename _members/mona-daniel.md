@@ -3,6 +3,6 @@ layout: user
 name: Móna Dániel
 username: mona-daniel
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/MonaDaniel.jpg
 ---

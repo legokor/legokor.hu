@@ -3,6 +3,6 @@ layout: user
 name: Bognár Márton
 username: bognar-marton
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/BognarMarton.jpg
 ---

@@ -3,6 +3,6 @@ layout: user
 name: Horváth Patrik
 username: horvath-patrik
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/HorvathPatrik.jpg
 ---

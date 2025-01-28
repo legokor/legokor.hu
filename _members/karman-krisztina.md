@@ -3,6 +3,6 @@ layout: user
 name: Kármán Krisztina
 username: karman-krisztina
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/KarmanKrisztina.jpg
 ---

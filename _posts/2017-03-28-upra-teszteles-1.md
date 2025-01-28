@@ -2,8 +2,9 @@
 layout: post
 author: goczan-bence
 title: Magaslégköri Ballon Tesztelése – 1. rész
-image: http://lego.sch.bme.hu/wp-content/uploads/2017/03/Testing_in_Progress.gif
+image: /images/misc/missing.svg
 ---
+
 Ebben a cikksorozatban egy keveset emlegetett, ám annál fontosabb folyamatot fogunk bemutatni, a tesztelést. A cikkekben néhány alapfogalom és módszer mellett részletesen bemutatjuk az UPRA Projekt MATeF-2 ballonjának tesztelését.
 
 Magaslégköri Ballon esetében nagyon fontos a tesztelés, hiszen hasonlóan az űreszközökhöz a küldetés során nincs lehetőség közvetlen fizikai interakcióra az eszközzel, ezért bármilyen meghibásodás a küldetés végét jelentheti, ami az eszköz elvesztésével járhat. Ahhoz, hogy ne érjen minket meglepetés a repülés során, a felbocsátást megelőzően körültekintően meg kell vizsgálnunk az eszköz működését és fel kell térképeznük a lehetséges veszélyforrásokat. Az űrtechnológiában bármilyen hibajavítás után a tesztelést gyakorlatilag előről kell kezdeni, hogy kizárhassuk annak a lehetőségét, hogy a módosítás hibát okozzon a korábban jól működő funkciókban.
@@ -42,28 +43,31 @@ A tesztelés megtervezéséhez szükség van a rendszer részletes specifikáci�
 
 A MATeF-2 Ballon esetében a legkritikusabb követelmények:
 
-- Folyamatos Autonóm működés
-- Folyamatos rádió kapcsolat
-- Működés extrém alacsony hőmérsékleten
-- Működés alacsony nyomáson
-- Cseppállóság
-- Rázásállóság
-- Landolási behatások elleni védelem
+-   Folyamatos Autonóm működés
+-   Folyamatos rádió kapcsolat
+-   Működés extrém alacsony hőmérsékleten
+-   Működés alacsony nyomáson
+-   Cseppállóság
+-   Rázásállóság
+-   Landolási behatások elleni védelem
 
 Ezek alapján kidolgoztuk, hogy az egyes modulokat és az integrált rendszert milyen teszteléseknek kell alávetnünk:
 
-- Beágyazott szoftver tesztek:
+-   Beágyazott szoftver tesztek:
 
-  White-Box tesztek során az egyes függvények és a kész kódok működését vizsgáltuk. A szoftver tesztelése a fejlesztéssel párhuzamosan zajlott
-- Modul tesztek:
+    White-Box tesztek során az egyes függvények és a kész kódok működését vizsgáltuk. A szoftver tesztelése a fejlesztéssel párhuzamosan zajlott
 
-  Az egyes alrendszereket önállóan vizsgáltuk. Ezek Black-Box tesztek voltak és megfelelő szimulátorokat használtunk hozzá
-- Integrált Bench tesztek:
+-   Modul tesztek:
 
-  Az integrált rendszer működését vizsgáltuk labor körülmények között
-- Integrált környezeti tesztek:
+    Az egyes alrendszereket önállóan vizsgáltuk. Ezek Black-Box tesztek voltak és megfelelő szimulátorokat használtunk hozzá
 
-  Az integrált rendszer működését vizsgáltuk hűtőkamrá(k)ban, szigeteléssel és anélkül, valamint különböző terepi teszteket hajtottunk végre a rádiós rendszerek teszteléséhez.
+-   Integrált Bench tesztek:
+
+    Az integrált rendszer működését vizsgáltuk labor körülmények között
+
+-   Integrált környezeti tesztek:
+
+    Az integrált rendszer működését vizsgáltuk hűtőkamrá(k)ban, szigeteléssel és anélkül, valamint különböző terepi teszteket hajtottunk végre a rádiós rendszerek teszteléséhez.
 
 A fenti felosztás alapján négy különálló Test Plan-t határoztunk meg, melyekhez eklkészítettük a szükséges teszteseteket. Mivel biztonságkritikus, űrközeli eszközről van szó, ezért a sikeres tesztkampányhoz minden tesztesetet sikeresen teljesítenie kell. Előfordulhat olyan tesztkampány, mely során nem kell 100%-os sikeresség ahhoz, hogy a tesztelt eszköz megkapja az üzembehelyezési engedélyt. Ehhez a vezető tesztmérnöknek és a vezető fejlesztőmérnök(ök)nek kell meghatározni a sikerességi kritériumot a specifikáció alapján.
 
@@ -73,11 +77,11 @@ A Modul tesztek során a ballon egyes alrendszereit önállóan teszteltük. A v
 
 A MATeF-2 ballon tesztelése során az alábbi alrendszereket vizsgáltuk:
 
-- OBC – Fedélzeti Számítógép modul
-- Main GPS – Elsődleges GPS modul
-- COM – UHF rádiós kommunikáció modul
-- EPS – Elektromos Energiaellátó Egység
-- Backup GPS – Tartalék GPS modul
+-   OBC – Fedélzeti Számítógép modul
+-   Main GPS – Elsődleges GPS modul
+-   COM – UHF rádiós kommunikáció modul
+-   EPS – Elektromos Energiaellátó Egység
+-   Backup GPS – Tartalék GPS modul
 
 ### Integrált Bench tesztek
 

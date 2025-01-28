@@ -2,7 +2,7 @@
 title: UPRA féléves beszámoló - 2017 ősz
 layout: post
 author: goczan-bence
-image: http://lego.sch.bme.hu/wp-content/uploads/2015/02/upra_logo.png
+image: /images/misc/missing.svg
 ---
 
 Az UPRA csapat az őszi félév során elsősorban a MATeF-2 ballon fedélzeti elektronikájának tesztelésével foglalkozott. Fő feladatunk a nyáron felderített hibák kijavítása és a fedélzeti rendszer hűtőkamrás tesztelésre való felkészítése volt. A tesztelés mellett mikroprojektek és további alrendszerek fejlesztése sem állt meg.
@@ -25,10 +25,10 @@ Az integrált rendszerteszteket szobahőmérsékleten végeztük.
 
 ## Tesztelés során feltárt hibák
 
-  * COM modul adásvételi problémák - szoftverfrissítéssel javítva
-  * OBC újraindulás rádiós adás alatt - szoftverfrissítéssel javítva
-  * OBC SD kártya kezelés hibák - szoftverfrissítéssel javítva
-  * APRS - COM rádiós csatolás - antenna hangolás és adóteljesítmény beállítása folyamatban
+-   COM modul adásvételi problémák - szoftverfrissítéssel javítva
+-   OBC újraindulás rádiós adás alatt - szoftverfrissítéssel javítva
+-   OBC SD kártya kezelés hibák - szoftverfrissítéssel javítva
+-   APRS - COM rádiós csatolás - antenna hangolás és adóteljesítmény beállítása folyamatban
 
 # Hűtőkamrás tesztelés
 
@@ -62,7 +62,7 @@ A félév során folytatódott a földi vezérlőközpont szoftverének fejleszt
 
 A félév során folyamatosan fejlődött a webes kezelőfelület az élő térképes követéshez és a repülési adatok megjelenítéséhez, valamint elkészült egy okos-telefonon használható próbaverzió is.
 
-![Földi vezérlőszoftver webes kezelőfelülete (QuadCopter kezelőfunkciókkal)](http://lego.sch.bme.hu/wp-content/uploads/2018/01/dash-overview.png)
+![Földi vezérlőszoftver webes kezelőfelülete (QuadCopter kezelőfunkciókkal)](/images/misc/missing.svg)
 
 # További célkitűzések
 

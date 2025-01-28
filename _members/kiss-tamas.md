@@ -3,6 +3,6 @@ layout: user
 name: Kiss Tamás
 username: kiss-tamas
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/KissTamas.jpg
 ---

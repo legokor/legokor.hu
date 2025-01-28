@@ -3,6 +3,6 @@ layout: user
 name: Solymos Balázs
 username: solymos-balazs
 roles:
-- Öregtag
+    - Öregtag
 image: /images/members/SolymosBalazs.jpg
 ---
