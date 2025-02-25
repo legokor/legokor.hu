@@ -19,7 +19,7 @@ A tanfolyamunk során lehetőséged lesz megismerni egy kisebb robotunk működ�
 
 | **Dátum**     | **Időpont**   | **Helyszín**     |
 | ------------- | ------------- | ---------------- |
-| 2025. 02. 25. | 18:00 - 20:00 | _Egyetemi terem_ |
+| 2025. 02. 25. | 18:00 - 20:00 | IB141            |
 | 2025. 03. 04. | 18:00 - 20:00 | _Egyetemi terem_ |
 | 2025. 03. 11. | 18:00 - 20:00 | _Egyetemi terem_ |
 | 2025. 03. 25. | 18:00 - 20:00 | _Egyetemi terem_ |
@@ -32,7 +32,7 @@ Szeretettel várunk Unity tanfolyamunkon, ha érdekel a játékfejlesztés, és 
 
 | **Dátum**     | **Időpont**   | **Helyszín**     |
 | ------------- | ------------- | ---------------- |
-| 2025. 02. 25. | 18:00 - 20:00 | _Egyetemi terem_ |
+| 2025. 02. 25. | 18:00 - 20:00 | IB142            |
 | 2025. 03. 04. | 18:00 - 20:00 | _Egyetemi terem_ |
 | 2025. 03. 11. | 18:00 - 20:00 | _Egyetemi terem_ |
 | 2025. 03. 25. | 18:00 - 20:00 | _Egyetemi terem_ |
@@ -45,7 +45,7 @@ A LEGO Kör MI projektjében az egyetemi órákon felül mélyedünk el a modern
 
 | **Dátum**     | **Időpont**   | **Helyszín**     |
 | ------------- | ------------- | ---------------- |
-| 2025. 02. 26. | 18:00 - 20:00 | _Egyetemi terem_ |
+| 2025. 02. 26. | 18:00 - 20:00 | QBF10            |
 | 2025. 03. 05. | 18:00 - 20:00 | _Egyetemi terem_ |
 | 2025. 03. 12. | 18:00 - 20:00 | _Egyetemi terem_ |
 | 2025. 03. 26. | 18:00 - 20:00 | _Egyetemi terem_ |
