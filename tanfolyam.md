@@ -46,6 +46,6 @@ A LEGO Kör MI projektjében az egyetemi órákon felül mélyedünk el a modern
 | **Dátum**     | **Időpont**   | **Helyszín**     |
 | ------------- | ------------- | ---------------- |
 | 2025. 02. 26. | 18:00 - 20:00 | QBF10            |
-| 2025. 03. 05. | 18:00 - 20:00 | _Egyetemi terem_ |
+| 2025. 03. 05. | 18:00 - 20:00 | QBF08            |
 | 2025. 03. 12. | 18:00 - 20:00 | _Egyetemi terem_ |
 | 2025. 03. 26. | 18:00 - 20:00 | _Egyetemi terem_ |
