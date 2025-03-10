@@ -21,7 +21,7 @@ A tanfolyamunk során lehetőséged lesz megismerni egy kisebb robotunk működ�
 | ------------- | ------------- | ---------------- |
 | 2025. 02. 25. | 18:00 - 20:00 | IB141            |
 | 2025. 03. 04. | 18:00 - 20:00 | QBF08            |
-| 2025. 03. 11. | 18:00 - 20:00 | _Egyetemi terem_ |
+| 2025. 03. 11. | 18:00 - 20:00 | QBF08            |
 | 2025. 03. 25. | 18:00 - 20:00 | _Egyetemi terem_ |
 
 ## Unity
@@ -34,7 +34,7 @@ Szeretettel várunk Unity tanfolyamunkon, ha érdekel a játékfejlesztés, és 
 | ------------- | ------------- | ---------------- |
 | 2025. 02. 25. | 18:00 - 20:00 | IB142            |
 | 2025. 03. 04. | 18:00 - 20:00 | QBF11            |
-| 2025. 03. 11. | 18:00 - 20:00 | _Egyetemi terem_ |
+| 2025. 03. 11. | 18:00 - 20:00 | QBF10            |
 | 2025. 03. 25. | 18:00 - 20:00 | _Egyetemi terem_ |
 
 ## MI
