@@ -5,7 +5,19 @@ layout: default
 
 # Tanfolyamaink
 
-Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI, VR), akkor jó helyen jársz! Ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamainkra, melyeknek elvégzésével felvételt nyerhetsz hozzánk.
+Idén ősszel a LEGO Kör két kurzussal és készült nektek! Mindkét kurzus három alkalmas lesz. Az alkalmak keddi és szerdai napokon lesznek megtartva a 3. héttől kezdődően, 17:00 órai kezdettel, egyetemi ternekben. A pontos helyszínekről és időpontokról majd késöbb értesítjük a jelentkezőket.
+
+### Jelentkezés (minden tanfolyamhoz): [ITT](https://docs.google.com/forms/d/e/1FAIpQLSeAZEhavtRMf6KHY3OXSfRWTpCxKvNV_iC3Q-lxccqRSgRR1w/viewform?usp=dialog)
+
+## 3D tervezés
+
+Mindig is érdekelt, hogyan lehet számítógéppel alkatrészeket tervezni? Szeretted volna megtudni, hogy hogyan működik egy CAD program? Vagy csak érdekelt a 3D modellek világa? Akkor jelentkezz a 3D tervezés alapjai kurzusunkra. Itt megismerkedhetsz a Fusion 360 tervező program használatával, és a benne rejlő lehetőségekkel. A kurzus során példákon keresztül fogjuk bemutatni a Fusion 360 egyes funkciót kezdve az alapoktól haladva az egyre bonyolultabb modellek felé.
+
+## Unity
+
+Unity alapozó tanfolyamunk folytatása. Most megismerkedhettek a Unity motor néhány fejlettebb funkciójával, különös tekintettel a multiplayer játékok készítéshez elengedhetetlen elvekkel.
+
+<!-- Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI, VR), akkor jó helyen jársz! Ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamainkra, melyeknek elvégzésével felvételt nyerhetsz hozzánk.
 
 ### Jelentkezés (minden tanfolyamhoz): [ITT](https://docs.google.com/forms/d/e/1FAIpQLSd54_SMyIhSB_PGlN2aOSvF61VqSwd1XX8wEmaHZAQabIWIqA/viewform?usp=dialog)
 
@@ -48,4 +60,4 @@ A LEGO Kör MI projektjében az egyetemi órákon felül mélyedünk el a modern
 | 2025. 02. 26. | 18:00 - 20:00 | QBF10        |
 | 2025. 03. 05. | 18:00 - 20:00 | QBF08        |
 | 2025. 03. 12. | 18:00 - 20:00 | QBF08        |
-| 2025. 03. 26. | 18:00 - 20:00 | QBF11        |
+| 2025. 03. 26. | 18:00 - 20:00 | QBF11        | -->
