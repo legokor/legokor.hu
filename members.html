@@ -17,13 +17,24 @@ title: Tagok
     <div class='members-holder'>
     {% for member in site.members %}
         {% if member.roles contains "Körvezető" %}
-        {% elsif member.roles contains "Öregtag" %}
-        {% else %}
+            {% continue %}
+        {% endif %}
+        {% if member.roles contains "Tag" %}
             <div class='box-wrapper'>
             <a href='{{ member.url }}'>
               {% include member.html username=member.username projects=true %}
             </a>
             </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h1>Újoncok</h1>
+    <div class="members-holder">
+    {% for member in site.members %}
+        {% if member.roles contains "Újonc" %}
+            <a href='{{ member.url }}' class='box-wrapper'>
+            {% include member.html username=member.username %}
+            </a>
         {% endif %}
     {% endfor %}
     </div>

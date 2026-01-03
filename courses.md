@@ -5,7 +5,9 @@ layout: default
 
 # Tanfolyamaink
 
-Idén ősszel a LEGO Kör két kurzussal és készült nektek! Mindkét kurzus három alkalmas lesz. Az alkalmak keddi és szerdai napokon lesznek megtartva a 3. héttől kezdődően, 17:00 órai kezdettel, egyetemi ternekben. A pontos helyszínekről és időpontokról majd késöbb értesítjük a jelentkezőket.
+> Jelenleg nincs aktív tanfolyamunk.
+
+<!-- Idén ősszel a LEGO Kör két kurzussal és készült nektek! Mindkét kurzus három alkalmas lesz. Az alkalmak keddi és szerdai napokon lesznek megtartva a 3. héttől kezdődően, 17:00 órai kezdettel, egyetemi ternekben. A pontos helyszínekről és időpontokról majd késöbb értesítjük a jelentkezőket.
 
 ### Jelentkezés (minden tanfolyamhoz): [ITT](https://docs.google.com/forms/d/e/1FAIpQLSeAZEhavtRMf6KHY3OXSfRWTpCxKvNV_iC3Q-lxccqRSgRR1w/viewform?usp=dialog)
 
@@ -15,7 +17,7 @@ Mindig is érdekelt, hogyan lehet számítógéppel alkatrészeket tervezni? Sze
 
 ## Unity
 
-Unity alapozó tanfolyamunk folytatása. Most megismerkedhettek a Unity motor néhány fejlettebb funkciójával, különös tekintettel a multiplayer játékok készítéshez elengedhetetlen elvekkel.
+Unity alapozó tanfolyamunk folytatása. Most megismerkedhettek a Unity motor néhány fejlettebb funkciójával, különös tekintettel a multiplayer játékok készítéshez elengedhetetlen elvekkel. -->
 
 <!-- Ha érdekel a LEGO Kör (robotika, űrtechnológia, alternatív vezérlési módszerek, MI, VR), akkor jó helyen jársz! Ezen az oldalon mindent megtudhatsz arról, hogy hogyan regisztrálhatsz alaptanfolyamainkra, melyeknek elvégzésével felvételt nyerhetsz hozzánk.
 

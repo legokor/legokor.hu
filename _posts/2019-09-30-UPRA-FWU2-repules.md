@@ -2,7 +2,7 @@
 title: UPRA - Fly With Us - Rádió 1 Lángos (FWU-2)
 layout: post
 author: goczan-bence
-image: https://github.com/legokor/legokor.hu/blob/master/images/posts/FWU-2_cikk/mission_patch.jpg?raw=true
+image: /images/posts/FWU-2_cikk/mission_patch.jpg
 excerpt: A nyár közepén egy különleges felkérést kapott az UPRA. A Rádió 1 népszerű reggeli műsorának készítői keresték meg csapatot, hogy valamit szeretnének feljuttatni a világűr határára.
 ---
 

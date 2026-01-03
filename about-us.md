@@ -2,14 +2,15 @@
 title: Rólunk
 layout: default
 ---
+
 # Rólunk
 
 A LEGO Kör nevét a LEGO Mindstorms-ról kapta, ugyanis hosszú ideig ezen eszközök fejlesztése volt a fő profilunk. Mára ezzel csak ritkán, illetve a tanfolyamunk keretei közt foglalkozunk, és nyitottunk a mesterséges intelligencia, az ipari irányítástechnika, az űrtechnológia és az alternatív irányításmódok felé is. Eszközparkunk lehetőséget nyújt az innovatív ötletek megvalósításához. Nálunk bárki megtalálhatja a számára megfelelő szakterületet.
 
-
 <div class="video16-9">
 
     <iframe src="https://www.youtube.com/embed/8unT5DWlPFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>
 
 ## Szakmai fejlődés és munka a Körben
@@ -24,25 +25,25 @@ Villamosmérnöki tanulmányaidat nagyszerűen kamatoztathatod számos projektbe
 
 ### Mérnökinformatikusok?
 
-Informatikusként nincs nagyobb öröm annál, mint, hogy az általad írott kód életre kel egy eszközön. Erre remek lehetőség az alternatív irányításmódokat kutató projektünk, melynek keretein belül megismerkedhetsz egy [Leap Motion](/projects/leap_motion/) programozásával, onnantól pedig már csak a képzeleted szab határt, hogy mit irányítasz vele.
+Informatikusként nincs nagyobb öröm annál, mint, hogy az általad írott kód életre kel egy eszközön. Erre remek lehetőség az alternatív irányításmódokat kutató projektünk, melynek keretein belül megismerkedhetsz egy [Leap Motion](/projects/leap/) programozásával, onnantól pedig már csak a képzeleted szab határt, hogy mit irányítasz vele.
 
-Manapság hatalmas divatszó lett a mesterséges intelligencia, nem is véletlenül. Ha szeretnéd te is beleásni magad ebbe a témakörbe, az [MI projektben](/projects/mesterseges_intelligencia/) hasonlóan lelkes társakat találsz hozzá.
+Manapság hatalmas divatszó lett a mesterséges intelligencia, nem is véletlenül. Ha szeretnéd te is beleásni magad ebbe a témakörbe, az [MI projektben](/projects/mi/) hasonlóan lelkes társakat találsz hozzá.
 
 ### Gépészmérnökök?
 
-Ha azt gondolnád, hogy a körben a nyomtatott áramkörnél *hardverebb* hardver nem nagyon akad, gondold újra: [INDACT](/projects/indact/) projektünk egy komplett ipari konveyor asztal mellett egy teljesen saját fejlesztésű hengerkoordinátás robotkar tulajdonosa; a [3D nyomtató](/projects/3dnyomtato/) projekt pedig szintén egy általuk épített masina javításán, kalibrálásán munkálkodik.
+Ha azt gondolnád, hogy a körben a nyomtatott áramkörnél _hardverebb_ hardver nem nagyon akad, gondold újra: [INDACT](/projects/indact/) projektünk egy komplett ipari konveyor asztal mellett egy teljesen saját fejlesztésű hengerkoordinátás robotkar tulajdonosa; a [3D nyomtató](/projects/3dnyomtato/) projekt pedig szintén egy általuk épített masina javításán, kalibrálásán munkálkodik.
 
 ### Hiányzik valami?
 
-**Akkor indítsd el a saját projektedet!** Légy *te* a projektvezető és tanulj bele a vezetés fortélyaiba is.
+**Akkor indítsd el a saját projektedet!** Légy _te_ a projektvezető és tanulj bele a vezetés fortélyaiba is.
 
 ### Tanfolyamok
 
-Félévente meghirdetett [felvételi tanfolyamunk](/tanfolyam/) és [egyéb workshopjaink](/workshopok/) mellett körtagjaink egymásnak is gyakran tartanak **belsős tanfolyamokat**. Ezek mindig olyan témákban vannak meghirdetve, melyek a tagság egy jelentős része számára a körös munkájukat elősegítő, használható tudást adnak át, például hogyan működik a gites verziókezelés, vagy hogy hogyan készítsünk nyomtatott áramkört, a tervezéstől a gyártásig.
+Félévente meghirdetett [felvételi tanfolyamunk](/courses/) és [egyéb workshopjaink](/workshop/) mellett körtagjaink egymásnak is gyakran tartanak **belsős tanfolyamokat**. Ezek mindig olyan témákban vannak meghirdetve, melyek a tagság egy jelentős része számára a körös munkájukat elősegítő, használható tudást adnak át, például hogyan működik a gites verziókezelés, vagy hogy hogyan készítsünk nyomtatott áramkört, a tervezéstől a gyártásig.
 
 Körtagként érdemes akkor is benézned ezekre, ha a te konkrét érdeklődési köröd nem érinti az éppen soron lévő téma, hiszen lehet pont ez a részvétel kelti fel iránta a kíváncsiságodat. Arra is számíts, hogy amit itt megtanulsz, nagy eséllyel jól jön majd később, akár a körben, akár az egyetemen is.
 
-Néhány belsős tanfolyamunk anyagát a [tudástárunkban](/tudasbazis/) is elérhetővé tettük.
+Néhány belsős tanfolyamunk anyagát a [tudástárunkban](/guides/) is elérhetővé tettük.
 
 ## Társaság
 

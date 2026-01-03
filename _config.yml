@@ -1,6 +1,6 @@
 permalink: /:path/
 collections:
-  album:
+  gallery:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -10,6 +10,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   guides:
+    output: true
+    permalink: /:collection/:path/
+  posts:
     output: true
     permalink: /:collection/:path/
 

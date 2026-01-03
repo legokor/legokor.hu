@@ -2,7 +2,7 @@
 title: Otthon okosítás, avagy a SmartHome projekt
 layout: post
 author: juhasz-elod-illes
-image: https://github.com/legokor/legokor.hu/blob/master/images/posts/Smarthome_19_10_29/7.SH_Haz_Modell_Profil_Alpha.png?raw=true
+image: /images/posts/Smarthome_19_10_29/7.SH_Haz_Modell_Profil_Alpha.png
 
 excerpt: Az okos otthonoknak sok fajtája létezik. A LEGO Kör SmartHome projekt keretein belül az utólag is könnyen beépíthető vezeték nélküli megoldással foglalkozunk. 
 ---

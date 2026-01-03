@@ -2,7 +2,7 @@
 title: Leap Motion verseny
 layout: post
 author: sganetz-bence
-image: https://github.com/legokor/legokor.hu/blob/master/images/posts/2019-02-18-leap-verseny.png?raw=true
+image: /images/posts/2019-02-18-leap-verseny.png
 excerpt: Te mit csinálnál egy saját Leap Motionnel? Hozd az ötleted, a LEGO kör adja az eszközt!
 ---
 

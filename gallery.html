@@ -3,7 +3,7 @@ title: Galéria
 layout: default-wide
 ---
 
-{% for item in site.album reversed %}
+{% for item in site.gallery reversed %}
 <a href='{% if item.external %}{{ item.external }}{% else %}{{ item.url }}{% endif %}' class='box-wrapper'>
   <div class='gallery-box' style='background-image: url(/images/gallery/{{ item.code }}/{{ item.preview }})'>
     <div class='gallery-title'>{{ item.title }}</div><div class='gallery-date'>{{ item.date | date: "%Y.%m.%d." }}</div>

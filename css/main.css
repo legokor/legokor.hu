@@ -340,13 +340,15 @@ code {
   grid-template-columns: calc(100%/3) calc(100%/3) calc(100%/3);
 }
 
-.proj-members #leader-holder .member-projects {
+/* projekt oldalon a vezetó role-jainak elrejtése már nem kell, máshogy van megoldva */
+/* .proj-members #leader-holder .member-projects {
   display: none;
-}
+} */
 
-.proj-members .members-holder h2, .proj-members .members-holder .member-projects {
+/* projekt oldalon a tagok role-jainak elrejtése már nem kell, máshogy van megoldva */
+/*.proj-members .members-holder h2, .proj-members .members-holder .member-projects {
   display: none;
-}
+} */
 
 .member-image {
   width: 100%;
@@ -389,7 +391,7 @@ code {
   text-align: center;
 }
 
-#article-block .member-image > .member-projects, .member-image > .member-projects, .proj-members #leader-holder h2 {
+#article-block .member-image > .member-projects, .member-image > .member-projects/*, .proj-members #leader-holder h2*/ {
   color: #999;
   font-size: 14px;
   line-height: 1.15em;

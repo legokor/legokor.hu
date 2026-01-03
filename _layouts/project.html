@@ -57,11 +57,19 @@ layout: default-wide
 
         <div class='members-holder'>
         {% for member in members %}
-	{% if member.username != page.leader %}
+            {% if member.username == page.leader or member.roles contains "Újonc" %}
+                {% continue %}
+            {% endif %}
             <a href='{{ member.url }}' class='box-wrapper'>
-              {% include member.html username=member.username projects=true %}
+              {% include member.html username=member.username projects=false %}
             </a>
-        {% endif %}
+        {% endfor %}
+        {% for member in members %}
+	        {% if member.roles contains "Újonc" %}
+            <a href='{{ member.url }}' class='box-wrapper'>
+                {% include member.html username=member.username projects=false %}
+            </a>
+            {% endif %}
         {% endfor %}
         </div>
     </div>

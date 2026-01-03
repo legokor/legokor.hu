@@ -2,7 +2,7 @@
 title: UPRA MATeF-4 Felbocsátás
 layout: post
 author: goczan-bence
-image: https://github.com/legokor/legokor.hu/blob/master/images/posts/matef-4_cikk/matef4_small.jpg?raw=true
+image: /images/posts/matef-4_cikk/matef4_small.jpg
 excerpt: Az UPRA csapat az őszi félév során végrehajtotta a MATeF sorozat utolsó repülését, melynek egyik célja a távérzékelési repülések előkészítése volt.
 ---
 

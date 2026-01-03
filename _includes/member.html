@@ -7,15 +7,22 @@
   {% endif %}
   <img src='{{ image }}'>
   <h1>{{ member.name }}</h1>
+  {% if include.projects == false %}
+  <h2>{% include member-roles.html username=member.username roleonly=true %}</h2>
+  {% else %}
   <h2>{% include member-roles.html username=member.username %}</h2>
 
   {% assign memberprojects = '' %}
   {% for project in site.projects %}
   	{% if project.members contains member.username or project.leader == member.username %}
+      {% if project.status != 'active' %}
+        {% continue %}
+      {% endif %}
       {% capture memberprojects %}{{ memberprojects | append: project.title | append: '|' }}{% endcapture %}
     {% endif %}
   {% endfor %}
   <p class="member-projects">{{ memberprojects | split: '|' | join: ', ' }}</p>
+  {% endif %}
 </div>
 {% endif %}
 {% endfor %}

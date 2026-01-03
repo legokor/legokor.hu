@@ -2,7 +2,7 @@
 title: UPRA - Fly With Us - Űrtábor (FWU-1)
 layout: post
 author: goczan-bence
-image: https://github.com/legokor/legokor.hu/blob/master/images/posts/FWU-1_cikk/urtabor_sujhely_aero.jpg?raw=true
+image: /images/posts/FWU-1_cikk/urtabor_sujhely_aero.jpg
 excerpt: Az UPRA csapat idén nyáron felkérést kapott, hogy a MANT Űrtábor keretében indítson egy ballont a táborozók bevonásával.
 ---
 
