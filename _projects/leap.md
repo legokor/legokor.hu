@@ -5,11 +5,11 @@ logo: leapmotion.svg
 preview: leap\_motion.png
 status: active
 introduction: A projekt célja minél több területen bevetni a kézfelismeréses vezérlést.
-leader: czegledi-krisztian
+leader: kercza-robert
 members:
-    - karpat-anna-maria
     - dorogi-dome
-    - kercza-robert
+    - czegledi-krisztian
+    - harsanyi-levente
 ---
 
 A projekt elsősorban a névadó eszköz (Leap Motion Controller) megismerését, és határainak feltérképezését tűzte ki célul. Az eszköz önmagában mindössze 3 db infra-LED-ből, és az ezek által bevilágított karokat vagy pálca jellegű “tool”-okat észlelő két infrakamerából épül fel, semmilyen feldolgozást nem végez, kizárólag rögzít.

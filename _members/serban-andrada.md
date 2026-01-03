@@ -3,7 +3,8 @@ layout: user
 name: Serban Andrada
 username: serban-andrada
 roles:
-    - Körvezető
+    - Tag
+    - Volt körvezető
 contact:
     email: serban.andrada.alexia@simonyi.bme.hu
     phone: '+36 70 260 5678'

@@ -10,6 +10,7 @@ members:
     - dorogi-dome
     - fiak-adam
     - kovacs-mate
+    - farkas-adam
 ---
 
 A LEGO Lab fejlesztései közé tartozik egy saját tervezésű 3D nyomtató, amit a kör egyéni céljaira, vagy házon belüli megrendelésre tudunk használni. A 3D nyomtatás megismerése együtt jár a megrendelések tervezésével és személyre szabásával, nyomtatásával, illetve a nyomtató karbantartásával.

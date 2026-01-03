@@ -7,5 +7,4 @@ roles:
     - Öregtag
 contact:
     email: moricz.tamas@simonyi.bme.hu
-    phone: '+36 70 255 3763'
 ---

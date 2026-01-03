@@ -7,6 +7,5 @@ roles:
     - Öregtag
 contact:
     email: komaromi.sandor@simonyi.bme.hu
-    phone: '+36 20 489 6211'
 image: /images/members/KomaromiSandor.jpg
 ---

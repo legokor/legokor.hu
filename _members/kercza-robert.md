@@ -2,4 +2,6 @@
 layout: user
 name: Kercza Róbert
 username: kercza-robert
+roles:
+    - Tag
 ---

@@ -9,6 +9,7 @@ leader: kiovics-daniel
 members:
     - serban-andrada
     - molnar-attila-bendeguz
+    - fiak-adam
 ---
 
 A projekt a Tanfolyamrobotok karbantartásával, fejlesztésével, és a robotika tanfolyam anyagának és feladatainak kidolgozásával foglalkozik. A robotok központi eleme egy STM32 mikrovezérlő, ami egy saját fejlesztéső alaplapon helyezkedik el.

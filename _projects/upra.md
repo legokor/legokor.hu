@@ -3,7 +3,7 @@ layout: project
 title: UPRA – Magaslégköri Ballon
 logo: upra.svg
 preview: upra_logo.png
-status: inactive
+status: archived
 introduction: Könnyen konfigurálható általános magaslégköri ballonplatform fejlesztése kis méretű tudományos küldetésekhez.
 leader: goczan-bence
 members:

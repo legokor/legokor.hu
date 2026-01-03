@@ -7,6 +7,5 @@ roles:
     - Öregtag
 contact:
     email: zsiga.tibor@simonyi.bme.hu
-    phone: '+36 30 625 8089'
 image: /images/members/ZsigaTibor.jpg
 ---
