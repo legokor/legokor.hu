@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Puskás Timea
 name: Puskás Timea
 username: puskas-timea
 roles:

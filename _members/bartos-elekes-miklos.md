@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Bartos-Elekes Miklós
 name: Bartos-Elekes Miklós
 username: bartos-elekes-miklos
 roles:

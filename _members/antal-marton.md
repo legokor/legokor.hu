@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Antal Márton
 name: Antal Márton
 username: antal-marton
 roles:

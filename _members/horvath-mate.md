@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Horváth Máté
 name: Horváth Máté
 username: horvath-mate
 roles:

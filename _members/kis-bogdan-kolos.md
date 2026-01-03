@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Kis-Bogdán Kolos
 name: Kis-Bogdán Kolos
 username: kis-bogdan-kolos
 roles:

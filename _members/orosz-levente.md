@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Orosz Levente
 name: Orosz Levente
 username: orosz-levente
 roles:

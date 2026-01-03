@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Komáromi Sándor
 name: Komáromi Sándor
 username: komaromi-sandor
 roles:

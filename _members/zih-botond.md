@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Zih Botond
 name: Zih Botond
 username: zih-botond
 roles:

@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Serban Andrada
 name: Serban Andrada
 username: serban-andrada
 roles:

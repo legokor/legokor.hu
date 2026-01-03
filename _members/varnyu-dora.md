@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Varnyú Dóra
 name: Varnyú Dóra
 username: varnyu-dora
 roles:

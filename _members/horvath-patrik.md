@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Horváth Patrik
 name: Horváth Patrik
 username: horvath-patrik
 roles:

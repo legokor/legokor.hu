@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Juhász Előd Illés
 name: Juhász Előd Illés
 username: juhasz-elod-illes
 roles:

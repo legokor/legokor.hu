@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Gaspari Balázs
 name: Gaspari Balázs
 username: gaspari-balazs
 roles:

@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Mező Nikolett
 name: Mező Nikolett
 username: mezo-nikolett
 roles:

@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Csőke Máté
 name: Csőke Máté
 username: csoke-mate
 roles:

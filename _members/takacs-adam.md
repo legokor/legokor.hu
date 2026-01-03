@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Takács Ádám
 name: Takács Ádám
 username: takacs-adam
 roles:

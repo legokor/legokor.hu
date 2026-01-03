@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Solymos Balázs
 name: Solymos Balázs
 username: solymos-balazs
 roles:

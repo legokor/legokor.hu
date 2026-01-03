@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Sgánetz Bence
 name: Sgánetz Bence
 username: sganetz-bence
 roles:

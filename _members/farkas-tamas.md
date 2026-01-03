@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Farkas Tamás
 name: Farkas Tamás
 username: farkas-tamas
 roles:

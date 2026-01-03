@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Nagy Attila
 name: Nagy Attila
 username: nagy-attila
 roles:

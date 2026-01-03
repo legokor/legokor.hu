@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Móricz Tamás
 name: Móricz Tamás
 username: moricz-tamas
 roles:

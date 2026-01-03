@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Berke Márton
 name: Berke Márton
 username: berke-marton
 roles:

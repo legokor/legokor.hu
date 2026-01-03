@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Bognár Zsolt
 name: Bognár Zsolt
 username: bognar-zsolt
 roles:

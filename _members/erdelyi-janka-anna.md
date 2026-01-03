@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Erdélyi Janka Anna
 name: Erdélyi Janka Anna
 username: erdelyi-janka-anna
 roles:

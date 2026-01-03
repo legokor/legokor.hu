@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Gyulai László
 name: Gyulai László
 username: gyulai-laszlo
 roles:

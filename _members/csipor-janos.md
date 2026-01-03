@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Csipor János
 name: Csipor János
 username: csipor-janos
 roles:

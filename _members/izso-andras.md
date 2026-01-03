@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Izsó András
 name: Izsó András
 username: izso-andras
 roles:

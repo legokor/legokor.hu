@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Domonkos Ádám
 name: Domonkos Ádám
 username: domonkos-adam
 roles:

@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Farkas Ádám
 name: Farkas Ádám
 username: farkas-adam
 roles:

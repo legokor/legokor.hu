@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Czeglédi Krisztián
 name: Czeglédi Krisztián
 username: czegledi-krisztian
 roles:

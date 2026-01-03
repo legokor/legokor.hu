@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Fiák Ádám
 name: Fiák Ádám
 username: fiak-adam
 roles:

@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Zsiga Tibor
 name: Zsiga Tibor
 username: zsiga-tibor
 roles:

@@ -1,5 +1,6 @@
 ---
 layout: user
+title: Csonka Tamás
 name: Csonka Tamás
 username: csonka-tamas
 roles:
