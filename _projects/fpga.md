@@ -3,7 +3,7 @@ layout: project
 title: FPGA Projekt
 logo: fpga.svg
 preview: fpga\_bg.jpg
-status: active
+status: inactive
 introduction: Nagysebességű digitális áramkörök fejlesztése.
 leader: fiak-adam
 members:
