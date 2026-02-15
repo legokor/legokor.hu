@@ -11,6 +11,8 @@ layout: default
 
 Idén tavasszal három tanfolyamot indítunk. A hagyományos robotika tanfolyamunk mellett, egy MI témájú és egy Unity alapozó tanfolyammal is készültünk nektek!
 
+> Jelentkezni [ezen](https://docs.google.com/forms/d/e/1FAIpQLSew-LPFL3_VvVAZBm5rIuXIq12N8OkN32GXBJC6QtsHmJ7PaA/viewform?usp=header) az űrlapon tudsz mindhárom tanfolyamra.
+
 Ha bármi egyéb kérdésed merülne fel, [tanfolyamfelelősünknek](mailto:gaspari.balazs@simonyi.bme.hu) közvetlenül is felteheted azokat.
 
 ## Robotika tanfolyam
