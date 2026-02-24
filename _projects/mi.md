@@ -10,7 +10,6 @@ members:
     - honved-peter
     - kovacs-daniel
     - farkas-adam
-    - bacskai-kristof
     - goldschmidt-oliver
     - varga-vilmos
     - pokol-emese
